@@ -12,7 +12,14 @@
     "nodemon": "^1.12.0"
   },
   "dependencies": {
+    "body-parser": "^1.18.0",
+    "csv-parser": "^1.11.0",
+    "csvjson": "^4.3.4",
+    "csvtojson": "^1.1.7",
     "express": "^4.15.4",
-    "mongoose": "^4.11.10"
+    "fs": "0.0.1-security",
+    "mongoose": "^4.11.10",
+    "path": "^0.12.7",
+    "prettyjson": "^1.2.1"
   }
 }
