@@ -1,15 +1,16 @@
 var express = require('express');
 var path = require('path');
+var app = express();
 var bodyParser = require('body-parser');
 var metrics = require('./api/controllers/metricsController');
 
-var app = express();
 var port = process.env.PORT || 3000;
 app.set('json spaces', 2);
 
 // Set app to make use of body parser for JSON or form-urlencoded
-app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.json());
+
 
 // Static data file setup
 app.use('*/data', express.static('data'));

@@ -1,0 +1,210 @@
+[
+ {
+   "state": "AK",
+   "immunization_rate": 31.8
+ },
+ {
+   "state": "AL",
+   "immunization_rate": 42.7
+ },
+ {
+   "state": "AR",
+   "immunization_rate": 52.99
+ },
+ {
+   "state": "AZ",
+   "immunization_rate": 54.49
+ },
+ {
+   "state": "CA",
+   "immunization_rate": 56.04
+ },
+ {
+   "state": "CO",
+   "immunization_rate": 58.87
+ },
+ {
+   "state": "CT",
+   "immunization_rate": 58.96
+ },
+ {
+   "state": "DC",
+   "immunization_rate": 61.76
+ },
+ {
+   "state": "DE",
+   "immunization_rate": 62.32
+ },
+ {
+   "state": "FL",
+   "immunization_rate": 62.94
+ },
+ {
+   "state": "GA",
+   "immunization_rate": 63.36
+ },
+ {
+   "state": "HI",
+   "immunization_rate": 64.27
+ },
+ {
+   "state": "IA",
+   "immunization_rate": 64.99
+ },
+ {
+   "state": "ID",
+   "immunization_rate": 66.74
+ },
+ {
+   "state": "IL",
+   "immunization_rate": 67.81
+ },
+ {
+   "state": "IN",
+   "immunization_rate": 68.63
+ },
+ {
+   "state": "KS",
+   "immunization_rate": 70.55
+ },
+ {
+   "state": "KY",
+   "immunization_rate": 70.65
+ },
+ {
+   "state": "LA",
+   "immunization_rate": 71.6
+ },
+ {
+   "state": "MA",
+   "immunization_rate": 71.61
+ },
+ {
+   "state": "MD",
+   "immunization_rate": 72.18
+ },
+ {
+   "state": "ME",
+   "immunization_rate": 72.59
+ },
+ {
+   "state": "MI",
+   "immunization_rate": 72.67
+ },
+ {
+   "state": "MN",
+   "immunization_rate": 72.95
+ },
+ {
+   "state": "MO",
+   "immunization_rate": 73.59
+ },
+ {
+   "state": "MS",
+   "immunization_rate": 73.78
+ },
+ {
+   "state": "MT",
+   "immunization_rate": 74.22
+ },
+ {
+   "state": "NC",
+   "immunization_rate": 75
+ },
+ {
+   "state": "ND",
+   "immunization_rate": 75.63
+ },
+ {
+   "state": "NE",
+   "immunization_rate": 76.48
+ },
+ {
+   "state": "NH",
+   "immunization_rate": 77.29
+ },
+ {
+   "state": "NJ",
+   "immunization_rate": 77.57
+ },
+ {
+   "state": "NM",
+   "immunization_rate": 79.07
+ },
+ {
+   "state": "NV",
+   "immunization_rate": 80.32
+ },
+ {
+   "state": "NY",
+   "immunization_rate": 81.11
+ },
+ {
+   "state": "OH",
+   "immunization_rate": 81.49
+ },
+ {
+   "state": "OK",
+   "immunization_rate": 81.99
+ },
+ {
+   "state": "OR",
+   "immunization_rate": 82.28
+ },
+ {
+   "state": "PA",
+   "immunization_rate": 83.15
+ },
+ {
+   "state": "PR",
+   "immunization_rate": 83.87
+ },
+ {
+   "state": "RI",
+   "immunization_rate": 83.99
+ },
+ {
+   "state": "SC",
+   "immunization_rate": 84.6
+ },
+ {
+   "state": "SD",
+   "immunization_rate": 85.71
+ },
+ {
+   "state": "TN",
+   "immunization_rate": 85.79
+ },
+ {
+   "state": "TX",
+   "immunization_rate": 87.16
+ },
+ {
+   "state": "UT",
+   "immunization_rate": 88.06
+ },
+ {
+   "state": "VA",
+   "immunization_rate": 88.61
+ },
+ {
+   "state": "VT",
+   "immunization_rate": 88.68
+ },
+ {
+   "state": "WA",
+   "immunization_rate": 89.23
+ },
+ {
+   "state": "WI",
+   "immunization_rate": 90.1
+ },
+ {
+   "state": "WV",
+   "immunization_rate": 91.79
+ },
+ {
+   "state": "WY",
+   "immunization_rate": 95.23
+ }
+]

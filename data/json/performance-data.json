@@ -1,0 +1,11822 @@
+[
+ {
+   "zip_code": 74104,
+   "performance_score": 98.18181818
+ },
+ {
+   "zip_code": 2115,
+   "performance_score": 95.45454545
+ },
+ {
+   "zip_code": 1842,
+   "performance_score": 94.54545455
+ },
+ {
+   "zip_code": 2124,
+   "performance_score": 93.63636364
+ },
+ {
+   "zip_code": 49519,
+   "performance_score": 92.72727273
+ },
+ {
+   "zip_code": 2302,
+   "performance_score": 92.27272727
+ },
+ {
+   "zip_code": 49770,
+   "performance_score": 91.36363636
+ },
+ {
+   "zip_code": 4769,
+   "performance_score": 90.45454545
+ },
+ {
+   "zip_code": 4743,
+   "performance_score": 89.33333333
+ },
+ {
+   "zip_code": 4102,
+   "performance_score": 88.63636364
+ },
+ {
+   "zip_code": 49442,
+   "performance_score": 86.81818182
+ },
+ {
+   "zip_code": 49601,
+   "performance_score": 85
+ },
+ {
+   "zip_code": 48382,
+   "performance_score": 84.54545455
+ },
+ {
+   "zip_code": 48708,
+   "performance_score": 84.54545455
+ },
+ {
+   "zip_code": 49093,
+   "performance_score": 84.09090909
+ },
+ {
+   "zip_code": 48154,
+   "performance_score": 82.72727273
+ },
+ {
+   "zip_code": 48764,
+   "performance_score": 82.72727273
+ },
+ {
+   "zip_code": 2780,
+   "performance_score": 82.33333333
+ },
+ {
+   "zip_code": 1854,
+   "performance_score": 82.27272727
+ },
+ {
+   "zip_code": 1805,
+   "performance_score": 81.36363636
+ },
+ {
+   "zip_code": 48532,
+   "performance_score": 80.90909091
+ },
+ {
+   "zip_code": 48910,
+   "performance_score": 80.90909091
+ },
+ {
+   "zip_code": 48336,
+   "performance_score": 80.90909091
+ },
+ {
+   "zip_code": 56187,
+   "performance_score": 80.45454545
+ },
+ {
+   "zip_code": 55350,
+   "performance_score": 79.54545455
+ },
+ {
+   "zip_code": 55313,
+   "performance_score": 79.09090909
+ },
+ {
+   "zip_code": 39744,
+   "performance_score": 79.09090909
+ },
+ {
+   "zip_code": 55008,
+   "performance_score": 78.18181818
+ },
+ {
+   "zip_code": 55102,
+   "performance_score": 78.18181818
+ },
+ {
+   "zip_code": 55337,
+   "performance_score": 77.27272727
+ },
+ {
+   "zip_code": 63501,
+   "performance_score": 76.66666667
+ },
+ {
+   "zip_code": 63301,
+   "performance_score": 76.36363636
+ },
+ {
+   "zip_code": 64804,
+   "performance_score": 76.36363636
+ },
+ {
+   "zip_code": 63118,
+   "performance_score": 75.90909091
+ },
+ {
+   "zip_code": 64804,
+   "performance_score": 75.45454545
+ },
+ {
+   "zip_code": 65536,
+   "performance_score": 74.54545455
+ },
+ {
+   "zip_code": 39301,
+   "performance_score": 74.54545455
+ },
+ {
+   "zip_code": 39402,
+   "performance_score": 74.54545455
+ },
+ {
+   "zip_code": 39530,
+   "performance_score": 74.09090909
+ },
+ {
+   "zip_code": 39773,
+   "performance_score": 74.09090909
+ },
+ {
+   "zip_code": 68114,
+   "performance_score": 73.18181818
+ },
+ {
+   "zip_code": 63019,
+   "performance_score": 71.36363636
+ },
+ {
+   "zip_code": 59405,
+   "performance_score": 71.36363636
+ },
+ {
+   "zip_code": 89703,
+   "performance_score": 71.25
+ },
+ {
+   "zip_code": 89801,
+   "performance_score": 70.90909091
+ },
+ {
+   "zip_code": 89052,
+   "performance_score": 70.90909091
+ },
+ {
+   "zip_code": 64468,
+   "performance_score": 70.77777778
+ },
+ {
+   "zip_code": 57701,
+   "performance_score": 70.72916667
+ },
+ {
+   "zip_code": 2905,
+   "performance_score": 70.45454545
+ },
+ {
+   "zip_code": 2895,
+   "performance_score": 70.35
+ },
+ {
+   "zip_code": 29925,
+   "performance_score": 69.6875
+ },
+ {
+   "zip_code": 29641,
+   "performance_score": 69.54545455
+ },
+ {
+   "zip_code": 29169,
+   "performance_score": 69.54545455
+ },
+ {
+   "zip_code": 29730,
+   "performance_score": 69.54545455
+ },
+ {
+   "zip_code": 75961,
+   "performance_score": 69.54545455
+ },
+ {
+   "zip_code": 16214,
+   "performance_score": 69.54545455
+ },
+ {
+   "zip_code": 15666,
+   "performance_score": 68.75
+ },
+ {
+   "zip_code": 19140,
+   "performance_score": 68.63636364
+ },
+ {
+   "zip_code": 17403,
+   "performance_score": 68.18181818
+ },
+ {
+   "zip_code": 18510,
+   "performance_score": 68.18181818
+ },
+ {
+   "zip_code": 18951,
+   "performance_score": 67.83333333
+ },
+ {
+   "zip_code": 15212,
+   "performance_score": 67.72727273
+ },
+ {
+   "zip_code": 17105,
+   "performance_score": 67.72727273
+ },
+ {
+   "zip_code": 19611,
+   "performance_score": 67.72727273
+ },
+ {
+   "zip_code": 15065,
+   "performance_score": 66.875
+ },
+ {
+   "zip_code": 17901,
+   "performance_score": 66.66666667
+ },
+ {
+   "zip_code": 18301,
+   "performance_score": 66.5625
+ },
+ {
+   "zip_code": 18042,
+   "performance_score": 66.55555556
+ },
+ {
+   "zip_code": 18603,
+   "performance_score": 66.36363636
+ },
+ {
+   "zip_code": 17042,
+   "performance_score": 66.36363636
+ },
+ {
+   "zip_code": 16830,
+   "performance_score": 66.36363636
+ },
+ {
+   "zip_code": 19023,
+   "performance_score": 66
+ },
+ {
+   "zip_code": 18105,
+   "performance_score": 65.9375
+ },
+ {
+   "zip_code": 97321,
+   "performance_score": 65.90909091
+ },
+ {
+   "zip_code": 97701,
+   "performance_score": 65.625
+ },
+ {
+   "zip_code": 18431,
+   "performance_score": 65.45454545
+ },
+ {
+   "zip_code": 15317,
+   "performance_score": 65.11111111
+ },
+ {
+   "zip_code": 19010,
+   "performance_score": 65
+ },
+ {
+   "zip_code": 18901,
+   "performance_score": 65
+ },
+ {
+   "zip_code": 73112,
+   "performance_score": 64.89583333
+ },
+ {
+   "zip_code": 74571,
+   "performance_score": 64.71666667
+ },
+ {
+   "zip_code": 73109,
+   "performance_score": 64.6875
+ },
+ {
+   "zip_code": 74801,
+   "performance_score": 64.54545455
+ },
+ {
+   "zip_code": 73401,
+   "performance_score": 64.54545455
+ },
+ {
+   "zip_code": 97470,
+   "performance_score": 64.33333333
+ },
+ {
+   "zip_code": 97520,
+   "performance_score": 64.26666667
+ },
+ {
+   "zip_code": 97239,
+   "performance_score": 64.09090909
+ },
+ {
+   "zip_code": 44084,
+   "performance_score": 63.83333333
+ },
+ {
+   "zip_code": 44811,
+   "performance_score": 63.63636364
+ },
+ {
+   "zip_code": 74017,
+   "performance_score": 63.63636364
+ },
+ {
+   "zip_code": 73075,
+   "performance_score": 63.63636364
+ },
+ {
+   "zip_code": 74601,
+   "performance_score": 63.22916667
+ },
+ {
+   "zip_code": 45750,
+   "performance_score": 63.18181818
+ },
+ {
+   "zip_code": 45405,
+   "performance_score": 63.16666667
+ },
+ {
+   "zip_code": 44708,
+   "performance_score": 63.125
+ },
+ {
+   "zip_code": 44857,
+   "performance_score": 63.11111111
+ },
+ {
+   "zip_code": 43055,
+   "performance_score": 62.91666667
+ },
+ {
+   "zip_code": 44122,
+   "performance_score": 62.72727273
+ },
+ {
+   "zip_code": 44146,
+   "performance_score": 62.66666667
+ },
+ {
+   "zip_code": 58104,
+   "performance_score": 62.5
+ },
+ {
+   "zip_code": 44460,
+   "performance_score": 62.27272727
+ },
+ {
+   "zip_code": 43920,
+   "performance_score": 61.5
+ },
+ {
+   "zip_code": 43113,
+   "performance_score": 61.36363636
+ },
+ {
+   "zip_code": 45242,
+   "performance_score": 61.36363636
+ },
+ {
+   "zip_code": 44035,
+   "performance_score": 61.25
+ },
+ {
+   "zip_code": 45631,
+   "performance_score": 61.25
+ },
+ {
+   "zip_code": 28086,
+   "performance_score": 61.25
+ },
+ {
+   "zip_code": 27203,
+   "performance_score": 61
+ },
+ {
+   "zip_code": 27577,
+   "performance_score": 60.90909091
+ },
+ {
+   "zip_code": 27886,
+   "performance_score": 60.90909091
+ },
+ {
+   "zip_code": 28645,
+   "performance_score": 60.90909091
+ },
+ {
+   "zip_code": 28001,
+   "performance_score": 60.90909091
+ },
+ {
+   "zip_code": 58701,
+   "performance_score": 60.90909091
+ },
+ {
+   "zip_code": 11212,
+   "performance_score": 60.66666667
+ },
+ {
+   "zip_code": 12983,
+   "performance_score": 60.58333333
+ },
+ {
+   "zip_code": 27870,
+   "performance_score": 60.5
+ },
+ {
+   "zip_code": 14642,
+   "performance_score": 60.45454545
+ },
+ {
+   "zip_code": 10601,
+   "performance_score": 60.41666667
+ },
+ {
+   "zip_code": 14217,
+   "performance_score": 60.3125
+ },
+ {
+   "zip_code": 11901,
+   "performance_score": 60.3125
+ },
+ {
+   "zip_code": 10467,
+   "performance_score": 60.3125
+ },
+ {
+   "zip_code": 11968,
+   "performance_score": 60.3125
+ },
+ {
+   "zip_code": 14424,
+   "performance_score": 60.25
+ },
+ {
+   "zip_code": 11714,
+   "performance_score": 60
+ },
+ {
+   "zip_code": 12043,
+   "performance_score": 60
+ },
+ {
+   "zip_code": 14850,
+   "performance_score": 60
+ },
+ {
+   "zip_code": 11794,
+   "performance_score": 60
+ },
+ {
+   "zip_code": 14220,
+   "performance_score": 60
+ },
+ {
+   "zip_code": 13421,
+   "performance_score": 59.6875
+ },
+ {
+   "zip_code": 14843,
+   "performance_score": 59.6875
+ },
+ {
+   "zip_code": 12208,
+   "performance_score": 59.54545455
+ },
+ {
+   "zip_code": 7302,
+   "performance_score": 59.5
+ },
+ {
+   "zip_code": 7450,
+   "performance_score": 59.33333333
+ },
+ {
+   "zip_code": 8822,
+   "performance_score": 59.09090909
+ },
+ {
+   "zip_code": 88310,
+   "performance_score": 59.09090909
+ },
+ {
+   "zip_code": 88061,
+   "performance_score": 59
+ },
+ {
+   "zip_code": 13501,
+   "performance_score": 59
+ },
+ {
+   "zip_code": 10802,
+   "performance_score": 58.83333333
+ },
+ {
+   "zip_code": 3060,
+   "performance_score": 58.75
+ },
+ {
+   "zip_code": 3038,
+   "performance_score": 58.66666667
+ },
+ {
+   "zip_code": 8084,
+   "performance_score": 58.66666667
+ },
+ {
+   "zip_code": 8901,
+   "performance_score": 58.58333333
+ },
+ {
+   "zip_code": 8865,
+   "performance_score": 58.4375
+ },
+ {
+   "zip_code": 7112,
+   "performance_score": 58.41666667
+ },
+ {
+   "zip_code": 8876,
+   "performance_score": 58.41666667
+ },
+ {
+   "zip_code": 38485,
+   "performance_score": 58.41666667
+ },
+ {
+   "zip_code": 38501,
+   "performance_score": 58.18181818
+ },
+ {
+   "zip_code": 38019,
+   "performance_score": 58.16666667
+ },
+ {
+   "zip_code": 38305,
+   "performance_score": 58.125
+ },
+ {
+   "zip_code": 37917,
+   "performance_score": 58.11111111
+ },
+ {
+   "zip_code": 37916,
+   "performance_score": 58.08333333
+ },
+ {
+   "zip_code": 38242,
+   "performance_score": 58.08333333
+ },
+ {
+   "zip_code": 57701,
+   "performance_score": 58
+ },
+ {
+   "zip_code": 37160,
+   "performance_score": 58
+ },
+ {
+   "zip_code": 38555,
+   "performance_score": 57.83333333
+ },
+ {
+   "zip_code": 37129,
+   "performance_score": 57.8125
+ },
+ {
+   "zip_code": 37075,
+   "performance_score": 57.72727273
+ },
+ {
+   "zip_code": 37040,
+   "performance_score": 57.68333333
+ },
+ {
+   "zip_code": 38478,
+   "performance_score": 57.66666667
+ },
+ {
+   "zip_code": 77090,
+   "performance_score": 57.65
+ },
+ {
+   "zip_code": 77070,
+   "performance_score": 57.58333333
+ },
+ {
+   "zip_code": 76210,
+   "performance_score": 57.41666667
+ },
+ {
+   "zip_code": 77090,
+   "performance_score": 57.29166667
+ },
+ {
+   "zip_code": 75142,
+   "performance_score": 57.27272727
+ },
+ {
+   "zip_code": 76012,
+   "performance_score": 57.27272727
+ },
+ {
+   "zip_code": 75091,
+   "performance_score": 57.22222222
+ },
+ {
+   "zip_code": 77058,
+   "performance_score": 57.1875
+ },
+ {
+   "zip_code": 77702,
+   "performance_score": 56.88888889
+ },
+ {
+   "zip_code": 24301,
+   "performance_score": 56.875
+ },
+ {
+   "zip_code": 75226,
+   "performance_score": 56.875
+ },
+ {
+   "zip_code": 75246,
+   "performance_score": 56.81818182
+ },
+ {
+   "zip_code": 77504,
+   "performance_score": 56.81818182
+ },
+ {
+   "zip_code": 76104,
+   "performance_score": 56.5625
+ },
+ {
+   "zip_code": 5301,
+   "performance_score": 56.5625
+ },
+ {
+   "zip_code": 23851,
+   "performance_score": 56.5625
+ },
+ {
+   "zip_code": 23226,
+   "performance_score": 56.5
+ },
+ {
+   "zip_code": 23320,
+   "performance_score": 56.41666667
+ },
+ {
+   "zip_code": 23116,
+   "performance_score": 56.41666667
+ },
+ {
+   "zip_code": 24153,
+   "performance_score": 56.36363636
+ },
+ {
+   "zip_code": 23456,
+   "performance_score": 56.36363636
+ },
+ {
+   "zip_code": 24701,
+   "performance_score": 56.33333333
+ },
+ {
+   "zip_code": 53547,
+   "performance_score": 56.25
+ },
+ {
+   "zip_code": 77338,
+   "performance_score": 56.25
+ },
+ {
+   "zip_code": 84501,
+   "performance_score": 56.16666667
+ },
+ {
+   "zip_code": 84010,
+   "performance_score": 56.16666667
+ },
+ {
+   "zip_code": 5641,
+   "performance_score": 56.08333333
+ },
+ {
+   "zip_code": 98104,
+   "performance_score": 55.91666667
+ },
+ {
+   "zip_code": 26506,
+   "performance_score": 55.91666667
+ },
+ {
+   "zip_code": 26003,
+   "performance_score": 55.90909091
+ },
+ {
+   "zip_code": 26062,
+   "performance_score": 55.90909091
+ },
+ {
+   "zip_code": 23413,
+   "performance_score": 55.90909091
+ },
+ {
+   "zip_code": 98506,
+   "performance_score": 55.77777778
+ },
+ {
+   "zip_code": 98003,
+   "performance_score": 55.625
+ },
+ {
+   "zip_code": 98837,
+   "performance_score": 55.45454545
+ },
+ {
+   "zip_code": 70461,
+   "performance_score": 55.45454545
+ },
+ {
+   "zip_code": 70506,
+   "performance_score": 55.41666667
+ },
+ {
+   "zip_code": 70301,
+   "performance_score": 55.33333333
+ },
+ {
+   "zip_code": 70808,
+   "performance_score": 55.3125
+ },
+ {
+   "zip_code": 71111,
+   "performance_score": 55
+ },
+ {
+   "zip_code": 71457,
+   "performance_score": 55
+ },
+ {
+   "zip_code": 71130,
+   "performance_score": 54.75
+ },
+ {
+   "zip_code": 70112,
+   "performance_score": 54.75
+ },
+ {
+   "zip_code": 71446,
+   "performance_score": 54.6875
+ },
+ {
+   "zip_code": 42101,
+   "performance_score": 54.54545455
+ },
+ {
+   "zip_code": 42701,
+   "performance_score": 54.54545455
+ },
+ {
+   "zip_code": 41017,
+   "performance_score": 54.54545455
+ },
+ {
+   "zip_code": 41240,
+   "performance_score": 54.54545455
+ },
+ {
+   "zip_code": 41701,
+   "performance_score": 54.5
+ },
+ {
+   "zip_code": 67337,
+   "performance_score": 54.47916667
+ },
+ {
+   "zip_code": 66204,
+   "performance_score": 54.41666667
+ },
+ {
+   "zip_code": 66441,
+   "performance_score": 54.41666667
+ },
+ {
+   "zip_code": 41041,
+   "performance_score": 54.41666667
+ },
+ {
+   "zip_code": 51503,
+   "performance_score": 54.4
+ },
+ {
+   "zip_code": 52242,
+   "performance_score": 54.375
+ },
+ {
+   "zip_code": 50613,
+   "performance_score": 54.375
+ },
+ {
+   "zip_code": 66071,
+   "performance_score": 54.375
+ },
+ {
+   "zip_code": 66502,
+   "performance_score": 54.375
+ },
+ {
+   "zip_code": 66215,
+   "performance_score": 54.33333333
+ },
+ {
+   "zip_code": 50702,
+   "performance_score": 54.33333333
+ },
+ {
+   "zip_code": 52627,
+   "performance_score": 54.16666667
+ },
+ {
+   "zip_code": 51401,
+   "performance_score": 54.16666667
+ },
+ {
+   "zip_code": 46016,
+   "performance_score": 54.09090909
+ },
+ {
+   "zip_code": 46383,
+   "performance_score": 54.0625
+ },
+ {
+   "zip_code": 46706,
+   "performance_score": 54
+ },
+ {
+   "zip_code": 51360,
+   "performance_score": 53.91666667
+ },
+ {
+   "zip_code": 47905,
+   "performance_score": 53.9
+ },
+ {
+   "zip_code": 46219,
+   "performance_score": 53.77777778
+ },
+ {
+   "zip_code": 46260,
+   "performance_score": 53.75
+ },
+ {
+   "zip_code": 46545,
+   "performance_score": 53.75
+ },
+ {
+   "zip_code": 60634,
+   "performance_score": 53.6
+ },
+ {
+   "zip_code": 60515,
+   "performance_score": 53.58333333
+ },
+ {
+   "zip_code": 62301,
+   "performance_score": 53.58333333
+ },
+ {
+   "zip_code": 60623,
+   "performance_score": 53.58333333
+ },
+ {
+   "zip_code": 62207,
+   "performance_score": 53.44444444
+ },
+ {
+   "zip_code": 60612,
+   "performance_score": 53.4375
+ },
+ {
+   "zip_code": 60463,
+   "performance_score": 53.41666667
+ },
+ {
+   "zip_code": 60010,
+   "performance_score": 53.41666667
+ },
+ {
+   "zip_code": 60134,
+   "performance_score": 53.25
+ },
+ {
+   "zip_code": 61801,
+   "performance_score": 53.18181818
+ },
+ {
+   "zip_code": 60402,
+   "performance_score": 53.18181818
+ },
+ {
+   "zip_code": 60613,
+   "performance_score": 53.08333333
+ },
+ {
+   "zip_code": 60115,
+   "performance_score": 53
+ },
+ {
+   "zip_code": 60621,
+   "performance_score": 53
+ },
+ {
+   "zip_code": 96813,
+   "performance_score": 52.91666667
+ },
+ {
+   "zip_code": 60453,
+   "performance_score": 52.88888889
+ },
+ {
+   "zip_code": 60304,
+   "performance_score": 52.83333333
+ },
+ {
+   "zip_code": 61761,
+   "performance_score": 52.83333333
+ },
+ {
+   "zip_code": 30401,
+   "performance_score": 52.83333333
+ },
+ {
+   "zip_code": 30742,
+   "performance_score": 52.83333333
+ },
+ {
+   "zip_code": 31201,
+   "performance_score": 52.83333333
+ },
+ {
+   "zip_code": 31069,
+   "performance_score": 52.8125
+ },
+ {
+   "zip_code": 30033,
+   "performance_score": 52.78333333
+ },
+ {
+   "zip_code": 30904,
+   "performance_score": 52.75
+ },
+ {
+   "zip_code": 30533,
+   "performance_score": 52.73333333
+ },
+ {
+   "zip_code": 31703,
+   "performance_score": 52.72727273
+ },
+ {
+   "zip_code": 30474,
+   "performance_score": 52.72727273
+ },
+ {
+   "zip_code": 30060,
+   "performance_score": 52.66666667
+ },
+ {
+   "zip_code": 32514,
+   "performance_score": 52.63333333
+ },
+ {
+   "zip_code": 33308,
+   "performance_score": 52.58333333
+ },
+ {
+   "zip_code": 33870,
+   "performance_score": 52.58333333
+ },
+ {
+   "zip_code": 34689,
+   "performance_score": 52.58333333
+ },
+ {
+   "zip_code": 32978,
+   "performance_score": 52.5
+ },
+ {
+   "zip_code": 33024,
+   "performance_score": 52.5
+ },
+ {
+   "zip_code": 32578,
+   "performance_score": 52.41666667
+ },
+ {
+   "zip_code": 33525,
+   "performance_score": 52.36666667
+ },
+ {
+   "zip_code": 32250,
+   "performance_score": 52.33333333
+ },
+ {
+   "zip_code": 32886,
+   "performance_score": 52.33333333
+ },
+ {
+   "zip_code": 33950,
+   "performance_score": 52.33333333
+ },
+ {
+   "zip_code": 32086,
+   "performance_score": 52.27272727
+ },
+ {
+   "zip_code": 33901,
+   "performance_score": 52.1875
+ },
+ {
+   "zip_code": 33470,
+   "performance_score": 52.1875
+ },
+ {
+   "zip_code": 33458,
+   "performance_score": 52.1875
+ },
+ {
+   "zip_code": 33484,
+   "performance_score": 52.1875
+ },
+ {
+   "zip_code": 80218,
+   "performance_score": 52.16666667
+ },
+ {
+   "zip_code": 6260,
+   "performance_score": 52.16666667
+ },
+ {
+   "zip_code": 6050,
+   "performance_score": 52
+ },
+ {
+   "zip_code": 6102,
+   "performance_score": 52
+ },
+ {
+   "zip_code": 6076,
+   "performance_score": 51.91666667
+ },
+ {
+   "zip_code": 6066,
+   "performance_score": 51.91666667
+ },
+ {
+   "zip_code": 6360,
+   "performance_score": 51.875
+ },
+ {
+   "zip_code": 6040,
+   "performance_score": 51.875
+ },
+ {
+   "zip_code": 19718,
+   "performance_score": 51.875
+ },
+ {
+   "zip_code": 33407,
+   "performance_score": 51.81818182
+ },
+ {
+   "zip_code": 33756,
+   "performance_score": 51.81818182
+ },
+ {
+   "zip_code": 33805,
+   "performance_score": 51.77083333
+ },
+ {
+   "zip_code": 80220,
+   "performance_score": 51.75
+ },
+ {
+   "zip_code": 80751,
+   "performance_score": 51.75
+ },
+ {
+   "zip_code": 80033,
+   "performance_score": 51.66666667
+ },
+ {
+   "zip_code": 80204,
+   "performance_score": 51.66666667
+ },
+ {
+   "zip_code": 81657,
+   "performance_score": 51.58333333
+ },
+ {
+   "zip_code": 92103,
+   "performance_score": 51.5625
+ },
+ {
+   "zip_code": 92220,
+   "performance_score": 51.5625
+ },
+ {
+   "zip_code": 92024,
+   "performance_score": 51.5625
+ },
+ {
+   "zip_code": 92307,
+   "performance_score": 51.5
+ },
+ {
+   "zip_code": 93111,
+   "performance_score": 51.44444444
+ },
+ {
+   "zip_code": 94609,
+   "performance_score": 51.41666667
+ },
+ {
+   "zip_code": 95065,
+   "performance_score": 51.36363636
+ },
+ {
+   "zip_code": 91367,
+   "performance_score": 51.36363636
+ },
+ {
+   "zip_code": 94117,
+   "performance_score": 51.35416667
+ },
+ {
+   "zip_code": 93105,
+   "performance_score": 51.33333333
+ },
+ {
+   "zip_code": 92037,
+   "performance_score": 51.33333333
+ },
+ {
+   "zip_code": 95023,
+   "performance_score": 51.33333333
+ },
+ {
+   "zip_code": 94110,
+   "performance_score": 51.33333333
+ },
+ {
+   "zip_code": 93534,
+   "performance_score": 51.25
+ },
+ {
+   "zip_code": 93637,
+   "performance_score": 51.25
+ },
+ {
+   "zip_code": 94133,
+   "performance_score": 51.25
+ },
+ {
+   "zip_code": 90242,
+   "performance_score": 51.11111111
+ },
+ {
+   "zip_code": 94109,
+   "performance_score": 51.08333333
+ },
+ {
+   "zip_code": 94062,
+   "performance_score": 50.9375
+ },
+ {
+   "zip_code": 93065,
+   "performance_score": 50.91666667
+ },
+ {
+   "zip_code": 93257,
+   "performance_score": 50.91666667
+ },
+ {
+   "zip_code": 90034,
+   "performance_score": 50.91666667
+ },
+ {
+   "zip_code": 94143,
+   "performance_score": 50.91666667
+ },
+ {
+   "zip_code": 90027,
+   "performance_score": 50.91666667
+ },
+ {
+   "zip_code": 95602,
+   "performance_score": 50.90909091
+ },
+ {
+   "zip_code": 94305,
+   "performance_score": 50.90909091
+ },
+ {
+   "zip_code": 72764,
+   "performance_score": 50.83333333
+ },
+ {
+   "zip_code": 72653,
+   "performance_score": 50.75
+ },
+ {
+   "zip_code": 72117,
+   "performance_score": 50.75
+ },
+ {
+   "zip_code": 72160,
+   "performance_score": 50.66666667
+ },
+ {
+   "zip_code": 90048,
+   "performance_score": 50.625
+ },
+ {
+   "zip_code": 95020,
+   "performance_score": 50.625
+ },
+ {
+   "zip_code": 95823,
+   "performance_score": 50.625
+ },
+ {
+   "zip_code": 92543,
+   "performance_score": 50.6
+ },
+ {
+   "zip_code": 91801,
+   "performance_score": 50.58333333
+ },
+ {
+   "zip_code": 85541,
+   "performance_score": 50.58333333
+ },
+ {
+   "zip_code": 85724,
+   "performance_score": 50.55555556
+ },
+ {
+   "zip_code": 71754,
+   "performance_score": 50.5
+ },
+ {
+   "zip_code": 72205,
+   "performance_score": 50.5
+ },
+ {
+   "zip_code": 72335,
+   "performance_score": 50.45454545
+ },
+ {
+   "zip_code": 36420,
+   "performance_score": 50.45454545
+ },
+ {
+   "zip_code": 36608,
+   "performance_score": 50.45454545
+ },
+ {
+   "zip_code": 35601,
+   "performance_score": 50.45454545
+ },
+ {
+   "zip_code": 99508,
+   "performance_score": 50.41666667
+ },
+ {
+   "zip_code": 92503,
+   "performance_score": 50.41666667
+ },
+ {
+   "zip_code": 8318,
+   "performance_score": 50.41666667
+ },
+ {
+   "zip_code": 53578,
+   "performance_score": 50.3125
+ },
+ {
+   "zip_code": 85234,
+   "performance_score": 50.3125
+ },
+ {
+   "zip_code": 85258,
+   "performance_score": 50.3125
+ },
+ {
+   "zip_code": 78664,
+   "performance_score": 50.3125
+ },
+ {
+   "zip_code": 83404,
+   "performance_score": 50.25
+ },
+ {
+   "zip_code": 32935,
+   "performance_score": 50.25
+ },
+ {
+   "zip_code": 80026,
+   "performance_score": 50.25
+ },
+ {
+   "zip_code": 70810,
+   "performance_score": 50.16666667
+ },
+ {
+   "zip_code": 91733,
+   "performance_score": 50.16666667
+ },
+ {
+   "zip_code": 85755,
+   "performance_score": 50.08333333
+ },
+ {
+   "zip_code": 54720,
+   "performance_score": 50.08333333
+ },
+ {
+   "zip_code": 54313,
+   "performance_score": 50
+ },
+ {
+   "zip_code": 53227,
+   "performance_score": 50
+ },
+ {
+   "zip_code": 53215,
+   "performance_score": 50
+ },
+ {
+   "zip_code": 54143,
+   "performance_score": 50
+ },
+ {
+   "zip_code": 53215,
+   "performance_score": 50
+ },
+ {
+   "zip_code": 54911,
+   "performance_score": 50
+ },
+ {
+   "zip_code": 54904,
+   "performance_score": 50
+ },
+ {
+   "zip_code": 77478,
+   "performance_score": 50
+ },
+ {
+   "zip_code": 75701,
+   "performance_score": 50
+ },
+ {
+   "zip_code": 78539,
+   "performance_score": 50
+ },
+ {
+   "zip_code": 89118,
+   "performance_score": 50
+ },
+ {
+   "zip_code": 76017,
+   "performance_score": 50
+ },
+ {
+   "zip_code": 75063,
+   "performance_score": 50
+ },
+ {
+   "zip_code": 79124,
+   "performance_score": 49.86666667
+ },
+ {
+   "zip_code": 89521,
+   "performance_score": 49.75
+ },
+ {
+   "zip_code": 68130,
+   "performance_score": 49.75
+ },
+ {
+   "zip_code": 64012,
+   "performance_score": 49.6875
+ },
+ {
+   "zip_code": 98686,
+   "performance_score": 49.6875
+ },
+ {
+   "zip_code": 86314,
+   "performance_score": 49.6875
+ },
+ {
+   "zip_code": 39520,
+   "performance_score": 49.6875
+ },
+ {
+   "zip_code": 74055,
+   "performance_score": 49.66666667
+ },
+ {
+   "zip_code": 92120,
+   "performance_score": 49.58333333
+ },
+ {
+   "zip_code": 80538,
+   "performance_score": 49.58333333
+ },
+ {
+   "zip_code": 46256,
+   "performance_score": 49.54545455
+ },
+ {
+   "zip_code": 79938,
+   "performance_score": 49.54545455
+ },
+ {
+   "zip_code": 44512,
+   "performance_score": 49.54545455
+ },
+ {
+   "zip_code": 45502,
+   "performance_score": 49.54545455
+ },
+ {
+   "zip_code": 18104,
+   "performance_score": 49.54545455
+ },
+ {
+   "zip_code": 78640,
+   "performance_score": 49.5
+ },
+ {
+   "zip_code": 19963,
+   "performance_score": 49.5
+ },
+ {
+   "zip_code": 29401,
+   "performance_score": 49.5
+ },
+ {
+   "zip_code": 27889,
+   "performance_score": 49.375
+ },
+ {
+   "zip_code": 57402,
+   "performance_score": 49.375
+ },
+ {
+   "zip_code": 97124,
+   "performance_score": 49.33333333
+ },
+ {
+   "zip_code": 38654,
+   "performance_score": 49.33333333
+ },
+ {
+   "zip_code": 92592,
+   "performance_score": 49.33333333
+ },
+ {
+   "zip_code": 49660,
+   "performance_score": 49.33333333
+ },
+ {
+   "zip_code": 74076,
+   "performance_score": 49.27083333
+ },
+ {
+   "zip_code": 74465,
+   "performance_score": 49.25
+ },
+ {
+   "zip_code": 2186,
+   "performance_score": 49.16666667
+ },
+ {
+   "zip_code": 2114,
+   "performance_score": 49.16666667
+ },
+ {
+   "zip_code": 1605,
+   "performance_score": 49.09090909
+ },
+ {
+   "zip_code": 1104,
+   "performance_score": 49.09090909
+ },
+ {
+   "zip_code": 49048,
+   "performance_score": 49.09090909
+ },
+ {
+   "zip_code": 48341,
+   "performance_score": 49.0625
+ },
+ {
+   "zip_code": 48661,
+   "performance_score": 49.0625
+ },
+ {
+   "zip_code": 49016,
+   "performance_score": 49.0625
+ },
+ {
+   "zip_code": 48236,
+   "performance_score": 49.0625
+ },
+ {
+   "zip_code": 1453,
+   "performance_score": 49.0625
+ },
+ {
+   "zip_code": 2111,
+   "performance_score": 49.0625
+ },
+ {
+   "zip_code": 48617,
+   "performance_score": 49
+ },
+ {
+   "zip_code": 48202,
+   "performance_score": 48.91666667
+ },
+ {
+   "zip_code": 48109,
+   "performance_score": 48.85416667
+ },
+ {
+   "zip_code": 55415,
+   "performance_score": 48.83333333
+ },
+ {
+   "zip_code": 56308,
+   "performance_score": 48.75
+ },
+ {
+   "zip_code": 55109,
+   "performance_score": 48.75
+ },
+ {
+   "zip_code": 55805,
+   "performance_score": 48.75
+ },
+ {
+   "zip_code": 65265,
+   "performance_score": 48.75
+ },
+ {
+   "zip_code": 64429,
+   "performance_score": 48.75
+ },
+ {
+   "zip_code": 64139,
+   "performance_score": 48.75
+ },
+ {
+   "zip_code": 64093,
+   "performance_score": 48.75
+ },
+ {
+   "zip_code": 38655,
+   "performance_score": 48.7
+ },
+ {
+   "zip_code": 39440,
+   "performance_score": 48.66666667
+ },
+ {
+   "zip_code": 38751,
+   "performance_score": 48.66666667
+ },
+ {
+   "zip_code": 39208,
+   "performance_score": 48.63636364
+ },
+ {
+   "zip_code": 38704,
+   "performance_score": 48.63636364
+ },
+ {
+   "zip_code": 39703,
+   "performance_score": 48.63636364
+ },
+ {
+   "zip_code": 68198,
+   "performance_score": 48.6
+ },
+ {
+   "zip_code": 63857,
+   "performance_score": 48.5
+ },
+ {
+   "zip_code": 68602,
+   "performance_score": 48.5
+ },
+ {
+   "zip_code": 89128,
+   "performance_score": 48.5
+ },
+ {
+   "zip_code": 89502,
+   "performance_score": 48.5
+ },
+ {
+   "zip_code": 63801,
+   "performance_score": 48.4375
+ },
+ {
+   "zip_code": 65775,
+   "performance_score": 48.4375
+ },
+ {
+   "zip_code": 57049,
+   "performance_score": 48.41666667
+ },
+ {
+   "zip_code": 2904,
+   "performance_score": 48.41666667
+ },
+ {
+   "zip_code": 2906,
+   "performance_score": 48.25
+ },
+ {
+   "zip_code": 29425,
+   "performance_score": 48.22222222
+ },
+ {
+   "zip_code": 29464,
+   "performance_score": 48.18181818
+ },
+ {
+   "zip_code": 29526,
+   "performance_score": 48.16666667
+ },
+ {
+   "zip_code": 29681,
+   "performance_score": 48.16666667
+ },
+ {
+   "zip_code": 75042,
+   "performance_score": 48.16666667
+ },
+ {
+   "zip_code": 76904,
+   "performance_score": 48.16666667
+ },
+ {
+   "zip_code": 78704,
+   "performance_score": 48.125
+ },
+ {
+   "zip_code": 18848,
+   "performance_score": 48.125
+ },
+ {
+   "zip_code": 17701,
+   "performance_score": 48.08333333
+ },
+ {
+   "zip_code": 18017,
+   "performance_score": 48.08333333
+ },
+ {
+   "zip_code": 15767,
+   "performance_score": 48.08333333
+ },
+ {
+   "zip_code": 16601,
+   "performance_score": 47.96666667
+ },
+ {
+   "zip_code": 19390,
+   "performance_score": 47.91666667
+ },
+ {
+   "zip_code": 15701,
+   "performance_score": 47.91666667
+ },
+ {
+   "zip_code": 16803,
+   "performance_score": 47.83333333
+ },
+ {
+   "zip_code": 18015,
+   "performance_score": 47.83333333
+ },
+ {
+   "zip_code": 19111,
+   "performance_score": 47.8125
+ },
+ {
+   "zip_code": 19446,
+   "performance_score": 47.8125
+ },
+ {
+   "zip_code": 17822,
+   "performance_score": 47.8125
+ },
+ {
+   "zip_code": 17745,
+   "performance_score": 47.8
+ },
+ {
+   "zip_code": 16673,
+   "performance_score": 47.75
+ },
+ {
+   "zip_code": 16550,
+   "performance_score": 47.75
+ },
+ {
+   "zip_code": 15213,
+   "performance_score": 47.75
+ },
+ {
+   "zip_code": 97339,
+   "performance_score": 47.71666667
+ },
+ {
+   "zip_code": 97123,
+   "performance_score": 47.66666667
+ },
+ {
+   "zip_code": 16901,
+   "performance_score": 47.66666667
+ },
+ {
+   "zip_code": 15370,
+   "performance_score": 47.66666667
+ },
+ {
+   "zip_code": 19047,
+   "performance_score": 47.66666667
+ },
+ {
+   "zip_code": 19107,
+   "performance_score": 47.66666667
+ },
+ {
+   "zip_code": 73101,
+   "performance_score": 47.66666667
+ },
+ {
+   "zip_code": 74133,
+   "performance_score": 47.63333333
+ },
+ {
+   "zip_code": 97383,
+   "performance_score": 47.61666667
+ },
+ {
+   "zip_code": 97222,
+   "performance_score": 47.58333333
+ },
+ {
+   "zip_code": 44130,
+   "performance_score": 47.5
+ },
+ {
+   "zip_code": 44109,
+   "performance_score": 47.5
+ },
+ {
+   "zip_code": 74820,
+   "performance_score": 47.41666667
+ },
+ {
+   "zip_code": 43218,
+   "performance_score": 47.41666667
+ },
+ {
+   "zip_code": 44622,
+   "performance_score": 47.35
+ },
+ {
+   "zip_code": 45255,
+   "performance_score": 47.33333333
+ },
+ {
+   "zip_code": 28560,
+   "performance_score": 47.33333333
+ },
+ {
+   "zip_code": 27401,
+   "performance_score": 47.27272727
+ },
+ {
+   "zip_code": 27103,
+   "performance_score": 47.25
+ },
+ {
+   "zip_code": 27261,
+   "performance_score": 47.25
+ },
+ {
+   "zip_code": 28621,
+   "performance_score": 47.1875
+ },
+ {
+   "zip_code": 28256,
+   "performance_score": 47.1875
+ },
+ {
+   "zip_code": 13021,
+   "performance_score": 47.1875
+ },
+ {
+   "zip_code": 10016,
+   "performance_score": 47.16666667
+ },
+ {
+   "zip_code": 11944,
+   "performance_score": 47.16666667
+ },
+ {
+   "zip_code": 27710,
+   "performance_score": 47.08333333
+ },
+ {
+   "zip_code": 28472,
+   "performance_score": 47.08333333
+ },
+ {
+   "zip_code": 10461,
+   "performance_score": 47.08333333
+ },
+ {
+   "zip_code": 12771,
+   "performance_score": 47
+ },
+ {
+   "zip_code": 14210,
+   "performance_score": 47
+ },
+ {
+   "zip_code": 10467,
+   "performance_score": 47
+ },
+ {
+   "zip_code": 11215,
+   "performance_score": 46.91666667
+ },
+ {
+   "zip_code": 14701,
+   "performance_score": 46.91666667
+ },
+ {
+   "zip_code": 10990,
+   "performance_score": 46.91666667
+ },
+ {
+   "zip_code": 11691,
+   "performance_score": 46.875
+ },
+ {
+   "zip_code": 11040,
+   "performance_score": 46.83333333
+ },
+ {
+   "zip_code": 13669,
+   "performance_score": 46.83333333
+ },
+ {
+   "zip_code": 14081,
+   "performance_score": 46.83333333
+ },
+ {
+   "zip_code": 12601,
+   "performance_score": 46.83333333
+ },
+ {
+   "zip_code": 13210,
+   "performance_score": 46.81818182
+ },
+ {
+   "zip_code": 11777,
+   "performance_score": 46.81818182
+ },
+ {
+   "zip_code": 14432,
+   "performance_score": 46.75
+ },
+ {
+   "zip_code": 12572,
+   "performance_score": 46.75
+ },
+ {
+   "zip_code": 11418,
+   "performance_score": 46.75
+ },
+ {
+   "zip_code": 14048,
+   "performance_score": 46.75
+ },
+ {
+   "zip_code": 8053,
+   "performance_score": 46.66666667
+ },
+ {
+   "zip_code": 8536,
+   "performance_score": 46.66666667
+ },
+ {
+   "zip_code": 7601,
+   "performance_score": 46.58333333
+ },
+ {
+   "zip_code": 8818,
+   "performance_score": 46.58333333
+ },
+ {
+   "zip_code": 7306,
+   "performance_score": 46.58333333
+ },
+ {
+   "zip_code": 87505,
+   "performance_score": 46.5625
+ },
+ {
+   "zip_code": 87102,
+   "performance_score": 46.5625
+ },
+ {
+   "zip_code": 87114,
+   "performance_score": 46.5625
+ },
+ {
+   "zip_code": 13790,
+   "performance_score": 46.55555556
+ },
+ {
+   "zip_code": 10037,
+   "performance_score": 46.41666667
+ },
+ {
+   "zip_code": 3833,
+   "performance_score": 46.41666667
+ },
+ {
+   "zip_code": 7740,
+   "performance_score": 46.41666667
+ },
+ {
+   "zip_code": 8861,
+   "performance_score": 46.41666667
+ },
+ {
+   "zip_code": 8401,
+   "performance_score": 46.36666667
+ },
+ {
+   "zip_code": 7207,
+   "performance_score": 46.36363636
+ },
+ {
+   "zip_code": 7065,
+   "performance_score": 46.33333333
+ },
+ {
+   "zip_code": 37748,
+   "performance_score": 46.33333333
+ },
+ {
+   "zip_code": 38301,
+   "performance_score": 46.25
+ },
+ {
+   "zip_code": 37766,
+   "performance_score": 46.25
+ },
+ {
+   "zip_code": 37660,
+   "performance_score": 46.25
+ },
+ {
+   "zip_code": 37604,
+   "performance_score": 46.25
+ },
+ {
+   "zip_code": 37745,
+   "performance_score": 46.25
+ },
+ {
+   "zip_code": 37814,
+   "performance_score": 46.25
+ },
+ {
+   "zip_code": 78840,
+   "performance_score": 46.11111111
+ },
+ {
+   "zip_code": 75165,
+   "performance_score": 46.11111111
+ },
+ {
+   "zip_code": 37923,
+   "performance_score": 46.1
+ },
+ {
+   "zip_code": 37207,
+   "performance_score": 46.08333333
+ },
+ {
+   "zip_code": 37388,
+   "performance_score": 46.08333333
+ },
+ {
+   "zip_code": 37236,
+   "performance_score": 46.08333333
+ },
+ {
+   "zip_code": 79412,
+   "performance_score": 46
+ },
+ {
+   "zip_code": 77375,
+   "performance_score": 46
+ },
+ {
+   "zip_code": 76132,
+   "performance_score": 46
+ },
+ {
+   "zip_code": 76104,
+   "performance_score": 46
+ },
+ {
+   "zip_code": 78102,
+   "performance_score": 46
+ },
+ {
+   "zip_code": 75020,
+   "performance_score": 46
+ },
+ {
+   "zip_code": 75504,
+   "performance_score": 45.9375
+ },
+ {
+   "zip_code": 79106,
+   "performance_score": 45.9375
+ },
+ {
+   "zip_code": 79415,
+   "performance_score": 45.91666667
+ },
+ {
+   "zip_code": 79714,
+   "performance_score": 45.91666667
+ },
+ {
+   "zip_code": 77004,
+   "performance_score": 45.91666667
+ },
+ {
+   "zip_code": 75708,
+   "performance_score": 45.90909091
+ },
+ {
+   "zip_code": 78681,
+   "performance_score": 45.77777778
+ },
+ {
+   "zip_code": 77304,
+   "performance_score": 45.75
+ },
+ {
+   "zip_code": 76401,
+   "performance_score": 45.75
+ },
+ {
+   "zip_code": 76067,
+   "performance_score": 45.66666667
+ },
+ {
+   "zip_code": 76180,
+   "performance_score": 45.66666667
+ },
+ {
+   "zip_code": 24211,
+   "performance_score": 45.66666667
+ },
+ {
+   "zip_code": 22191,
+   "performance_score": 45.66666667
+ },
+ {
+   "zip_code": 75010,
+   "performance_score": 45.625
+ },
+ {
+   "zip_code": 75234,
+   "performance_score": 45.58333333
+ },
+ {
+   "zip_code": 77640,
+   "performance_score": 45.58333333
+ },
+ {
+   "zip_code": 75230,
+   "performance_score": 45.58333333
+ },
+ {
+   "zip_code": 79902,
+   "performance_score": 45.55555556
+ },
+ {
+   "zip_code": 78758,
+   "performance_score": 45.55555556
+ },
+ {
+   "zip_code": 22701,
+   "performance_score": 45.5
+ },
+ {
+   "zip_code": 22908,
+   "performance_score": 45.5
+ },
+ {
+   "zip_code": 23970,
+   "performance_score": 45.5
+ },
+ {
+   "zip_code": 20176,
+   "performance_score": 45.5
+ },
+ {
+   "zip_code": 84041,
+   "performance_score": 45.5
+ },
+ {
+   "zip_code": 99210,
+   "performance_score": 45.5
+ },
+ {
+   "zip_code": 24801,
+   "performance_score": 45.41666667
+ },
+ {
+   "zip_code": 25309,
+   "performance_score": 45.41666667
+ },
+ {
+   "zip_code": 25661,
+   "performance_score": 45.41666667
+ },
+ {
+   "zip_code": 25301,
+   "performance_score": 45.41666667
+ },
+ {
+   "zip_code": 26554,
+   "performance_score": 45.33333333
+ },
+ {
+   "zip_code": 25702,
+   "performance_score": 45.33333333
+ },
+ {
+   "zip_code": 99352,
+   "performance_score": 45.33333333
+ },
+ {
+   "zip_code": 99362,
+   "performance_score": 45.33333333
+ },
+ {
+   "zip_code": 70570,
+   "performance_score": 45.33333333
+ },
+ {
+   "zip_code": 70503,
+   "performance_score": 45.33333333
+ },
+ {
+   "zip_code": 70433,
+   "performance_score": 45.3125
+ },
+ {
+   "zip_code": 71418,
+   "performance_score": 45.3125
+ },
+ {
+   "zip_code": 71351,
+   "performance_score": 45.3125
+ },
+ {
+   "zip_code": 41858,
+   "performance_score": 45.3125
+ },
+ {
+   "zip_code": 40701,
+   "performance_score": 45.3125
+ },
+ {
+   "zip_code": 42420,
+   "performance_score": 45.3125
+ },
+ {
+   "zip_code": 40504,
+   "performance_score": 45.25
+ },
+ {
+   "zip_code": 40207,
+   "performance_score": 45.25
+ },
+ {
+   "zip_code": 42718,
+   "performance_score": 45.25
+ },
+ {
+   "zip_code": 42003,
+   "performance_score": 45.25
+ },
+ {
+   "zip_code": 42503,
+   "performance_score": 45.22222222
+ },
+ {
+   "zip_code": 50703,
+   "performance_score": 45.10416667
+ },
+ {
+   "zip_code": 66604,
+   "performance_score": 45.08333333
+ },
+ {
+   "zip_code": 67601,
+   "performance_score": 45.08333333
+ },
+ {
+   "zip_code": 52655,
+   "performance_score": 45.08333333
+ },
+ {
+   "zip_code": 50314,
+   "performance_score": 45.08333333
+ },
+ {
+   "zip_code": 46176,
+   "performance_score": 45
+ },
+ {
+   "zip_code": 46580,
+   "performance_score": 45
+ },
+ {
+   "zip_code": 46202,
+   "performance_score": 45
+ },
+ {
+   "zip_code": 47630,
+   "performance_score": 45
+ },
+ {
+   "zip_code": 61021,
+   "performance_score": 45
+ },
+ {
+   "zip_code": 46947,
+   "performance_score": 45
+ },
+ {
+   "zip_code": 46060,
+   "performance_score": 45
+ },
+ {
+   "zip_code": 46601,
+   "performance_score": 44.95
+ },
+ {
+   "zip_code": 62052,
+   "performance_score": 44.91666667
+ },
+ {
+   "zip_code": 60805,
+   "performance_score": 44.83333333
+ },
+ {
+   "zip_code": 61637,
+   "performance_score": 44.77777778
+ },
+ {
+   "zip_code": 60190,
+   "performance_score": 44.75
+ },
+ {
+   "zip_code": 60153,
+   "performance_score": 44.75
+ },
+ {
+   "zip_code": 62864,
+   "performance_score": 44.75
+ },
+ {
+   "zip_code": 62226,
+   "performance_score": 44.73333333
+ },
+ {
+   "zip_code": 60005,
+   "performance_score": 44.6875
+ },
+ {
+   "zip_code": 62401,
+   "performance_score": 44.66666667
+ },
+ {
+   "zip_code": 62769,
+   "performance_score": 44.66666667
+ },
+ {
+   "zip_code": 62801,
+   "performance_score": 44.66666667
+ },
+ {
+   "zip_code": 60098,
+   "performance_score": 44.66666667
+ },
+ {
+   "zip_code": 60611,
+   "performance_score": 44.58333333
+ },
+ {
+   "zip_code": 60068,
+   "performance_score": 44.58333333
+ },
+ {
+   "zip_code": 30501,
+   "performance_score": 44.55
+ },
+ {
+   "zip_code": 30909,
+   "performance_score": 44.54545455
+ },
+ {
+   "zip_code": 39845,
+   "performance_score": 44.5
+ },
+ {
+   "zip_code": 39828,
+   "performance_score": 44.5
+ },
+ {
+   "zip_code": 30312,
+   "performance_score": 44.5
+ },
+ {
+   "zip_code": 30141,
+   "performance_score": 44.5
+ },
+ {
+   "zip_code": 31545,
+   "performance_score": 44.5
+ },
+ {
+   "zip_code": 30512,
+   "performance_score": 44.5
+ },
+ {
+   "zip_code": 33511,
+   "performance_score": 44.48333333
+ },
+ {
+   "zip_code": 33317,
+   "performance_score": 44.41666667
+ },
+ {
+   "zip_code": 32931,
+   "performance_score": 44.375
+ },
+ {
+   "zip_code": 34601,
+   "performance_score": 44.375
+ },
+ {
+   "zip_code": 32610,
+   "performance_score": 44.375
+ },
+ {
+   "zip_code": 33414,
+   "performance_score": 44.33333333
+ },
+ {
+   "zip_code": 33606,
+   "performance_score": 44.33333333
+ },
+ {
+   "zip_code": 32960,
+   "performance_score": 44.33333333
+ },
+ {
+   "zip_code": 34452,
+   "performance_score": 44.33333333
+ },
+ {
+   "zip_code": 33705,
+   "performance_score": 44.33333333
+ },
+ {
+   "zip_code": 34239,
+   "performance_score": 44.25
+ },
+ {
+   "zip_code": 32204,
+   "performance_score": 44.25
+ },
+ {
+   "zip_code": 34209,
+   "performance_score": 44.25
+ },
+ {
+   "zip_code": 34972,
+   "performance_score": 44.25
+ },
+ {
+   "zip_code": 32224,
+   "performance_score": 44.25
+ },
+ {
+   "zip_code": 33064,
+   "performance_score": 44.25
+ },
+ {
+   "zip_code": 32504,
+   "performance_score": 44.16666667
+ },
+ {
+   "zip_code": 34119,
+   "performance_score": 44.16666667
+ },
+ {
+   "zip_code": 81050,
+   "performance_score": 44.16666667
+ },
+ {
+   "zip_code": 80304,
+   "performance_score": 44.15
+ },
+ {
+   "zip_code": 6504,
+   "performance_score": 44.09090909
+ },
+ {
+   "zip_code": 19901,
+   "performance_score": 44.09090909
+ },
+ {
+   "zip_code": 19805,
+   "performance_score": 44.09090909
+ },
+ {
+   "zip_code": 33563,
+   "performance_score": 44.08333333
+ },
+ {
+   "zip_code": 34233,
+   "performance_score": 44.08333333
+ },
+ {
+   "zip_code": 93930,
+   "performance_score": 44.0625
+ },
+ {
+   "zip_code": 94945,
+   "performance_score": 44.0625
+ },
+ {
+   "zip_code": 94115,
+   "performance_score": 44.0625
+ },
+ {
+   "zip_code": 80701,
+   "performance_score": 44.0625
+ },
+ {
+   "zip_code": 81301,
+   "performance_score": 44
+ },
+ {
+   "zip_code": 80023,
+   "performance_score": 44
+ },
+ {
+   "zip_code": 80229,
+   "performance_score": 44
+ },
+ {
+   "zip_code": 90623,
+   "performance_score": 44
+ },
+ {
+   "zip_code": 93552,
+   "performance_score": 44
+ },
+ {
+   "zip_code": 91355,
+   "performance_score": 43.96666667
+ },
+ {
+   "zip_code": 93465,
+   "performance_score": 43.91666667
+ },
+ {
+   "zip_code": 94545,
+   "performance_score": 43.91666667
+ },
+ {
+   "zip_code": 90710,
+   "performance_score": 43.91666667
+ },
+ {
+   "zip_code": 95482,
+   "performance_score": 43.91666667
+ },
+ {
+   "zip_code": 91767,
+   "performance_score": 43.88888889
+ },
+ {
+   "zip_code": 92868,
+   "performance_score": 43.83333333
+ },
+ {
+   "zip_code": 93720,
+   "performance_score": 43.83333333
+ },
+ {
+   "zip_code": 95945,
+   "performance_score": 43.8
+ },
+ {
+   "zip_code": 94954,
+   "performance_score": 43.77777778
+ },
+ {
+   "zip_code": 91342,
+   "performance_score": 43.75
+ },
+ {
+   "zip_code": 94574,
+   "performance_score": 43.75
+ },
+ {
+   "zip_code": 93003,
+   "performance_score": 43.75
+ },
+ {
+   "zip_code": 91204,
+   "performance_score": 43.75
+ },
+ {
+   "zip_code": 72451,
+   "performance_score": 43.75
+ },
+ {
+   "zip_code": 72034,
+   "performance_score": 43.75
+ },
+ {
+   "zip_code": 92804,
+   "performance_score": 43.66666667
+ },
+ {
+   "zip_code": 96150,
+   "performance_score": 43.66666667
+ },
+ {
+   "zip_code": 90255,
+   "performance_score": 43.66666667
+ },
+ {
+   "zip_code": 95819,
+   "performance_score": 43.66666667
+ },
+ {
+   "zip_code": 85122,
+   "performance_score": 43.65
+ },
+ {
+   "zip_code": 86442,
+   "performance_score": 43.64583333
+ },
+ {
+   "zip_code": 85901,
+   "performance_score": 43.63636364
+ },
+ {
+   "zip_code": 85251,
+   "performance_score": 43.63636364
+ },
+ {
+   "zip_code": 71655,
+   "performance_score": 43.58333333
+ },
+ {
+   "zip_code": 72957,
+   "performance_score": 43.58333333
+ },
+ {
+   "zip_code": 72601,
+   "performance_score": 43.58333333
+ },
+ {
+   "zip_code": 36265,
+   "performance_score": 43.56666667
+ },
+ {
+   "zip_code": 35160,
+   "performance_score": 43.5
+ },
+ {
+   "zip_code": 35631,
+   "performance_score": 43.4375
+ },
+ {
+   "zip_code": 36117,
+   "performance_score": 43.4375
+ },
+ {
+   "zip_code": 36460,
+   "performance_score": 43.41666667
+ },
+ {
+   "zip_code": 36451,
+   "performance_score": 43.41666667
+ },
+ {
+   "zip_code": 36360,
+   "performance_score": 43.41666667
+ },
+ {
+   "zip_code": 36401,
+   "performance_score": 43.33333333
+ },
+ {
+   "zip_code": 99645,
+   "performance_score": 43.33333333
+ },
+ {
+   "zip_code": 86403,
+   "performance_score": 43.33333333
+ },
+ {
+   "zip_code": 85206,
+   "performance_score": 43.33333333
+ },
+ {
+   "zip_code": 91786,
+   "performance_score": 43.25
+ },
+ {
+   "zip_code": 54729,
+   "performance_score": 43.25
+ },
+ {
+   "zip_code": 53051,
+   "performance_score": 43.18181818
+ },
+ {
+   "zip_code": 34208,
+   "performance_score": 43.18181818
+ },
+ {
+   "zip_code": 53143,
+   "performance_score": 43.16666667
+ },
+ {
+   "zip_code": 46290,
+   "performance_score": 43.16666667
+ },
+ {
+   "zip_code": 71446,
+   "performance_score": 43.16666667
+ },
+ {
+   "zip_code": 85206,
+   "performance_score": 43.15
+ },
+ {
+   "zip_code": 73120,
+   "performance_score": 43.15
+ },
+ {
+   "zip_code": 33146,
+   "performance_score": 43.125
+ },
+ {
+   "zip_code": 85225,
+   "performance_score": 43.125
+ },
+ {
+   "zip_code": 43512,
+   "performance_score": 43.125
+ },
+ {
+   "zip_code": 75034,
+   "performance_score": 43.08333333
+ },
+ {
+   "zip_code": 78550,
+   "performance_score": 43.08333333
+ },
+ {
+   "zip_code": 85037,
+   "performance_score": 43.08333333
+ },
+ {
+   "zip_code": 53226,
+   "performance_score": 43.06666667
+ },
+ {
+   "zip_code": 54301,
+   "performance_score": 43.01666667
+ },
+ {
+   "zip_code": 54568,
+   "performance_score": 43
+ },
+ {
+   "zip_code": 54305,
+   "performance_score": 43
+ },
+ {
+   "zip_code": 75235,
+   "performance_score": 43
+ },
+ {
+   "zip_code": 77598,
+   "performance_score": 43
+ },
+ {
+   "zip_code": 85296,
+   "performance_score": 43
+ },
+ {
+   "zip_code": 85295,
+   "performance_score": 42.93333333
+ },
+ {
+   "zip_code": 70065,
+   "performance_score": 42.91666667
+ },
+ {
+   "zip_code": 88201,
+   "performance_score": 42.91666667
+ },
+ {
+   "zip_code": 75032,
+   "performance_score": 42.91666667
+ },
+ {
+   "zip_code": 74868,
+   "performance_score": 42.91666667
+ },
+ {
+   "zip_code": 28721,
+   "performance_score": 42.83333333
+ },
+ {
+   "zip_code": 29651,
+   "performance_score": 42.83333333
+ },
+ {
+   "zip_code": 48322,
+   "performance_score": 42.8125
+ },
+ {
+   "zip_code": 44310,
+   "performance_score": 42.8125
+ },
+ {
+   "zip_code": 73135,
+   "performance_score": 42.8
+ },
+ {
+   "zip_code": 53066,
+   "performance_score": 42.75
+ },
+ {
+   "zip_code": 68123,
+   "performance_score": 42.75
+ },
+ {
+   "zip_code": 98029,
+   "performance_score": 42.72727273
+ },
+ {
+   "zip_code": 73034,
+   "performance_score": 42.72727273
+ },
+ {
+   "zip_code": 94578,
+   "performance_score": 42.66666667
+ },
+ {
+   "zip_code": 70043,
+   "performance_score": 42.66666667
+ },
+ {
+   "zip_code": 33544,
+   "performance_score": 42.66666667
+ },
+ {
+   "zip_code": 19403,
+   "performance_score": 42.58333333
+ },
+ {
+   "zip_code": 23185,
+   "performance_score": 42.58333333
+ },
+ {
+   "zip_code": 84020,
+   "performance_score": 42.58333333
+ },
+ {
+   "zip_code": 1301,
+   "performance_score": 42.58333333
+ },
+ {
+   "zip_code": 1061,
+   "performance_score": 42.58333333
+ },
+ {
+   "zip_code": 1655,
+   "performance_score": 42.5
+ },
+ {
+   "zip_code": 2494,
+   "performance_score": 42.5
+ },
+ {
+   "zip_code": 48230,
+   "performance_score": 42.5
+ },
+ {
+   "zip_code": 49221,
+   "performance_score": 42.5
+ },
+ {
+   "zip_code": 4240,
+   "performance_score": 42.41666667
+ },
+ {
+   "zip_code": 4011,
+   "performance_score": 42.41666667
+ },
+ {
+   "zip_code": 49783,
+   "performance_score": 42.41666667
+ },
+ {
+   "zip_code": 49735,
+   "performance_score": 42.41666667
+ },
+ {
+   "zip_code": 38829,
+   "performance_score": 42.39583333
+ },
+ {
+   "zip_code": 1970,
+   "performance_score": 42.33333333
+ },
+ {
+   "zip_code": 2138,
+   "performance_score": 42.3
+ },
+ {
+   "zip_code": 1432,
+   "performance_score": 42.27272727
+ },
+ {
+   "zip_code": 48843,
+   "performance_score": 42.27272727
+ },
+ {
+   "zip_code": 48801,
+   "performance_score": 42.25
+ },
+ {
+   "zip_code": 49085,
+   "performance_score": 42.25
+ },
+ {
+   "zip_code": 55101,
+   "performance_score": 42.25
+ },
+ {
+   "zip_code": 55454,
+   "performance_score": 42.1875
+ },
+ {
+   "zip_code": 55407,
+   "performance_score": 42.1875
+ },
+ {
+   "zip_code": 55060,
+   "performance_score": 42.1875
+ },
+ {
+   "zip_code": 38606,
+   "performance_score": 42.08333333
+ },
+ {
+   "zip_code": 55422,
+   "performance_score": 42.08333333
+ },
+ {
+   "zip_code": 56031,
+   "performance_score": 42.08333333
+ },
+ {
+   "zip_code": 55805,
+   "performance_score": 42.08333333
+ },
+ {
+   "zip_code": 55082,
+   "performance_score": 42.08333333
+ },
+ {
+   "zip_code": 65065,
+   "performance_score": 42.08333333
+ },
+ {
+   "zip_code": 63851,
+   "performance_score": 42
+ },
+ {
+   "zip_code": 64057,
+   "performance_score": 42
+ },
+ {
+   "zip_code": 64735,
+   "performance_score": 42
+ },
+ {
+   "zip_code": 65483,
+   "performance_score": 42
+ },
+ {
+   "zip_code": 49855,
+   "performance_score": 42
+ },
+ {
+   "zip_code": 39429,
+   "performance_score": 42
+ },
+ {
+   "zip_code": 39567,
+   "performance_score": 41.91666667
+ },
+ {
+   "zip_code": 38821,
+   "performance_score": 41.91666667
+ },
+ {
+   "zip_code": 59715,
+   "performance_score": 41.91666667
+ },
+ {
+   "zip_code": 68901,
+   "performance_score": 41.91666667
+ },
+ {
+   "zip_code": 59804,
+   "performance_score": 41.91666667
+ },
+ {
+   "zip_code": 68046,
+   "performance_score": 41.91666667
+ },
+ {
+   "zip_code": 89030,
+   "performance_score": 41.91666667
+ },
+ {
+   "zip_code": 63901,
+   "performance_score": 41.875
+ },
+ {
+   "zip_code": 29401,
+   "performance_score": 41.875
+ },
+ {
+   "zip_code": 57117,
+   "performance_score": 41.875
+ },
+ {
+   "zip_code": 57078,
+   "performance_score": 41.875
+ },
+ {
+   "zip_code": 57105,
+   "performance_score": 41.875
+ },
+ {
+   "zip_code": 2902,
+   "performance_score": 41.81818182
+ },
+ {
+   "zip_code": 29720,
+   "performance_score": 41.81818182
+ },
+ {
+   "zip_code": 29706,
+   "performance_score": 41.75
+ },
+ {
+   "zip_code": 29672,
+   "performance_score": 41.75
+ },
+ {
+   "zip_code": 29536,
+   "performance_score": 41.68333333
+ },
+ {
+   "zip_code": 29203,
+   "performance_score": 41.66666667
+ },
+ {
+   "zip_code": 29102,
+   "performance_score": 41.66666667
+ },
+ {
+   "zip_code": 29621,
+   "performance_score": 41.66666667
+ },
+ {
+   "zip_code": 29572,
+   "performance_score": 41.66666667
+ },
+ {
+   "zip_code": 75601,
+   "performance_score": 41.66666667
+ },
+ {
+   "zip_code": 75460,
+   "performance_score": 41.66666667
+ },
+ {
+   "zip_code": 76104,
+   "performance_score": 41.66666667
+ },
+ {
+   "zip_code": 17331,
+   "performance_score": 41.6
+ },
+ {
+   "zip_code": 19320,
+   "performance_score": 41.58333333
+ },
+ {
+   "zip_code": 17015,
+   "performance_score": 41.58333333
+ },
+ {
+   "zip_code": 19096,
+   "performance_score": 41.58333333
+ },
+ {
+   "zip_code": 15132,
+   "performance_score": 41.58333333
+ },
+ {
+   "zip_code": 15136,
+   "performance_score": 41.58333333
+ },
+ {
+   "zip_code": 17801,
+   "performance_score": 41.58333333
+ },
+ {
+   "zip_code": 16544,
+   "performance_score": 41.58333333
+ },
+ {
+   "zip_code": 17815,
+   "performance_score": 41.58333333
+ },
+ {
+   "zip_code": 15301,
+   "performance_score": 41.5625
+ },
+ {
+   "zip_code": 15143,
+   "performance_score": 41.5625
+ },
+ {
+   "zip_code": 19464,
+   "performance_score": 41.55555556
+ },
+ {
+   "zip_code": 17602,
+   "performance_score": 41.5
+ },
+ {
+   "zip_code": 15650,
+   "performance_score": 41.5
+ },
+ {
+   "zip_code": 18102,
+   "performance_score": 41.5
+ },
+ {
+   "zip_code": 74702,
+   "performance_score": 41.5
+ },
+ {
+   "zip_code": 73134,
+   "performance_score": 41.5
+ },
+ {
+   "zip_code": 74467,
+   "performance_score": 41.41666667
+ },
+ {
+   "zip_code": 73523,
+   "performance_score": 41.41666667
+ },
+ {
+   "zip_code": 97030,
+   "performance_score": 41.41666667
+ },
+ {
+   "zip_code": 97420,
+   "performance_score": 41.41666667
+ },
+ {
+   "zip_code": 43140,
+   "performance_score": 41.38333333
+ },
+ {
+   "zip_code": 44125,
+   "performance_score": 41.38333333
+ },
+ {
+   "zip_code": 44129,
+   "performance_score": 41.38333333
+ },
+ {
+   "zip_code": 44115,
+   "performance_score": 41.36363636
+ },
+ {
+   "zip_code": 73120,
+   "performance_score": 41.33333333
+ },
+ {
+   "zip_code": 74104,
+   "performance_score": 41.33333333
+ },
+ {
+   "zip_code": 43015,
+   "performance_score": 41.33333333
+ },
+ {
+   "zip_code": 45013,
+   "performance_score": 41.33333333
+ },
+ {
+   "zip_code": 44691,
+   "performance_score": 41.25
+ },
+ {
+   "zip_code": 43935,
+   "performance_score": 41.25
+ },
+ {
+   "zip_code": 44024,
+   "performance_score": 41.16666667
+ },
+ {
+   "zip_code": 45219,
+   "performance_score": 41.16666667
+ },
+ {
+   "zip_code": 43812,
+   "performance_score": 41.16666667
+ },
+ {
+   "zip_code": 45701,
+   "performance_score": 41.08333333
+ },
+ {
+   "zip_code": 43537,
+   "performance_score": 41.08333333
+ },
+ {
+   "zip_code": 44119,
+   "performance_score": 41.08333333
+ },
+ {
+   "zip_code": 43506,
+   "performance_score": 41.08333333
+ },
+ {
+   "zip_code": 43616,
+   "performance_score": 41.08333333
+ },
+ {
+   "zip_code": 45804,
+   "performance_score": 41.08333333
+ },
+ {
+   "zip_code": 43616,
+   "performance_score": 41.04166667
+ },
+ {
+   "zip_code": 43725,
+   "performance_score": 41
+ },
+ {
+   "zip_code": 45177,
+   "performance_score": 41
+ },
+ {
+   "zip_code": 44145,
+   "performance_score": 41
+ },
+ {
+   "zip_code": 45409,
+   "performance_score": 40.95
+ },
+ {
+   "zip_code": 28677,
+   "performance_score": 40.9375
+ },
+ {
+   "zip_code": 27330,
+   "performance_score": 40.9375
+ },
+ {
+   "zip_code": 27216,
+   "performance_score": 40.9375
+ },
+ {
+   "zip_code": 28659,
+   "performance_score": 40.91666667
+ },
+ {
+   "zip_code": 28557,
+   "performance_score": 40.91666667
+ },
+ {
+   "zip_code": 28203,
+   "performance_score": 40.91666667
+ },
+ {
+   "zip_code": 27292,
+   "performance_score": 40.91666667
+ },
+ {
+   "zip_code": 27607,
+   "performance_score": 40.91666667
+ },
+ {
+   "zip_code": 58122,
+   "performance_score": 40.91666667
+ },
+ {
+   "zip_code": 12742,
+   "performance_score": 40.86666667
+ },
+ {
+   "zip_code": 14810,
+   "performance_score": 40.83333333
+ },
+ {
+   "zip_code": 14620,
+   "performance_score": 40.83333333
+ },
+ {
+   "zip_code": 28092,
+   "performance_score": 40.8
+ },
+ {
+   "zip_code": 28054,
+   "performance_score": 40.77777778
+ },
+ {
+   "zip_code": 27534,
+   "performance_score": 40.75
+ },
+ {
+   "zip_code": 28803,
+   "performance_score": 40.75
+ },
+ {
+   "zip_code": 11777,
+   "performance_score": 40.75
+ },
+ {
+   "zip_code": 14215,
+   "performance_score": 40.71666667
+ },
+ {
+   "zip_code": 13326,
+   "performance_score": 40.7
+ },
+ {
+   "zip_code": 10901,
+   "performance_score": 40.66666667
+ },
+ {
+   "zip_code": 10029,
+   "performance_score": 40.66666667
+ },
+ {
+   "zip_code": 10021,
+   "performance_score": 40.65
+ },
+ {
+   "zip_code": 12204,
+   "performance_score": 40.63333333
+ },
+ {
+   "zip_code": 13045,
+   "performance_score": 40.625
+ },
+ {
+   "zip_code": 11572,
+   "performance_score": 40.625
+ },
+ {
+   "zip_code": 10021,
+   "performance_score": 40.58333333
+ },
+ {
+   "zip_code": 12010,
+   "performance_score": 40.58333333
+ },
+ {
+   "zip_code": 12401,
+   "performance_score": 40.58333333
+ },
+ {
+   "zip_code": 11554,
+   "performance_score": 40.58333333
+ },
+ {
+   "zip_code": 7002,
+   "performance_score": 40.56666667
+ },
+ {
+   "zip_code": 8244,
+   "performance_score": 40.5
+ },
+ {
+   "zip_code": 88240,
+   "performance_score": 40.5
+ },
+ {
+   "zip_code": 87701,
+   "performance_score": 40.45454545
+ },
+ {
+   "zip_code": 87301,
+   "performance_score": 40.45454545
+ },
+ {
+   "zip_code": 11571,
+   "performance_score": 40.45
+ },
+ {
+   "zip_code": 3801,
+   "performance_score": 40.43333333
+ },
+ {
+   "zip_code": 3060,
+   "performance_score": 40.41666667
+ },
+ {
+   "zip_code": 7018,
+   "performance_score": 40.41666667
+ },
+ {
+   "zip_code": 7733,
+   "performance_score": 40.41666667
+ },
+ {
+   "zip_code": 7834,
+   "performance_score": 40.41666667
+ },
+ {
+   "zip_code": 38358,
+   "performance_score": 40.33333333
+ },
+ {
+   "zip_code": 37814,
+   "performance_score": 40.33333333
+ },
+ {
+   "zip_code": 38119,
+   "performance_score": 40.3125
+ },
+ {
+   "zip_code": 38372,
+   "performance_score": 40.3125
+ },
+ {
+   "zip_code": 38024,
+   "performance_score": 40.25
+ },
+ {
+   "zip_code": 37604,
+   "performance_score": 40.25
+ },
+ {
+   "zip_code": 37211,
+   "performance_score": 40.25
+ },
+ {
+   "zip_code": 38464,
+   "performance_score": 40.25
+ },
+ {
+   "zip_code": 37203,
+   "performance_score": 40.16666667
+ },
+ {
+   "zip_code": 75039,
+   "performance_score": 40.16666667
+ },
+ {
+   "zip_code": 76301,
+   "performance_score": 40.16666667
+ },
+ {
+   "zip_code": 38103,
+   "performance_score": 40.16666667
+ },
+ {
+   "zip_code": 38401,
+   "performance_score": 40.16666667
+ },
+ {
+   "zip_code": 78155,
+   "performance_score": 40.16666667
+ },
+ {
+   "zip_code": 76310,
+   "performance_score": 40.13333333
+ },
+ {
+   "zip_code": 77902,
+   "performance_score": 40.08333333
+ },
+ {
+   "zip_code": 75093,
+   "performance_score": 40.08333333
+ },
+ {
+   "zip_code": 76549,
+   "performance_score": 40.08333333
+ },
+ {
+   "zip_code": 79902,
+   "performance_score": 40.08333333
+ },
+ {
+   "zip_code": 77802,
+   "performance_score": 40.08333333
+ },
+ {
+   "zip_code": 78705,
+   "performance_score": 40.08333333
+ },
+ {
+   "zip_code": 77351,
+   "performance_score": 40.08333333
+ },
+ {
+   "zip_code": 76903,
+   "performance_score": 40.08333333
+ },
+ {
+   "zip_code": 78582,
+   "performance_score": 40
+ },
+ {
+   "zip_code": 76450,
+   "performance_score": 40
+ },
+ {
+   "zip_code": 78801,
+   "performance_score": 40
+ },
+ {
+   "zip_code": 75080,
+   "performance_score": 40
+ },
+ {
+   "zip_code": 77065,
+   "performance_score": 40
+ },
+ {
+   "zip_code": 24382,
+   "performance_score": 40
+ },
+ {
+   "zip_code": 76531,
+   "performance_score": 39.91666667
+ },
+ {
+   "zip_code": 77339,
+   "performance_score": 39.91666667
+ },
+ {
+   "zip_code": 76240,
+   "performance_score": 39.91666667
+ },
+ {
+   "zip_code": 78114,
+   "performance_score": 39.91666667
+ },
+ {
+   "zip_code": 75390,
+   "performance_score": 39.83333333
+ },
+ {
+   "zip_code": 23847,
+   "performance_score": 39.83333333
+ },
+ {
+   "zip_code": 24592,
+   "performance_score": 39.8
+ },
+ {
+   "zip_code": 76115,
+   "performance_score": 39.75
+ },
+ {
+   "zip_code": 84790,
+   "performance_score": 39.75
+ },
+ {
+   "zip_code": 84107,
+   "performance_score": 39.75
+ },
+ {
+   "zip_code": 84094,
+   "performance_score": 39.75
+ },
+ {
+   "zip_code": 84721,
+   "performance_score": 39.75
+ },
+ {
+   "zip_code": 84403,
+   "performance_score": 39.75
+ },
+ {
+   "zip_code": 22801,
+   "performance_score": 39.75
+ },
+ {
+   "zip_code": 99216,
+   "performance_score": 39.73333333
+ },
+ {
+   "zip_code": 98001,
+   "performance_score": 39.7
+ },
+ {
+   "zip_code": 98274,
+   "performance_score": 39.6875
+ },
+ {
+   "zip_code": 98272,
+   "performance_score": 39.6875
+ },
+ {
+   "zip_code": 99220,
+   "performance_score": 39.6875
+ },
+ {
+   "zip_code": 98948,
+   "performance_score": 39.6875
+ },
+ {
+   "zip_code": 99336,
+   "performance_score": 39.66666667
+ },
+ {
+   "zip_code": 70121,
+   "performance_score": 39.66666667
+ },
+ {
+   "zip_code": 70601,
+   "performance_score": 39.66666667
+ },
+ {
+   "zip_code": 70508,
+   "performance_score": 39.66666667
+ },
+ {
+   "zip_code": 71055,
+   "performance_score": 39.66666667
+ },
+ {
+   "zip_code": 70510,
+   "performance_score": 39.66666667
+ },
+ {
+   "zip_code": 70663,
+   "performance_score": 39.66666667
+ },
+ {
+   "zip_code": 70634,
+   "performance_score": 39.66666667
+ },
+ {
+   "zip_code": 41230,
+   "performance_score": 39.66666667
+ },
+ {
+   "zip_code": 42104,
+   "performance_score": 39.6
+ },
+ {
+   "zip_code": 42345,
+   "performance_score": 39.58333333
+ },
+ {
+   "zip_code": 40962,
+   "performance_score": 39.56666667
+ },
+ {
+   "zip_code": 41501,
+   "performance_score": 39.55
+ },
+ {
+   "zip_code": 40965,
+   "performance_score": 39.55
+ },
+ {
+   "zip_code": 41101,
+   "performance_score": 39.54545455
+ },
+ {
+   "zip_code": 66839,
+   "performance_score": 39.5
+ },
+ {
+   "zip_code": 67226,
+   "performance_score": 39.5
+ },
+ {
+   "zip_code": 66762,
+   "performance_score": 39.5
+ },
+ {
+   "zip_code": 50265,
+   "performance_score": 39.5
+ },
+ {
+   "zip_code": 66606,
+   "performance_score": 39.5
+ },
+ {
+   "zip_code": 67124,
+   "performance_score": 39.5
+ },
+ {
+   "zip_code": 50112,
+   "performance_score": 39.5
+ },
+ {
+   "zip_code": 52501,
+   "performance_score": 39.48333333
+ },
+ {
+   "zip_code": 52403,
+   "performance_score": 39.41666667
+ },
+ {
+   "zip_code": 47747,
+   "performance_score": 39.41666667
+ },
+ {
+   "zip_code": 46140,
+   "performance_score": 39.41666667
+ },
+ {
+   "zip_code": 50314,
+   "performance_score": 39.41666667
+ },
+ {
+   "zip_code": 61764,
+   "performance_score": 39.41666667
+ },
+ {
+   "zip_code": 61201,
+   "performance_score": 39.41666667
+ },
+ {
+   "zip_code": 46227,
+   "performance_score": 39.41666667
+ },
+ {
+   "zip_code": 47546,
+   "performance_score": 39.41666667
+ },
+ {
+   "zip_code": 47374,
+   "performance_score": 39.41666667
+ },
+ {
+   "zip_code": 47933,
+   "performance_score": 39.41666667
+ },
+ {
+   "zip_code": 60640,
+   "performance_score": 39.41666667
+ },
+ {
+   "zip_code": 60628,
+   "performance_score": 39.41666667
+ },
+ {
+   "zip_code": 60640,
+   "performance_score": 39.375
+ },
+ {
+   "zip_code": 60429,
+   "performance_score": 39.375
+ },
+ {
+   "zip_code": 60045,
+   "performance_score": 39.375
+ },
+ {
+   "zip_code": 60450,
+   "performance_score": 39.36666667
+ },
+ {
+   "zip_code": 62781,
+   "performance_score": 39.33333333
+ },
+ {
+   "zip_code": 60048,
+   "performance_score": 39.33333333
+ },
+ {
+   "zip_code": 60126,
+   "performance_score": 39.33333333
+ },
+ {
+   "zip_code": 96766,
+   "performance_score": 39.33333333
+ },
+ {
+   "zip_code": 96734,
+   "performance_score": 39.33333333
+ },
+ {
+   "zip_code": 83501,
+   "performance_score": 39.33333333
+ },
+ {
+   "zip_code": 83814,
+   "performance_score": 39.33333333
+ },
+ {
+   "zip_code": 60099,
+   "performance_score": 39.33333333
+ },
+ {
+   "zip_code": 62002,
+   "performance_score": 39.33333333
+ },
+ {
+   "zip_code": 30240,
+   "performance_score": 39.33333333
+ },
+ {
+   "zip_code": 31513,
+   "performance_score": 39.25
+ },
+ {
+   "zip_code": 31210,
+   "performance_score": 39.25
+ },
+ {
+   "zip_code": 30308,
+   "performance_score": 39.25
+ },
+ {
+   "zip_code": 30114,
+   "performance_score": 39.25
+ },
+ {
+   "zip_code": 30458,
+   "performance_score": 39.25
+ },
+ {
+   "zip_code": 33143,
+   "performance_score": 39.25
+ },
+ {
+   "zip_code": 34265,
+   "performance_score": 39.25
+ },
+ {
+   "zip_code": 32605,
+   "performance_score": 39.25
+ },
+ {
+   "zip_code": 33710,
+   "performance_score": 39.25
+ },
+ {
+   "zip_code": 32955,
+   "performance_score": 39.16666667
+ },
+ {
+   "zip_code": 33021,
+   "performance_score": 39.16666667
+ },
+ {
+   "zip_code": 32209,
+   "performance_score": 39.16666667
+ },
+ {
+   "zip_code": 33040,
+   "performance_score": 39.16666667
+ },
+ {
+   "zip_code": 33936,
+   "performance_score": 39.09090909
+ },
+ {
+   "zip_code": 33140,
+   "performance_score": 39.09090909
+ },
+ {
+   "zip_code": 34698,
+   "performance_score": 39.08333333
+ },
+ {
+   "zip_code": 32117,
+   "performance_score": 39.08333333
+ },
+ {
+   "zip_code": 33136,
+   "performance_score": 39.08333333
+ },
+ {
+   "zip_code": 32177,
+   "performance_score": 39.08333333
+ },
+ {
+   "zip_code": 32055,
+   "performance_score": 39.08333333
+ },
+ {
+   "zip_code": 33614,
+   "performance_score": 39.0625
+ },
+ {
+   "zip_code": 34761,
+   "performance_score": 39.0625
+ },
+ {
+   "zip_code": 33321,
+   "performance_score": 39.0625
+ },
+ {
+   "zip_code": 33435,
+   "performance_score": 39.0625
+ },
+ {
+   "zip_code": 33609,
+   "performance_score": 39.05
+ },
+ {
+   "zip_code": 80210,
+   "performance_score": 39.05
+ },
+ {
+   "zip_code": 81003,
+   "performance_score": 39
+ },
+ {
+   "zip_code": 6460,
+   "performance_score": 39
+ },
+ {
+   "zip_code": 6904,
+   "performance_score": 39
+ },
+ {
+   "zip_code": 6830,
+   "performance_score": 39
+ },
+ {
+   "zip_code": 20016,
+   "performance_score": 38.95
+ },
+ {
+   "zip_code": 20010,
+   "performance_score": 38.91666667
+ },
+ {
+   "zip_code": 94598,
+   "performance_score": 38.91666667
+ },
+ {
+   "zip_code": 80909,
+   "performance_score": 38.91666667
+ },
+ {
+   "zip_code": 81212,
+   "performance_score": 38.91666667
+ },
+ {
+   "zip_code": 80228,
+   "performance_score": 38.9
+ },
+ {
+   "zip_code": 95966,
+   "performance_score": 38.88888889
+ },
+ {
+   "zip_code": 92562,
+   "performance_score": 38.83333333
+ },
+ {
+   "zip_code": 92647,
+   "performance_score": 38.83333333
+ },
+ {
+   "zip_code": 95825,
+   "performance_score": 38.83333333
+ },
+ {
+   "zip_code": 91109,
+   "performance_score": 38.75
+ },
+ {
+   "zip_code": 90504,
+   "performance_score": 38.75
+ },
+ {
+   "zip_code": 93654,
+   "performance_score": 38.75
+ },
+ {
+   "zip_code": 95608,
+   "performance_score": 38.75
+ },
+ {
+   "zip_code": 92201,
+   "performance_score": 38.75
+ },
+ {
+   "zip_code": 92868,
+   "performance_score": 38.75
+ },
+ {
+   "zip_code": 94520,
+   "performance_score": 38.75
+ },
+ {
+   "zip_code": 91911,
+   "performance_score": 38.75
+ },
+ {
+   "zip_code": 90262,
+   "performance_score": 38.75
+ },
+ {
+   "zip_code": 95370,
+   "performance_score": 38.66666667
+ },
+ {
+   "zip_code": 92843,
+   "performance_score": 38.66666667
+ },
+ {
+   "zip_code": 93308,
+   "performance_score": 38.66666667
+ },
+ {
+   "zip_code": 93720,
+   "performance_score": 38.66666667
+ },
+ {
+   "zip_code": 91405,
+   "performance_score": 38.66666667
+ },
+ {
+   "zip_code": 93301,
+   "performance_score": 38.63636364
+ },
+ {
+   "zip_code": 91006,
+   "performance_score": 38.61666667
+ },
+ {
+   "zip_code": 90033,
+   "performance_score": 38.58333333
+ },
+ {
+   "zip_code": 90012,
+   "performance_score": 38.58333333
+ },
+ {
+   "zip_code": 93710,
+   "performance_score": 38.58333333
+ },
+ {
+   "zip_code": 91706,
+   "performance_score": 38.58333333
+ },
+ {
+   "zip_code": 95403,
+   "performance_score": 38.58333333
+ },
+ {
+   "zip_code": 95531,
+   "performance_score": 38.58333333
+ },
+ {
+   "zip_code": 90640,
+   "performance_score": 38.56666667
+ },
+ {
+   "zip_code": 92025,
+   "performance_score": 38.55555556
+ },
+ {
+   "zip_code": 72761,
+   "performance_score": 38.55
+ },
+ {
+   "zip_code": 71901,
+   "performance_score": 38.53333333
+ },
+ {
+   "zip_code": 95355,
+   "performance_score": 38.5
+ },
+ {
+   "zip_code": 92354,
+   "performance_score": 38.5
+ },
+ {
+   "zip_code": 92373,
+   "performance_score": 38.5
+ },
+ {
+   "zip_code": 93230,
+   "performance_score": 38.5
+ },
+ {
+   "zip_code": 85224,
+   "performance_score": 38.5
+ },
+ {
+   "zip_code": 85306,
+   "performance_score": 38.5
+ },
+ {
+   "zip_code": 85006,
+   "performance_score": 38.5
+ },
+ {
+   "zip_code": 85351,
+   "performance_score": 38.46666667
+ },
+ {
+   "zip_code": 72205,
+   "performance_score": 38.46666667
+ },
+ {
+   "zip_code": 35570,
+   "performance_score": 38.4375
+ },
+ {
+   "zip_code": 35768,
+   "performance_score": 38.4375
+ },
+ {
+   "zip_code": 35058,
+   "performance_score": 38.41666667
+ },
+ {
+   "zip_code": 35661,
+   "performance_score": 38.41666667
+ },
+ {
+   "zip_code": 35565,
+   "performance_score": 38.41666667
+ },
+ {
+   "zip_code": 35502,
+   "performance_score": 38.41666667
+ },
+ {
+   "zip_code": 35968,
+   "performance_score": 38.36666667
+ },
+ {
+   "zip_code": 36092,
+   "performance_score": 38.36666667
+ },
+ {
+   "zip_code": 99701,
+   "performance_score": 38.35
+ },
+ {
+   "zip_code": 85032,
+   "performance_score": 38.33333333
+ },
+ {
+   "zip_code": 86326,
+   "performance_score": 38.33333333
+ },
+ {
+   "zip_code": 54868,
+   "performance_score": 38.33333333
+ },
+ {
+   "zip_code": 53097,
+   "performance_score": 38.33333333
+ },
+ {
+   "zip_code": 33837,
+   "performance_score": 38.33333333
+ },
+ {
+   "zip_code": 33853,
+   "performance_score": 38.33333333
+ },
+ {
+   "zip_code": 82001,
+   "performance_score": 38.3
+ },
+ {
+   "zip_code": 70508,
+   "performance_score": 38.25
+ },
+ {
+   "zip_code": 80122,
+   "performance_score": 38.25
+ },
+ {
+   "zip_code": 30143,
+   "performance_score": 38.25
+ },
+ {
+   "zip_code": 91754,
+   "performance_score": 38.25
+ },
+ {
+   "zip_code": 81301,
+   "performance_score": 38.25
+ },
+ {
+   "zip_code": 53211,
+   "performance_score": 38.25
+ },
+ {
+   "zip_code": 54935,
+   "performance_score": 38.25
+ },
+ {
+   "zip_code": 53916,
+   "performance_score": 38.25
+ },
+ {
+   "zip_code": 53511,
+   "performance_score": 38.25
+ },
+ {
+   "zip_code": 53005,
+   "performance_score": 38.25
+ },
+ {
+   "zip_code": 59405,
+   "performance_score": 38.23333333
+ },
+ {
+   "zip_code": 68144,
+   "performance_score": 38.16666667
+ },
+ {
+   "zip_code": 92869,
+   "performance_score": 38.16666667
+ },
+ {
+   "zip_code": 42728,
+   "performance_score": 38.16666667
+ },
+ {
+   "zip_code": 30097,
+   "performance_score": 38.15
+ },
+ {
+   "zip_code": 82605,
+   "performance_score": 38.125
+ },
+ {
+   "zip_code": 47905,
+   "performance_score": 38.125
+ },
+ {
+   "zip_code": 55369,
+   "performance_score": 38.125
+ },
+ {
+   "zip_code": 80228,
+   "performance_score": 38.08333333
+ },
+ {
+   "zip_code": 17402,
+   "performance_score": 38.08333333
+ },
+ {
+   "zip_code": 74012,
+   "performance_score": 38.08333333
+ },
+ {
+   "zip_code": 53024,
+   "performance_score": 38.08333333
+ },
+ {
+   "zip_code": 77070,
+   "performance_score": 38.08333333
+ },
+ {
+   "zip_code": 70403,
+   "performance_score": 38.08333333
+ },
+ {
+   "zip_code": 29569,
+   "performance_score": 38
+ },
+ {
+   "zip_code": 45241,
+   "performance_score": 38
+ },
+ {
+   "zip_code": 46240,
+   "performance_score": 38
+ },
+ {
+   "zip_code": 80109,
+   "performance_score": 38
+ },
+ {
+   "zip_code": 34758,
+   "performance_score": 38
+ },
+ {
+   "zip_code": 77584,
+   "performance_score": 38
+ },
+ {
+   "zip_code": 74301,
+   "performance_score": 38
+ },
+ {
+   "zip_code": 73080,
+   "performance_score": 38
+ },
+ {
+   "zip_code": 2301,
+   "performance_score": 38
+ },
+ {
+   "zip_code": 1082,
+   "performance_score": 38
+ },
+ {
+   "zip_code": 1040,
+   "performance_score": 37.91666667
+ },
+ {
+   "zip_code": 48162,
+   "performance_score": 37.91666667
+ },
+ {
+   "zip_code": 4605,
+   "performance_score": 37.91666667
+ },
+ {
+   "zip_code": 3909,
+   "performance_score": 37.91666667
+ },
+ {
+   "zip_code": 48180,
+   "performance_score": 37.91666667
+ },
+ {
+   "zip_code": 49464,
+   "performance_score": 37.91666667
+ },
+ {
+   "zip_code": 49007,
+   "performance_score": 37.91666667
+ },
+ {
+   "zip_code": 48858,
+   "performance_score": 37.91666667
+ },
+ {
+   "zip_code": 49091,
+   "performance_score": 37.85
+ },
+ {
+   "zip_code": 49090,
+   "performance_score": 37.83333333
+ },
+ {
+   "zip_code": 49423,
+   "performance_score": 37.83333333
+ },
+ {
+   "zip_code": 48135,
+   "performance_score": 37.75
+ },
+ {
+   "zip_code": 48811,
+   "performance_score": 37.75
+ },
+ {
+   "zip_code": 48439,
+   "performance_score": 37.75
+ },
+ {
+   "zip_code": 48093,
+   "performance_score": 37.75
+ },
+ {
+   "zip_code": 55021,
+   "performance_score": 37.75
+ },
+ {
+   "zip_code": 55387,
+   "performance_score": 37.75
+ },
+ {
+   "zip_code": 39046,
+   "performance_score": 37.75
+ },
+ {
+   "zip_code": 55102,
+   "performance_score": 37.71666667
+ },
+ {
+   "zip_code": 56601,
+   "performance_score": 37.66666667
+ },
+ {
+   "zip_code": 55066,
+   "performance_score": 37.66666667
+ },
+ {
+   "zip_code": 55092,
+   "performance_score": 37.66666667
+ },
+ {
+   "zip_code": 55805,
+   "performance_score": 37.66666667
+ },
+ {
+   "zip_code": 55379,
+   "performance_score": 37.58333333
+ },
+ {
+   "zip_code": 63026,
+   "performance_score": 37.58333333
+ },
+ {
+   "zip_code": 39503,
+   "performance_score": 37.58333333
+ },
+ {
+   "zip_code": 68510,
+   "performance_score": 37.58333333
+ },
+ {
+   "zip_code": 39452,
+   "performance_score": 37.58333333
+ },
+ {
+   "zip_code": 63376,
+   "performance_score": 37.58333333
+ },
+ {
+   "zip_code": 63044,
+   "performance_score": 37.5
+ },
+ {
+   "zip_code": 65201,
+   "performance_score": 37.5
+ },
+ {
+   "zip_code": 65101,
+   "performance_score": 37.5
+ },
+ {
+   "zip_code": 59107,
+   "performance_score": 37.5
+ },
+ {
+   "zip_code": 59901,
+   "performance_score": 37.5
+ },
+ {
+   "zip_code": 89406,
+   "performance_score": 37.41666667
+ },
+ {
+   "zip_code": 89119,
+   "performance_score": 37.33333333
+ },
+ {
+   "zip_code": 89109,
+   "performance_score": 37.33333333
+ },
+ {
+   "zip_code": 89144,
+   "performance_score": 37.33333333
+ },
+ {
+   "zip_code": 89434,
+   "performance_score": 37.33333333
+ },
+ {
+   "zip_code": 63141,
+   "performance_score": 37.33333333
+ },
+ {
+   "zip_code": 57108,
+   "performance_score": 37.33333333
+ },
+ {
+   "zip_code": 29801,
+   "performance_score": 37.33333333
+ },
+ {
+   "zip_code": 29505,
+   "performance_score": 37.33333333
+ },
+ {
+   "zip_code": 29440,
+   "performance_score": 37.3
+ },
+ {
+   "zip_code": 29944,
+   "performance_score": 37.25
+ },
+ {
+   "zip_code": 29506,
+   "performance_score": 37.25
+ },
+ {
+   "zip_code": 29220,
+   "performance_score": 37.25
+ },
+ {
+   "zip_code": 75701,
+   "performance_score": 37.25
+ },
+ {
+   "zip_code": 77340,
+   "performance_score": 37.25
+ },
+ {
+   "zip_code": 78539,
+   "performance_score": 37.25
+ },
+ {
+   "zip_code": 18711,
+   "performance_score": 37.25
+ },
+ {
+   "zip_code": 19401,
+   "performance_score": 37.25
+ },
+ {
+   "zip_code": 15963,
+   "performance_score": 37.1875
+ },
+ {
+   "zip_code": 17403,
+   "performance_score": 37.1875
+ },
+ {
+   "zip_code": 16701,
+   "performance_score": 37.1875
+ },
+ {
+   "zip_code": 15215,
+   "performance_score": 37.1875
+ },
+ {
+   "zip_code": 19104,
+   "performance_score": 37.1875
+ },
+ {
+   "zip_code": 73701,
+   "performance_score": 37.1875
+ },
+ {
+   "zip_code": 44601,
+   "performance_score": 37.16666667
+ },
+ {
+   "zip_code": 45056,
+   "performance_score": 37.16666667
+ },
+ {
+   "zip_code": 43050,
+   "performance_score": 37.16666667
+ },
+ {
+   "zip_code": 44805,
+   "performance_score": 37.16666667
+ },
+ {
+   "zip_code": 45885,
+   "performance_score": 37.1
+ },
+ {
+   "zip_code": 74023,
+   "performance_score": 37.08333333
+ },
+ {
+   "zip_code": 74447,
+   "performance_score": 37.08333333
+ },
+ {
+   "zip_code": 74133,
+   "performance_score": 37.06666667
+ },
+ {
+   "zip_code": 45891,
+   "performance_score": 37
+ },
+ {
+   "zip_code": 44256,
+   "performance_score": 37
+ },
+ {
+   "zip_code": 44106,
+   "performance_score": 37
+ },
+ {
+   "zip_code": 45220,
+   "performance_score": 37
+ },
+ {
+   "zip_code": 44710,
+   "performance_score": 37
+ },
+ {
+   "zip_code": 44113,
+   "performance_score": 37
+ },
+ {
+   "zip_code": 45342,
+   "performance_score": 37
+ },
+ {
+   "zip_code": 44195,
+   "performance_score": 37
+ },
+ {
+   "zip_code": 44223,
+   "performance_score": 37
+ },
+ {
+   "zip_code": 28150,
+   "performance_score": 36.91666667
+ },
+ {
+   "zip_code": 27288,
+   "performance_score": 36.91666667
+ },
+ {
+   "zip_code": 28601,
+   "performance_score": 36.91666667
+ },
+ {
+   "zip_code": 27536,
+   "performance_score": 36.91666667
+ },
+ {
+   "zip_code": 58506,
+   "performance_score": 36.91666667
+ },
+ {
+   "zip_code": 58201,
+   "performance_score": 36.91666667
+ },
+ {
+   "zip_code": 11590,
+   "performance_score": 36.91666667
+ },
+ {
+   "zip_code": 14020,
+   "performance_score": 36.91666667
+ },
+ {
+   "zip_code": 10457,
+   "performance_score": 36.91666667
+ },
+ {
+   "zip_code": 13905,
+   "performance_score": 36.9
+ },
+ {
+   "zip_code": 28204,
+   "performance_score": 36.875
+ },
+ {
+   "zip_code": 28302,
+   "performance_score": 36.875
+ },
+ {
+   "zip_code": 27609,
+   "performance_score": 36.875
+ },
+ {
+   "zip_code": 27103,
+   "performance_score": 36.875
+ },
+ {
+   "zip_code": 14092,
+   "performance_score": 36.85
+ },
+ {
+   "zip_code": 13601,
+   "performance_score": 36.83333333
+ },
+ {
+   "zip_code": 12180,
+   "performance_score": 36.83333333
+ },
+ {
+   "zip_code": 11355,
+   "performance_score": 36.83333333
+ },
+ {
+   "zip_code": 14141,
+   "performance_score": 36.83333333
+ },
+ {
+   "zip_code": 14302,
+   "performance_score": 36.83333333
+ },
+ {
+   "zip_code": 10310,
+   "performance_score": 36.81818182
+ },
+ {
+   "zip_code": 10451,
+   "performance_score": 36.75
+ },
+ {
+   "zip_code": 11803,
+   "performance_score": 36.75
+ },
+ {
+   "zip_code": 13820,
+   "performance_score": 36.75
+ },
+ {
+   "zip_code": 12550,
+   "performance_score": 36.75
+ },
+ {
+   "zip_code": 13503,
+   "performance_score": 36.75
+ },
+ {
+   "zip_code": 12180,
+   "performance_score": 36.66666667
+ },
+ {
+   "zip_code": 10595,
+   "performance_score": 36.66666667
+ },
+ {
+   "zip_code": 87301,
+   "performance_score": 36.66666667
+ },
+ {
+   "zip_code": 87106,
+   "performance_score": 36.66666667
+ },
+ {
+   "zip_code": 3246,
+   "performance_score": 36.66666667
+ },
+ {
+   "zip_code": 3103,
+   "performance_score": 36.66666667
+ },
+ {
+   "zip_code": 8701,
+   "performance_score": 36.58333333
+ },
+ {
+   "zip_code": 7047,
+   "performance_score": 36.58333333
+ },
+ {
+   "zip_code": 8052,
+   "performance_score": 36.58333333
+ },
+ {
+   "zip_code": 37076,
+   "performance_score": 36.58333333
+ },
+ {
+   "zip_code": 37620,
+   "performance_score": 36.58333333
+ },
+ {
+   "zip_code": 37643,
+   "performance_score": 36.5625
+ },
+ {
+   "zip_code": 38237,
+   "performance_score": 36.5625
+ },
+ {
+   "zip_code": 37404,
+   "performance_score": 36.5625
+ },
+ {
+   "zip_code": 37232,
+   "performance_score": 36.5625
+ },
+ {
+   "zip_code": 37404,
+   "performance_score": 36.53333333
+ },
+ {
+   "zip_code": 37398,
+   "performance_score": 36.5
+ },
+ {
+   "zip_code": 37830,
+   "performance_score": 36.5
+ },
+ {
+   "zip_code": 37087,
+   "performance_score": 36.5
+ },
+ {
+   "zip_code": 78701,
+   "performance_score": 36.5
+ },
+ {
+   "zip_code": 79606,
+   "performance_score": 36.5
+ },
+ {
+   "zip_code": 75057,
+   "performance_score": 36.5
+ },
+ {
+   "zip_code": 78250,
+   "performance_score": 36.5
+ },
+ {
+   "zip_code": 78224,
+   "performance_score": 36.5
+ },
+ {
+   "zip_code": 75951,
+   "performance_score": 36.5
+ },
+ {
+   "zip_code": 76104,
+   "performance_score": 36.5
+ },
+ {
+   "zip_code": 77030,
+   "performance_score": 36.5
+ },
+ {
+   "zip_code": 78332,
+   "performance_score": 36.45833333
+ },
+ {
+   "zip_code": 79902,
+   "performance_score": 36.44444444
+ },
+ {
+   "zip_code": 75203,
+   "performance_score": 36.41666667
+ },
+ {
+   "zip_code": 78205,
+   "performance_score": 36.41666667
+ },
+ {
+   "zip_code": 75061,
+   "performance_score": 36.41666667
+ },
+ {
+   "zip_code": 75701,
+   "performance_score": 36.41666667
+ },
+ {
+   "zip_code": 78596,
+   "performance_score": 36.41666667
+ },
+ {
+   "zip_code": 76645,
+   "performance_score": 36.41666667
+ },
+ {
+   "zip_code": 77469,
+   "performance_score": 36.38333333
+ },
+ {
+   "zip_code": 75204,
+   "performance_score": 36.36363636
+ },
+ {
+   "zip_code": 76048,
+   "performance_score": 36.35416667
+ },
+ {
+   "zip_code": 77598,
+   "performance_score": 36.35
+ },
+ {
+   "zip_code": 23298,
+   "performance_score": 36.35
+ },
+ {
+   "zip_code": 23507,
+   "performance_score": 36.33333333
+ },
+ {
+   "zip_code": 78207,
+   "performance_score": 36.33333333
+ },
+ {
+   "zip_code": 75069,
+   "performance_score": 36.25
+ },
+ {
+   "zip_code": 79761,
+   "performance_score": 36.25
+ },
+ {
+   "zip_code": 76201,
+   "performance_score": 36.25
+ },
+ {
+   "zip_code": 24501,
+   "performance_score": 36.25
+ },
+ {
+   "zip_code": 20190,
+   "performance_score": 36.25
+ },
+ {
+   "zip_code": 23223,
+   "performance_score": 36.25
+ },
+ {
+   "zip_code": 23505,
+   "performance_score": 36.25
+ },
+ {
+   "zip_code": 22042,
+   "performance_score": 36.25
+ },
+ {
+   "zip_code": 53098,
+   "performance_score": 36.25
+ },
+ {
+   "zip_code": 84143,
+   "performance_score": 36.23333333
+ },
+ {
+   "zip_code": 84074,
+   "performance_score": 36.16666667
+ },
+ {
+   "zip_code": 5401,
+   "performance_score": 36.16666667
+ },
+ {
+   "zip_code": 26038,
+   "performance_score": 36.16666667
+ },
+ {
+   "zip_code": 25550,
+   "performance_score": 36.16666667
+ },
+ {
+   "zip_code": 25801,
+   "performance_score": 36.16666667
+ },
+ {
+   "zip_code": 82072,
+   "performance_score": 36.16666667
+ },
+ {
+   "zip_code": 82501,
+   "performance_score": 36.16666667
+ },
+ {
+   "zip_code": 22560,
+   "performance_score": 36.16666667
+ },
+ {
+   "zip_code": 98223,
+   "performance_score": 36.16666667
+ },
+ {
+   "zip_code": 98001,
+   "performance_score": 36.16666667
+ },
+ {
+   "zip_code": 98632,
+   "performance_score": 36.16666667
+ },
+ {
+   "zip_code": 98499,
+   "performance_score": 36.08333333
+ },
+ {
+   "zip_code": 98195,
+   "performance_score": 36.08333333
+ },
+ {
+   "zip_code": 70526,
+   "performance_score": 36.08333333
+ },
+ {
+   "zip_code": 71040,
+   "performance_score": 36.08333333
+ },
+ {
+   "zip_code": 71291,
+   "performance_score": 36.08333333
+ },
+ {
+   "zip_code": 71202,
+   "performance_score": 36.08333333
+ },
+ {
+   "zip_code": 71254,
+   "performance_score": 36
+ },
+ {
+   "zip_code": 70433,
+   "performance_score": 36
+ },
+ {
+   "zip_code": 70605,
+   "performance_score": 36
+ },
+ {
+   "zip_code": 70070,
+   "performance_score": 36
+ },
+ {
+   "zip_code": 41075,
+   "performance_score": 35.91666667
+ },
+ {
+   "zip_code": 41503,
+   "performance_score": 35.91666667
+ },
+ {
+   "zip_code": 40202,
+   "performance_score": 35.91666667
+ },
+ {
+   "zip_code": 41339,
+   "performance_score": 35.90909091
+ },
+ {
+   "zip_code": 40741,
+   "performance_score": 35.86666667
+ },
+ {
+   "zip_code": 42304,
+   "performance_score": 35.83333333
+ },
+ {
+   "zip_code": 40456,
+   "performance_score": 35.83333333
+ },
+ {
+   "zip_code": 42167,
+   "performance_score": 35.83333333
+ },
+ {
+   "zip_code": 66701,
+   "performance_score": 35.83333333
+ },
+ {
+   "zip_code": 66103,
+   "performance_score": 35.83333333
+ },
+ {
+   "zip_code": 66213,
+   "performance_score": 35.83333333
+ },
+ {
+   "zip_code": 66211,
+   "performance_score": 35.83333333
+ },
+ {
+   "zip_code": 66502,
+   "performance_score": 35.83333333
+ },
+ {
+   "zip_code": 66048,
+   "performance_score": 35.83333333
+ },
+ {
+   "zip_code": 67801,
+   "performance_score": 35.83333333
+ },
+ {
+   "zip_code": 67460,
+   "performance_score": 35.83333333
+ },
+ {
+   "zip_code": 67114,
+   "performance_score": 35.75
+ },
+ {
+   "zip_code": 66048,
+   "performance_score": 35.75
+ },
+ {
+   "zip_code": 66044,
+   "performance_score": 35.75
+ },
+ {
+   "zip_code": 52803,
+   "performance_score": 35.75
+ },
+ {
+   "zip_code": 51104,
+   "performance_score": 35.71666667
+ },
+ {
+   "zip_code": 46902,
+   "performance_score": 35.68333333
+ },
+ {
+   "zip_code": 46514,
+   "performance_score": 35.66666667
+ },
+ {
+   "zip_code": 46342,
+   "performance_score": 35.66666667
+ },
+ {
+   "zip_code": 46321,
+   "performance_score": 35.66666667
+ },
+ {
+   "zip_code": 46311,
+   "performance_score": 35.66666667
+ },
+ {
+   "zip_code": 46219,
+   "performance_score": 35.66666667
+ },
+ {
+   "zip_code": 46904,
+   "performance_score": 35.66666667
+ },
+ {
+   "zip_code": 46122,
+   "performance_score": 35.66666667
+ },
+ {
+   "zip_code": 47501,
+   "performance_score": 35.625
+ },
+ {
+   "zip_code": 46526,
+   "performance_score": 35.625
+ },
+ {
+   "zip_code": 46804,
+   "performance_score": 35.625
+ },
+ {
+   "zip_code": 61938,
+   "performance_score": 35.625
+ },
+ {
+   "zip_code": 60160,
+   "performance_score": 35.58333333
+ },
+ {
+   "zip_code": 60160,
+   "performance_score": 35.58333333
+ },
+ {
+   "zip_code": 61081,
+   "performance_score": 35.58333333
+ },
+ {
+   "zip_code": 61401,
+   "performance_score": 35.58333333
+ },
+ {
+   "zip_code": 62959,
+   "performance_score": 35.58333333
+ },
+ {
+   "zip_code": 62521,
+   "performance_score": 35.58333333
+ },
+ {
+   "zip_code": 60540,
+   "performance_score": 35.51666667
+ },
+ {
+   "zip_code": 62040,
+   "performance_score": 35.5
+ },
+ {
+   "zip_code": 62222,
+   "performance_score": 35.5
+ },
+ {
+   "zip_code": 60142,
+   "performance_score": 35.5
+ },
+ {
+   "zip_code": 60521,
+   "performance_score": 35.5
+ },
+ {
+   "zip_code": 62650,
+   "performance_score": 35.5
+ },
+ {
+   "zip_code": 62946,
+   "performance_score": 35.5
+ },
+ {
+   "zip_code": 96750,
+   "performance_score": 35.48333333
+ },
+ {
+   "zip_code": 96813,
+   "performance_score": 35.45454545
+ },
+ {
+   "zip_code": 96786,
+   "performance_score": 35.45454545
+ },
+ {
+   "zip_code": 83704,
+   "performance_score": 35.45454545
+ },
+ {
+   "zip_code": 83404,
+   "performance_score": 35.41666667
+ },
+ {
+   "zip_code": 61801,
+   "performance_score": 35.41666667
+ },
+ {
+   "zip_code": 60612,
+   "performance_score": 35.41666667
+ },
+ {
+   "zip_code": 62062,
+   "performance_score": 35.41666667
+ },
+ {
+   "zip_code": 31015,
+   "performance_score": 35.41666667
+ },
+ {
+   "zip_code": 31405,
+   "performance_score": 35.33333333
+ },
+ {
+   "zip_code": 30117,
+   "performance_score": 35.33333333
+ },
+ {
+   "zip_code": 30045,
+   "performance_score": 35.33333333
+ },
+ {
+   "zip_code": 31794,
+   "performance_score": 35.33333333
+ },
+ {
+   "zip_code": 30309,
+   "performance_score": 35.33333333
+ },
+ {
+   "zip_code": 30120,
+   "performance_score": 35.33333333
+ },
+ {
+   "zip_code": 31792,
+   "performance_score": 35.33333333
+ },
+ {
+   "zip_code": 30655,
+   "performance_score": 35.33333333
+ },
+ {
+   "zip_code": 30680,
+   "performance_score": 35.33333333
+ },
+ {
+   "zip_code": 31909,
+   "performance_score": 35.3125
+ },
+ {
+   "zip_code": 31093,
+   "performance_score": 35.3125
+ },
+ {
+   "zip_code": 30286,
+   "performance_score": 35.25
+ },
+ {
+   "zip_code": 30165,
+   "performance_score": 35.25
+ },
+ {
+   "zip_code": 31995,
+   "performance_score": 35.25
+ },
+ {
+   "zip_code": 30577,
+   "performance_score": 35.25
+ },
+ {
+   "zip_code": 32308,
+   "performance_score": 35.25
+ },
+ {
+   "zip_code": 33180,
+   "performance_score": 35.25
+ },
+ {
+   "zip_code": 32405,
+   "performance_score": 35.22222222
+ },
+ {
+   "zip_code": 34471,
+   "performance_score": 35.16666667
+ },
+ {
+   "zip_code": 33065,
+   "performance_score": 35.16666667
+ },
+ {
+   "zip_code": 33013,
+   "performance_score": 35.16666667
+ },
+ {
+   "zip_code": 34695,
+   "performance_score": 35.16666667
+ },
+ {
+   "zip_code": 33150,
+   "performance_score": 35.16666667
+ },
+ {
+   "zip_code": 32055,
+   "performance_score": 35.16666667
+ },
+ {
+   "zip_code": 33316,
+   "performance_score": 35.16666667
+ },
+ {
+   "zip_code": 33331,
+   "performance_score": 35.08333333
+ },
+ {
+   "zip_code": 34478,
+   "performance_score": 35.08333333
+ },
+ {
+   "zip_code": 33308,
+   "performance_score": 35.08333333
+ },
+ {
+   "zip_code": 33830,
+   "performance_score": 35.08333333
+ },
+ {
+   "zip_code": 33401,
+   "performance_score": 35.08333333
+ },
+ {
+   "zip_code": 80113,
+   "performance_score": 35.08333333
+ },
+ {
+   "zip_code": 80045,
+   "performance_score": 35.05
+ },
+ {
+   "zip_code": 6856,
+   "performance_score": 35
+ },
+ {
+   "zip_code": 6721,
+   "performance_score": 35
+ },
+ {
+   "zip_code": 6010,
+   "performance_score": 35
+ },
+ {
+   "zip_code": 6320,
+   "performance_score": 35
+ },
+ {
+   "zip_code": 19973,
+   "performance_score": 35
+ },
+ {
+   "zip_code": 20032,
+   "performance_score": 35
+ },
+ {
+   "zip_code": 33707,
+   "performance_score": 35
+ },
+ {
+   "zip_code": 32034,
+   "performance_score": 35
+ },
+ {
+   "zip_code": 94040,
+   "performance_score": 35
+ },
+ {
+   "zip_code": 90602,
+   "performance_score": 35
+ },
+ {
+   "zip_code": 95901,
+   "performance_score": 34.91666667
+ },
+ {
+   "zip_code": 95926,
+   "performance_score": 34.91666667
+ },
+ {
+   "zip_code": 95501,
+   "performance_score": 34.91666667
+ },
+ {
+   "zip_code": 80538,
+   "performance_score": 34.91666667
+ },
+ {
+   "zip_code": 80218,
+   "performance_score": 34.91666667
+ },
+ {
+   "zip_code": 81505,
+   "performance_score": 34.89583333
+ },
+ {
+   "zip_code": 94588,
+   "performance_score": 34.88888889
+ },
+ {
+   "zip_code": 93306,
+   "performance_score": 34.83333333
+ },
+ {
+   "zip_code": 92663,
+   "performance_score": 34.83333333
+ },
+ {
+   "zip_code": 93721,
+   "performance_score": 34.83333333
+ },
+ {
+   "zip_code": 92103,
+   "performance_score": 34.75
+ },
+ {
+   "zip_code": 91307,
+   "performance_score": 34.75
+ },
+ {
+   "zip_code": 93901,
+   "performance_score": 34.75
+ },
+ {
+   "zip_code": 93940,
+   "performance_score": 34.75
+ },
+ {
+   "zip_code": 95747,
+   "performance_score": 34.75
+ },
+ {
+   "zip_code": 92870,
+   "performance_score": 34.75
+ },
+ {
+   "zip_code": 95204,
+   "performance_score": 34.75
+ },
+ {
+   "zip_code": 91209,
+   "performance_score": 34.75
+ },
+ {
+   "zip_code": 90033,
+   "performance_score": 34.75
+ },
+ {
+   "zip_code": 92627,
+   "performance_score": 34.75
+ },
+ {
+   "zip_code": 90017,
+   "performance_score": 34.75
+ },
+ {
+   "zip_code": 95340,
+   "performance_score": 34.6875
+ },
+ {
+   "zip_code": 94015,
+   "performance_score": 34.6875
+ },
+ {
+   "zip_code": 93906,
+   "performance_score": 34.6875
+ },
+ {
+   "zip_code": 95667,
+   "performance_score": 34.6875
+ },
+ {
+   "zip_code": 94589,
+   "performance_score": 34.6875
+ },
+ {
+   "zip_code": 96001,
+   "performance_score": 34.6875
+ },
+ {
+   "zip_code": 90023,
+   "performance_score": 34.66666667
+ },
+ {
+   "zip_code": 95355,
+   "performance_score": 34.66666667
+ },
+ {
+   "zip_code": 95124,
+   "performance_score": 34.66666667
+ },
+ {
+   "zip_code": 90015,
+   "performance_score": 34.66666667
+ },
+ {
+   "zip_code": 95076,
+   "performance_score": 34.66666667
+ },
+ {
+   "zip_code": 92708,
+   "performance_score": 34.66666667
+ },
+ {
+   "zip_code": 90712,
+   "performance_score": 34.66666667
+ },
+ {
+   "zip_code": 90241,
+   "performance_score": 34.66666667
+ },
+ {
+   "zip_code": 90404,
+   "performance_score": 34.66666667
+ },
+ {
+   "zip_code": 90509,
+   "performance_score": 34.63333333
+ },
+ {
+   "zip_code": 94110,
+   "performance_score": 34.6
+ },
+ {
+   "zip_code": 85745,
+   "performance_score": 34.58333333
+ },
+ {
+   "zip_code": 86045,
+   "performance_score": 34.58333333
+ },
+ {
+   "zip_code": 35555,
+   "performance_score": 34.58333333
+ },
+ {
+   "zip_code": 36853,
+   "performance_score": 34.54545455
+ },
+ {
+   "zip_code": 35594,
+   "performance_score": 34.54545455
+ },
+ {
+   "zip_code": 36037,
+   "performance_score": 34.5
+ },
+ {
+   "zip_code": 36340,
+   "performance_score": 34.5
+ },
+ {
+   "zip_code": 35801,
+   "performance_score": 34.5
+ },
+ {
+   "zip_code": 35401,
+   "performance_score": 34.5
+ },
+ {
+   "zip_code": 35801,
+   "performance_score": 34.5
+ },
+ {
+   "zip_code": 35125,
+   "performance_score": 34.5
+ },
+ {
+   "zip_code": 85308,
+   "performance_score": 34.5
+ },
+ {
+   "zip_code": 85202,
+   "performance_score": 34.5
+ },
+ {
+   "zip_code": 85206,
+   "performance_score": 34.5
+ },
+ {
+   "zip_code": 60657,
+   "performance_score": 34.5
+ },
+ {
+   "zip_code": 43623,
+   "performance_score": 34.5
+ },
+ {
+   "zip_code": 78664,
+   "performance_score": 34.48333333
+ },
+ {
+   "zip_code": 70445,
+   "performance_score": 34.41666667
+ },
+ {
+   "zip_code": 80124,
+   "performance_score": 34.41666667
+ },
+ {
+   "zip_code": 46032,
+   "performance_score": 34.41666667
+ },
+ {
+   "zip_code": 34202,
+   "performance_score": 34.41666667
+ },
+ {
+   "zip_code": 54601,
+   "performance_score": 34.41666667
+ },
+ {
+   "zip_code": 54221,
+   "performance_score": 34.41666667
+ },
+ {
+   "zip_code": 53212,
+   "performance_score": 34.41666667
+ },
+ {
+   "zip_code": 53538,
+   "performance_score": 34.41666667
+ },
+ {
+   "zip_code": 76208,
+   "performance_score": 34.41666667
+ },
+ {
+   "zip_code": 72118,
+   "performance_score": 34.38333333
+ },
+ {
+   "zip_code": 30058,
+   "performance_score": 34.375
+ },
+ {
+   "zip_code": 80443,
+   "performance_score": 34.375
+ },
+ {
+   "zip_code": 34769,
+   "performance_score": 34.375
+ },
+ {
+   "zip_code": 86426,
+   "performance_score": 34.33333333
+ },
+ {
+   "zip_code": 63368,
+   "performance_score": 34.33333333
+ },
+ {
+   "zip_code": 77429,
+   "performance_score": 34.33333333
+ },
+ {
+   "zip_code": 78613,
+   "performance_score": 34.33333333
+ },
+ {
+   "zip_code": 89149,
+   "performance_score": 34.33333333
+ },
+ {
+   "zip_code": 91356,
+   "performance_score": 34.33333333
+ },
+ {
+   "zip_code": 47150,
+   "performance_score": 34.33333333
+ },
+ {
+   "zip_code": 98332,
+   "performance_score": 34.33333333
+ },
+ {
+   "zip_code": 92555,
+   "performance_score": 34.33333333
+ },
+ {
+   "zip_code": 75182,
+   "performance_score": 34.28333333
+ },
+ {
+   "zip_code": 84065,
+   "performance_score": 34.25
+ },
+ {
+   "zip_code": 15301,
+   "performance_score": 34.25
+ },
+ {
+   "zip_code": 75001,
+   "performance_score": 34.25
+ },
+ {
+   "zip_code": 85140,
+   "performance_score": 34.25
+ },
+ {
+   "zip_code": 77094,
+   "performance_score": 34.18333333
+ },
+ {
+   "zip_code": 92618,
+   "performance_score": 34.16666667
+ },
+ {
+   "zip_code": 32940,
+   "performance_score": 34.16666667
+ },
+ {
+   "zip_code": 85008,
+   "performance_score": 34.16666667
+ },
+ {
+   "zip_code": 15146,
+   "performance_score": 34.16666667
+ },
+ {
+   "zip_code": 66739,
+   "performance_score": 34.16666667
+ },
+ {
+   "zip_code": 77845,
+   "performance_score": 34.16666667
+ },
+ {
+   "zip_code": 32068,
+   "performance_score": 34.16666667
+ },
+ {
+   "zip_code": 29212,
+   "performance_score": 34.16666667
+ },
+ {
+   "zip_code": 73533,
+   "performance_score": 34.16666667
+ },
+ {
+   "zip_code": 73018,
+   "performance_score": 34.09090909
+ },
+ {
+   "zip_code": 73110,
+   "performance_score": 34.09090909
+ },
+ {
+   "zip_code": 73070,
+   "performance_score": 34.08333333
+ },
+ {
+   "zip_code": 74127,
+   "performance_score": 34.08333333
+ },
+ {
+   "zip_code": 74344,
+   "performance_score": 34.08333333
+ },
+ {
+   "zip_code": 2130,
+   "performance_score": 34.08333333
+ },
+ {
+   "zip_code": 2176,
+   "performance_score": 34.06666667
+ },
+ {
+   "zip_code": 2360,
+   "performance_score": 34.0625
+ },
+ {
+   "zip_code": 2720,
+   "performance_score": 34.0625
+ },
+ {
+   "zip_code": 2135,
+   "performance_score": 34.0625
+ },
+ {
+   "zip_code": 2601,
+   "performance_score": 34.0625
+ },
+ {
+   "zip_code": 2703,
+   "performance_score": 34.0625
+ },
+ {
+   "zip_code": 2190,
+   "performance_score": 34.01666667
+ },
+ {
+   "zip_code": 2721,
+   "performance_score": 34
+ },
+ {
+   "zip_code": 49684,
+   "performance_score": 34
+ },
+ {
+   "zip_code": 4401,
+   "performance_score": 34
+ },
+ {
+   "zip_code": 49707,
+   "performance_score": 34
+ },
+ {
+   "zip_code": 48085,
+   "performance_score": 34
+ },
+ {
+   "zip_code": 49036,
+   "performance_score": 34
+ },
+ {
+   "zip_code": 48867,
+   "performance_score": 34
+ },
+ {
+   "zip_code": 48601,
+   "performance_score": 34
+ },
+ {
+   "zip_code": 48838,
+   "performance_score": 33.98333333
+ },
+ {
+   "zip_code": 48106,
+   "performance_score": 33.91666667
+ },
+ {
+   "zip_code": 1890,
+   "performance_score": 33.91666667
+ },
+ {
+   "zip_code": 48235,
+   "performance_score": 33.91666667
+ },
+ {
+   "zip_code": 48184,
+   "performance_score": 33.91666667
+ },
+ {
+   "zip_code": 49201,
+   "performance_score": 33.91666667
+ },
+ {
+   "zip_code": 49738,
+   "performance_score": 33.91666667
+ },
+ {
+   "zip_code": 48201,
+   "performance_score": 33.83333333
+ },
+ {
+   "zip_code": 48118,
+   "performance_score": 33.83333333
+ },
+ {
+   "zip_code": 48307,
+   "performance_score": 33.83333333
+ },
+ {
+   "zip_code": 55902,
+   "performance_score": 33.83333333
+ },
+ {
+   "zip_code": 55057,
+   "performance_score": 33.83333333
+ },
+ {
+   "zip_code": 48060,
+   "performance_score": 33.83333333
+ },
+ {
+   "zip_code": 55904,
+   "performance_score": 33.83333333
+ },
+ {
+   "zip_code": 56537,
+   "performance_score": 33.83333333
+ },
+ {
+   "zip_code": 55125,
+   "performance_score": 33.83333333
+ },
+ {
+   "zip_code": 64116,
+   "performance_score": 33.75
+ },
+ {
+   "zip_code": 63640,
+   "performance_score": 33.75
+ },
+ {
+   "zip_code": 64108,
+   "performance_score": 33.75
+ },
+ {
+   "zip_code": 63117,
+   "performance_score": 33.75
+ },
+ {
+   "zip_code": 65613,
+   "performance_score": 33.75
+ },
+ {
+   "zip_code": 64063,
+   "performance_score": 33.75
+ },
+ {
+   "zip_code": 65340,
+   "performance_score": 33.75
+ },
+ {
+   "zip_code": 63110,
+   "performance_score": 33.75
+ },
+ {
+   "zip_code": 39601,
+   "performance_score": 33.75
+ },
+ {
+   "zip_code": 39042,
+   "performance_score": 33.75
+ },
+ {
+   "zip_code": 39367,
+   "performance_score": 33.75
+ },
+ {
+   "zip_code": 38852,
+   "performance_score": 33.75
+ },
+ {
+   "zip_code": 38614,
+   "performance_score": 33.7
+ },
+ {
+   "zip_code": 39183,
+   "performance_score": 33.68333333
+ },
+ {
+   "zip_code": 63141,
+   "performance_score": 33.66666667
+ },
+ {
+   "zip_code": 39502,
+   "performance_score": 33.66666667
+ },
+ {
+   "zip_code": 64132,
+   "performance_score": 33.66666667
+ },
+ {
+   "zip_code": 59701,
+   "performance_score": 33.66666667
+ },
+ {
+   "zip_code": 68122,
+   "performance_score": 33.66666667
+ },
+ {
+   "zip_code": 69101,
+   "performance_score": 33.66666667
+ },
+ {
+   "zip_code": 68701,
+   "performance_score": 33.65
+ },
+ {
+   "zip_code": 89106,
+   "performance_score": 33.65
+ },
+ {
+   "zip_code": 65401,
+   "performance_score": 33.63636364
+ },
+ {
+   "zip_code": 57301,
+   "performance_score": 33.6
+ },
+ {
+   "zip_code": 57201,
+   "performance_score": 33.58333333
+ },
+ {
+   "zip_code": 2840,
+   "performance_score": 33.58333333
+ },
+ {
+   "zip_code": 29605,
+   "performance_score": 33.58333333
+ },
+ {
+   "zip_code": 29671,
+   "performance_score": 33.58333333
+ },
+ {
+   "zip_code": 29601,
+   "performance_score": 33.58333333
+ },
+ {
+   "zip_code": 29303,
+   "performance_score": 33.58333333
+ },
+ {
+   "zip_code": 37067,
+   "performance_score": 33.58333333
+ },
+ {
+   "zip_code": 77566,
+   "performance_score": 33.58333333
+ },
+ {
+   "zip_code": 76015,
+   "performance_score": 33.58333333
+ },
+ {
+   "zip_code": 15219,
+   "performance_score": 33.51666667
+ },
+ {
+   "zip_code": 19114,
+   "performance_score": 33.5
+ },
+ {
+   "zip_code": 18840,
+   "performance_score": 33.5
+ },
+ {
+   "zip_code": 19007,
+   "performance_score": 33.5
+ },
+ {
+   "zip_code": 15009,
+   "performance_score": 33.5
+ },
+ {
+   "zip_code": 16105,
+   "performance_score": 33.5
+ },
+ {
+   "zip_code": 18201,
+   "performance_score": 33.5
+ },
+ {
+   "zip_code": 16201,
+   "performance_score": 33.5
+ },
+ {
+   "zip_code": 15601,
+   "performance_score": 33.5
+ },
+ {
+   "zip_code": 15243,
+   "performance_score": 33.4375
+ },
+ {
+   "zip_code": 19013,
+   "performance_score": 33.4375
+ },
+ {
+   "zip_code": 17325,
+   "performance_score": 33.4375
+ },
+ {
+   "zip_code": 15237,
+   "performance_score": 33.4375
+ },
+ {
+   "zip_code": 97045,
+   "performance_score": 33.41666667
+ },
+ {
+   "zip_code": 97504,
+   "performance_score": 33.41666667
+ },
+ {
+   "zip_code": 97210,
+   "performance_score": 33.41666667
+ },
+ {
+   "zip_code": 97132,
+   "performance_score": 33.41666667
+ },
+ {
+   "zip_code": 19001,
+   "performance_score": 33.41666667
+ },
+ {
+   "zip_code": 18657,
+   "performance_score": 33.41666667
+ },
+ {
+   "zip_code": 15213,
+   "performance_score": 33.41666667
+ },
+ {
+   "zip_code": 16127,
+   "performance_score": 33.41666667
+ },
+ {
+   "zip_code": 15025,
+   "performance_score": 33.41666667
+ },
+ {
+   "zip_code": 74137,
+   "performance_score": 33.35
+ },
+ {
+   "zip_code": 97504,
+   "performance_score": 33.33333333
+ },
+ {
+   "zip_code": 43952,
+   "performance_score": 33.33333333
+ },
+ {
+   "zip_code": 43701,
+   "performance_score": 33.33333333
+ },
+ {
+   "zip_code": 45801,
+   "performance_score": 33.33333333
+ },
+ {
+   "zip_code": 73801,
+   "performance_score": 33.33333333
+ },
+ {
+   "zip_code": 74355,
+   "performance_score": 33.33333333
+ },
+ {
+   "zip_code": 74136,
+   "performance_score": 33.33333333
+ },
+ {
+   "zip_code": 43228,
+   "performance_score": 33.33333333
+ },
+ {
+   "zip_code": 44004,
+   "performance_score": 33.33333333
+ },
+ {
+   "zip_code": 45103,
+   "performance_score": 33.33333333
+ },
+ {
+   "zip_code": 44646,
+   "performance_score": 33.28333333
+ },
+ {
+   "zip_code": 45662,
+   "performance_score": 33.25
+ },
+ {
+   "zip_code": 45005,
+   "performance_score": 33.25
+ },
+ {
+   "zip_code": 43130,
+   "performance_score": 33.21666667
+ },
+ {
+   "zip_code": 44111,
+   "performance_score": 33.2
+ },
+ {
+   "zip_code": 44266,
+   "performance_score": 33.18181818
+ },
+ {
+   "zip_code": 44077,
+   "performance_score": 33.16666667
+ },
+ {
+   "zip_code": 45365,
+   "performance_score": 33.16666667
+ },
+ {
+   "zip_code": 44309,
+   "performance_score": 33.16666667
+ },
+ {
+   "zip_code": 43608,
+   "performance_score": 33.16666667
+ },
+ {
+   "zip_code": 28349,
+   "performance_score": 33.16666667
+ },
+ {
+   "zip_code": 27909,
+   "performance_score": 33.125
+ },
+ {
+   "zip_code": 11237,
+   "performance_score": 33.1
+ },
+ {
+   "zip_code": 14621,
+   "performance_score": 33.08333333
+ },
+ {
+   "zip_code": 11501,
+   "performance_score": 33.08333333
+ },
+ {
+   "zip_code": 28602,
+   "performance_score": 33.08333333
+ },
+ {
+   "zip_code": 28374,
+   "performance_score": 33.08333333
+ },
+ {
+   "zip_code": 28112,
+   "performance_score": 33.08333333
+ },
+ {
+   "zip_code": 27704,
+   "performance_score": 33
+ },
+ {
+   "zip_code": 28328,
+   "performance_score": 33
+ },
+ {
+   "zip_code": 28139,
+   "performance_score": 33
+ },
+ {
+   "zip_code": 27710,
+   "performance_score": 33
+ },
+ {
+   "zip_code": 28422,
+   "performance_score": 33
+ },
+ {
+   "zip_code": 27610,
+   "performance_score": 33
+ },
+ {
+   "zip_code": 28401,
+   "performance_score": 32.91666667
+ },
+ {
+   "zip_code": 28105,
+   "performance_score": 32.91666667
+ },
+ {
+   "zip_code": 10029,
+   "performance_score": 32.91666667
+ },
+ {
+   "zip_code": 10016,
+   "performance_score": 32.91666667
+ },
+ {
+   "zip_code": 12308,
+   "performance_score": 32.91666667
+ },
+ {
+   "zip_code": 12901,
+   "performance_score": 32.91666667
+ },
+ {
+   "zip_code": 12078,
+   "performance_score": 32.83333333
+ },
+ {
+   "zip_code": 13210,
+   "performance_score": 32.83333333
+ },
+ {
+   "zip_code": 13815,
+   "performance_score": 32.83333333
+ },
+ {
+   "zip_code": 10940,
+   "performance_score": 32.83333333
+ },
+ {
+   "zip_code": 11201,
+   "performance_score": 32.83333333
+ },
+ {
+   "zip_code": 13676,
+   "performance_score": 32.83333333
+ },
+ {
+   "zip_code": 13203,
+   "performance_score": 32.8125
+ },
+ {
+   "zip_code": 11355,
+   "performance_score": 32.8125
+ },
+ {
+   "zip_code": 14513,
+   "performance_score": 32.75
+ },
+ {
+   "zip_code": 10512,
+   "performance_score": 32.75
+ },
+ {
+   "zip_code": 11235,
+   "performance_score": 32.75
+ },
+ {
+   "zip_code": 10701,
+   "performance_score": 32.71666667
+ },
+ {
+   "zip_code": 11772,
+   "performance_score": 32.66666667
+ },
+ {
+   "zip_code": 14456,
+   "performance_score": 32.66666667
+ },
+ {
+   "zip_code": 12534,
+   "performance_score": 32.66666667
+ },
+ {
+   "zip_code": 7902,
+   "performance_score": 32.66666667
+ },
+ {
+   "zip_code": 8534,
+   "performance_score": 32.66666667
+ },
+ {
+   "zip_code": 7701,
+   "performance_score": 32.66666667
+ },
+ {
+   "zip_code": 87532,
+   "performance_score": 32.66666667
+ },
+ {
+   "zip_code": 87571,
+   "performance_score": 32.66666667
+ },
+ {
+   "zip_code": 88011,
+   "performance_score": 32.66666667
+ },
+ {
+   "zip_code": 11206,
+   "performance_score": 32.65
+ },
+ {
+   "zip_code": 14437,
+   "performance_score": 32.63333333
+ },
+ {
+   "zip_code": 14830,
+   "performance_score": 32.58333333
+ },
+ {
+   "zip_code": 11706,
+   "performance_score": 32.58333333
+ },
+ {
+   "zip_code": 3867,
+   "performance_score": 32.58333333
+ },
+ {
+   "zip_code": 3431,
+   "performance_score": 32.58333333
+ },
+ {
+   "zip_code": 7503,
+   "performance_score": 32.58333333
+ },
+ {
+   "zip_code": 7444,
+   "performance_score": 32.58333333
+ },
+ {
+   "zip_code": 7840,
+   "performance_score": 32.5
+ },
+ {
+   "zip_code": 7039,
+   "performance_score": 32.5
+ },
+ {
+   "zip_code": 8103,
+   "performance_score": 32.5
+ },
+ {
+   "zip_code": 7103,
+   "performance_score": 32.5
+ },
+ {
+   "zip_code": 8755,
+   "performance_score": 32.5
+ },
+ {
+   "zip_code": 8629,
+   "performance_score": 32.5
+ },
+ {
+   "zip_code": 7102,
+   "performance_score": 32.41666667
+ },
+ {
+   "zip_code": 7055,
+   "performance_score": 32.41666667
+ },
+ {
+   "zip_code": 7042,
+   "performance_score": 32.41666667
+ },
+ {
+   "zip_code": 37066,
+   "performance_score": 32.41666667
+ },
+ {
+   "zip_code": 37879,
+   "performance_score": 32.33333333
+ },
+ {
+   "zip_code": 37311,
+   "performance_score": 32.33333333
+ },
+ {
+   "zip_code": 79902,
+   "performance_score": 32.33333333
+ },
+ {
+   "zip_code": 77054,
+   "performance_score": 32.33333333
+ },
+ {
+   "zip_code": 79201,
+   "performance_score": 32.33333333
+ },
+ {
+   "zip_code": 37110,
+   "performance_score": 32.3
+ },
+ {
+   "zip_code": 37355,
+   "performance_score": 32.27272727
+ },
+ {
+   "zip_code": 37772,
+   "performance_score": 32.25
+ },
+ {
+   "zip_code": 37762,
+   "performance_score": 32.25
+ },
+ {
+   "zip_code": 77555,
+   "performance_score": 32.25
+ },
+ {
+   "zip_code": 75455,
+   "performance_score": 32.25
+ },
+ {
+   "zip_code": 77521,
+   "performance_score": 32.25
+ },
+ {
+   "zip_code": 75075,
+   "performance_score": 32.25
+ },
+ {
+   "zip_code": 75235,
+   "performance_score": 32.25
+ },
+ {
+   "zip_code": 79106,
+   "performance_score": 32.25
+ },
+ {
+   "zip_code": 75652,
+   "performance_score": 32.25
+ },
+ {
+   "zip_code": 79072,
+   "performance_score": 32.21666667
+ },
+ {
+   "zip_code": 79735,
+   "performance_score": 32.1875
+ },
+ {
+   "zip_code": 77479,
+   "performance_score": 32.1875
+ },
+ {
+   "zip_code": 75766,
+   "performance_score": 32.1875
+ },
+ {
+   "zip_code": 75801,
+   "performance_score": 32.16666667
+ },
+ {
+   "zip_code": 78539,
+   "performance_score": 32.16666667
+ },
+ {
+   "zip_code": 75390,
+   "performance_score": 32.16666667
+ },
+ {
+   "zip_code": 75501,
+   "performance_score": 32.16666667
+ },
+ {
+   "zip_code": 78643,
+   "performance_score": 32.16666667
+ },
+ {
+   "zip_code": 75150,
+   "performance_score": 32.16666667
+ },
+ {
+   "zip_code": 78731,
+   "performance_score": 32.16666667
+ },
+ {
+   "zip_code": 24266,
+   "performance_score": 32.16666667
+ },
+ {
+   "zip_code": 22205,
+   "performance_score": 32.1
+ },
+ {
+   "zip_code": 24115,
+   "performance_score": 32.08333333
+ },
+ {
+   "zip_code": 22482,
+   "performance_score": 32.08333333
+ },
+ {
+   "zip_code": 23805,
+   "performance_score": 32.08333333
+ },
+ {
+   "zip_code": 20186,
+   "performance_score": 32.08333333
+ },
+ {
+   "zip_code": 24273,
+   "performance_score": 32.08333333
+ },
+ {
+   "zip_code": 24614,
+   "performance_score": 32.08333333
+ },
+ {
+   "zip_code": 26651,
+   "performance_score": 32.05
+ },
+ {
+   "zip_code": 53142,
+   "performance_score": 32
+ },
+ {
+   "zip_code": 54495,
+   "performance_score": 32
+ },
+ {
+   "zip_code": 84102,
+   "performance_score": 32
+ },
+ {
+   "zip_code": 84078,
+   "performance_score": 32
+ },
+ {
+   "zip_code": 84066,
+   "performance_score": 32
+ },
+ {
+   "zip_code": 84701,
+   "performance_score": 32
+ },
+ {
+   "zip_code": 84088,
+   "performance_score": 32
+ },
+ {
+   "zip_code": 84341,
+   "performance_score": 32
+ },
+ {
+   "zip_code": 98362,
+   "performance_score": 32
+ },
+ {
+   "zip_code": 26003,
+   "performance_score": 31.95
+ },
+ {
+   "zip_code": 26452,
+   "performance_score": 31.91666667
+ },
+ {
+   "zip_code": 82716,
+   "performance_score": 31.91666667
+ },
+ {
+   "zip_code": 99208,
+   "performance_score": 31.91666667
+ },
+ {
+   "zip_code": 98133,
+   "performance_score": 31.91666667
+ },
+ {
+   "zip_code": 98122,
+   "performance_score": 31.91666667
+ },
+ {
+   "zip_code": 98902,
+   "performance_score": 31.91666667
+ },
+ {
+   "zip_code": 98221,
+   "performance_score": 31.91666667
+ },
+ {
+   "zip_code": 98502,
+   "performance_score": 31.875
+ },
+ {
+   "zip_code": 70403,
+   "performance_score": 31.875
+ },
+ {
+   "zip_code": 70360,
+   "performance_score": 31.875
+ },
+ {
+   "zip_code": 40361,
+   "performance_score": 31.875
+ },
+ {
+   "zip_code": 70458,
+   "performance_score": 31.875
+ },
+ {
+   "zip_code": 71269,
+   "performance_score": 31.85
+ },
+ {
+   "zip_code": 71201,
+   "performance_score": 31.83333333
+ },
+ {
+   "zip_code": 70011,
+   "performance_score": 31.83333333
+ },
+ {
+   "zip_code": 71105,
+   "performance_score": 31.83333333
+ },
+ {
+   "zip_code": 70112,
+   "performance_score": 31.83333333
+ },
+ {
+   "zip_code": 40536,
+   "performance_score": 31.83333333
+ },
+ {
+   "zip_code": 40391,
+   "performance_score": 31.83333333
+ },
+ {
+   "zip_code": 41031,
+   "performance_score": 31.75
+ },
+ {
+   "zip_code": 42276,
+   "performance_score": 31.75
+ },
+ {
+   "zip_code": 40503,
+   "performance_score": 31.75
+ },
+ {
+   "zip_code": 40353,
+   "performance_score": 31.75
+ },
+ {
+   "zip_code": 42003,
+   "performance_score": 31.66666667
+ },
+ {
+   "zip_code": 66209,
+   "performance_score": 31.66666667
+ },
+ {
+   "zip_code": 67214,
+   "performance_score": 31.66666667
+ },
+ {
+   "zip_code": 52402,
+   "performance_score": 31.66666667
+ },
+ {
+   "zip_code": 50208,
+   "performance_score": 31.66666667
+ },
+ {
+   "zip_code": 46755,
+   "performance_score": 31.66666667
+ },
+ {
+   "zip_code": 47201,
+   "performance_score": 31.65
+ },
+ {
+   "zip_code": 60649,
+   "performance_score": 31.58333333
+ },
+ {
+   "zip_code": 60461,
+   "performance_score": 31.58333333
+ },
+ {
+   "zip_code": 47274,
+   "performance_score": 31.58333333
+ },
+ {
+   "zip_code": 47150,
+   "performance_score": 31.58333333
+ },
+ {
+   "zip_code": 61554,
+   "performance_score": 31.58333333
+ },
+ {
+   "zip_code": 61104,
+   "performance_score": 31.58333333
+ },
+ {
+   "zip_code": 60622,
+   "performance_score": 31.5625
+ },
+ {
+   "zip_code": 61636,
+   "performance_score": 31.5625
+ },
+ {
+   "zip_code": 60007,
+   "performance_score": 31.5625
+ },
+ {
+   "zip_code": 61103,
+   "performance_score": 31.5625
+ },
+ {
+   "zip_code": 62526,
+   "performance_score": 31.5625
+ },
+ {
+   "zip_code": 60631,
+   "performance_score": 31.5625
+ },
+ {
+   "zip_code": 60901,
+   "performance_score": 31.5
+ },
+ {
+   "zip_code": 61032,
+   "performance_score": 31.5
+ },
+ {
+   "zip_code": 61362,
+   "performance_score": 31.5
+ },
+ {
+   "zip_code": 60451,
+   "performance_score": 31.5
+ },
+ {
+   "zip_code": 96701,
+   "performance_score": 31.45833333
+ },
+ {
+   "zip_code": 31217,
+   "performance_score": 31.41666667
+ },
+ {
+   "zip_code": 31603,
+   "performance_score": 31.41666667
+ },
+ {
+   "zip_code": 30014,
+   "performance_score": 31.41666667
+ },
+ {
+   "zip_code": 30529,
+   "performance_score": 31.41666667
+ },
+ {
+   "zip_code": 31082,
+   "performance_score": 31.41666667
+ },
+ {
+   "zip_code": 31533,
+   "performance_score": 31.41666667
+ },
+ {
+   "zip_code": 30342,
+   "performance_score": 31.41666667
+ },
+ {
+   "zip_code": 96817,
+   "performance_score": 31.41666667
+ },
+ {
+   "zip_code": 33881,
+   "performance_score": 31.36363636
+ },
+ {
+   "zip_code": 39819,
+   "performance_score": 31.35416667
+ },
+ {
+   "zip_code": 30342,
+   "performance_score": 31.33333333
+ },
+ {
+   "zip_code": 31520,
+   "performance_score": 31.33333333
+ },
+ {
+   "zip_code": 30281,
+   "performance_score": 31.33333333
+ },
+ {
+   "zip_code": 30223,
+   "performance_score": 31.33333333
+ },
+ {
+   "zip_code": 31719,
+   "performance_score": 31.33333333
+ },
+ {
+   "zip_code": 30162,
+   "performance_score": 31.33333333
+ },
+ {
+   "zip_code": 33063,
+   "performance_score": 31.33333333
+ },
+ {
+   "zip_code": 32763,
+   "performance_score": 31.33333333
+ },
+ {
+   "zip_code": 32901,
+   "performance_score": 31.33333333
+ },
+ {
+   "zip_code": 32170,
+   "performance_score": 31.33333333
+ },
+ {
+   "zip_code": 32565,
+   "performance_score": 31.33333333
+ },
+ {
+   "zip_code": 32207,
+   "performance_score": 31.33333333
+ },
+ {
+   "zip_code": 32164,
+   "performance_score": 31.31666667
+ },
+ {
+   "zip_code": 32347,
+   "performance_score": 31.25
+ },
+ {
+   "zip_code": 32114,
+   "performance_score": 31.25
+ },
+ {
+   "zip_code": 33990,
+   "performance_score": 31.25
+ },
+ {
+   "zip_code": 33607,
+   "performance_score": 31.25
+ },
+ {
+   "zip_code": 34741,
+   "performance_score": 31.25
+ },
+ {
+   "zip_code": 33136,
+   "performance_score": 31.25
+ },
+ {
+   "zip_code": 34950,
+   "performance_score": 31.25
+ },
+ {
+   "zip_code": 32539,
+   "performance_score": 31.25
+ },
+ {
+   "zip_code": 32570,
+   "performance_score": 31.23333333
+ },
+ {
+   "zip_code": 33410,
+   "performance_score": 31.16666667
+ },
+ {
+   "zip_code": 80027,
+   "performance_score": 31.16666667
+ },
+ {
+   "zip_code": 6105,
+   "performance_score": 31.16666667
+ },
+ {
+   "zip_code": 6032,
+   "performance_score": 31.16666667
+ },
+ {
+   "zip_code": 6606,
+   "performance_score": 31.16666667
+ },
+ {
+   "zip_code": 6790,
+   "performance_score": 31.16666667
+ },
+ {
+   "zip_code": 6450,
+   "performance_score": 31.15
+ },
+ {
+   "zip_code": 19958,
+   "performance_score": 31.13333333
+ },
+ {
+   "zip_code": 20037,
+   "performance_score": 31.11666667
+ },
+ {
+   "zip_code": 33028,
+   "performance_score": 31.08333333
+ },
+ {
+   "zip_code": 93301,
+   "performance_score": 31.08333333
+ },
+ {
+   "zip_code": 91346,
+   "performance_score": 31.08333333
+ },
+ {
+   "zip_code": 95476,
+   "performance_score": 31.08333333
+ },
+ {
+   "zip_code": 91325,
+   "performance_score": 31.08333333
+ },
+ {
+   "zip_code": 80601,
+   "performance_score": 31
+ },
+ {
+   "zip_code": 80012,
+   "performance_score": 31
+ },
+ {
+   "zip_code": 80907,
+   "performance_score": 31
+ },
+ {
+   "zip_code": 81101,
+   "performance_score": 31
+ },
+ {
+   "zip_code": 95403,
+   "performance_score": 31
+ },
+ {
+   "zip_code": 92118,
+   "performance_score": 30.9375
+ },
+ {
+   "zip_code": 95382,
+   "performance_score": 30.9375
+ },
+ {
+   "zip_code": 92270,
+   "performance_score": 30.91666667
+ },
+ {
+   "zip_code": 93436,
+   "performance_score": 30.91666667
+ },
+ {
+   "zip_code": 96080,
+   "performance_score": 30.91666667
+ },
+ {
+   "zip_code": 94545,
+   "performance_score": 30.90909091
+ },
+ {
+   "zip_code": 95240,
+   "performance_score": 30.88333333
+ },
+ {
+   "zip_code": 93401,
+   "performance_score": 30.83333333
+ },
+ {
+   "zip_code": 92324,
+   "performance_score": 30.83333333
+ },
+ {
+   "zip_code": 91436,
+   "performance_score": 30.83333333
+ },
+ {
+   "zip_code": 90813,
+   "performance_score": 30.83333333
+ },
+ {
+   "zip_code": 95128,
+   "performance_score": 30.83333333
+ },
+ {
+   "zip_code": 92708,
+   "performance_score": 30.83333333
+ },
+ {
+   "zip_code": 91360,
+   "performance_score": 30.83333333
+ },
+ {
+   "zip_code": 94010,
+   "performance_score": 30.83333333
+ },
+ {
+   "zip_code": 94063,
+   "performance_score": 30.83333333
+ },
+ {
+   "zip_code": 93405,
+   "performance_score": 30.75
+ },
+ {
+   "zip_code": 92120,
+   "performance_score": 30.75
+ },
+ {
+   "zip_code": 92395,
+   "performance_score": 30.75
+ },
+ {
+   "zip_code": 90095,
+   "performance_score": 30.75
+ },
+ {
+   "zip_code": 90027,
+   "performance_score": 30.75
+ },
+ {
+   "zip_code": 95521,
+   "performance_score": 30.75
+ },
+ {
+   "zip_code": 93308,
+   "performance_score": 30.72916667
+ },
+ {
+   "zip_code": 90716,
+   "performance_score": 30.7
+ },
+ {
+   "zip_code": 72401,
+   "performance_score": 30.68333333
+ },
+ {
+   "zip_code": 72104,
+   "performance_score": 30.66666667
+ },
+ {
+   "zip_code": 72830,
+   "performance_score": 30.66666667
+ },
+ {
+   "zip_code": 72076,
+   "performance_score": 30.66666667
+ },
+ {
+   "zip_code": 95231,
+   "performance_score": 30.66666667
+ },
+ {
+   "zip_code": 92411,
+   "performance_score": 30.66666667
+ },
+ {
+   "zip_code": 85006,
+   "performance_score": 30.66666667
+ },
+ {
+   "zip_code": 85546,
+   "performance_score": 30.66666667
+ },
+ {
+   "zip_code": 72903,
+   "performance_score": 30.625
+ },
+ {
+   "zip_code": 72120,
+   "performance_score": 30.625
+ },
+ {
+   "zip_code": 36033,
+   "performance_score": 30.625
+ },
+ {
+   "zip_code": 36608,
+   "performance_score": 30.625
+ },
+ {
+   "zip_code": 36330,
+   "performance_score": 30.61666667
+ },
+ {
+   "zip_code": 35243,
+   "performance_score": 30.61666667
+ },
+ {
+   "zip_code": 35660,
+   "performance_score": 30.58333333
+ },
+ {
+   "zip_code": 35611,
+   "performance_score": 30.58333333
+ },
+ {
+   "zip_code": 36116,
+   "performance_score": 30.58333333
+ },
+ {
+   "zip_code": 36301,
+   "performance_score": 30.58333333
+ },
+ {
+   "zip_code": 36701,
+   "performance_score": 30.55
+ },
+ {
+   "zip_code": 36617,
+   "performance_score": 30.5
+ },
+ {
+   "zip_code": 99508,
+   "performance_score": 30.5
+ },
+ {
+   "zip_code": 99669,
+   "performance_score": 30.5
+ },
+ {
+   "zip_code": 99801,
+   "performance_score": 30.5
+ },
+ {
+   "zip_code": 85741,
+   "performance_score": 30.41666667
+ },
+ {
+   "zip_code": 85258,
+   "performance_score": 30.41666667
+ },
+ {
+   "zip_code": 85364,
+   "performance_score": 30.41666667
+ },
+ {
+   "zip_code": 85016,
+   "performance_score": 30.41666667
+ },
+ {
+   "zip_code": 83001,
+   "performance_score": 30.41666667
+ },
+ {
+   "zip_code": 71101,
+   "performance_score": 30.33333333
+ },
+ {
+   "zip_code": 70508,
+   "performance_score": 30.33333333
+ },
+ {
+   "zip_code": 43054,
+   "performance_score": 30.33333333
+ },
+ {
+   "zip_code": 28078,
+   "performance_score": 30.33333333
+ },
+ {
+   "zip_code": 53901,
+   "performance_score": 30.33333333
+ },
+ {
+   "zip_code": 54915,
+   "performance_score": 30.33333333
+ },
+ {
+   "zip_code": 53188,
+   "performance_score": 30.33333333
+ },
+ {
+   "zip_code": 53792,
+   "performance_score": 30.33333333
+ },
+ {
+   "zip_code": 53066,
+   "performance_score": 30.33333333
+ },
+ {
+   "zip_code": 68506,
+   "performance_score": 30.33333333
+ },
+ {
+   "zip_code": 68526,
+   "performance_score": 30.33333333
+ },
+ {
+   "zip_code": 37167,
+   "performance_score": 30.33333333
+ },
+ {
+   "zip_code": 75093,
+   "performance_score": 30.3125
+ },
+ {
+   "zip_code": 92805,
+   "performance_score": 30.3125
+ },
+ {
+   "zip_code": 46278,
+   "performance_score": 30.3
+ },
+ {
+   "zip_code": 23114,
+   "performance_score": 30.25
+ },
+ {
+   "zip_code": 46032,
+   "performance_score": 30.25
+ },
+ {
+   "zip_code": 19124,
+   "performance_score": 30.25
+ },
+ {
+   "zip_code": 46237,
+   "performance_score": 30.25
+ },
+ {
+   "zip_code": 36867,
+   "performance_score": 30.25
+ },
+ {
+   "zip_code": 45408,
+   "performance_score": 30.25
+ },
+ {
+   "zip_code": 76063,
+   "performance_score": 30.25
+ },
+ {
+   "zip_code": 46321,
+   "performance_score": 30.25
+ },
+ {
+   "zip_code": 46804,
+   "performance_score": 30.25
+ },
+ {
+   "zip_code": 36502,
+   "performance_score": 30.25
+ },
+ {
+   "zip_code": 97477,
+   "performance_score": 30.25
+ },
+ {
+   "zip_code": 75231,
+   "performance_score": 30.25
+ },
+ {
+   "zip_code": 78240,
+   "performance_score": 30.22222222
+ },
+ {
+   "zip_code": 96001,
+   "performance_score": 30.20833333
+ },
+ {
+   "zip_code": 78258,
+   "performance_score": 30.16666667
+ },
+ {
+   "zip_code": 45069,
+   "performance_score": 30.16666667
+ },
+ {
+   "zip_code": 76015,
+   "performance_score": 30.16666667
+ },
+ {
+   "zip_code": 22408,
+   "performance_score": 30.11111111
+ },
+ {
+   "zip_code": 71301,
+   "performance_score": 30.10416667
+ },
+ {
+   "zip_code": 68122,
+   "performance_score": 30.08333333
+ },
+ {
+   "zip_code": 33196,
+   "performance_score": 30.08333333
+ },
+ {
+   "zip_code": 92563,
+   "performance_score": 30.08333333
+ },
+ {
+   "zip_code": 78232,
+   "performance_score": 30.08333333
+ },
+ {
+   "zip_code": 87144,
+   "performance_score": 30.08333333
+ },
+ {
+   "zip_code": 71801,
+   "performance_score": 30.08333333
+ },
+ {
+   "zip_code": 80528,
+   "performance_score": 30.08333333
+ },
+ {
+   "zip_code": 74401,
+   "performance_score": 30.08333333
+ },
+ {
+   "zip_code": 2118,
+   "performance_score": 30.08333333
+ },
+ {
+   "zip_code": 2215,
+   "performance_score": 30.08333333
+ },
+ {
+   "zip_code": 1844,
+   "performance_score": 30.08333333
+ },
+ {
+   "zip_code": 1201,
+   "performance_score": 30
+ },
+ {
+   "zip_code": 1915,
+   "performance_score": 30
+ },
+ {
+   "zip_code": 1069,
+   "performance_score": 30
+ },
+ {
+   "zip_code": 1510,
+   "performance_score": 30
+ },
+ {
+   "zip_code": 49098,
+   "performance_score": 30
+ },
+ {
+   "zip_code": 4938,
+   "performance_score": 30
+ },
+ {
+   "zip_code": 4901,
+   "performance_score": 30
+ },
+ {
+   "zip_code": 4330,
+   "performance_score": 30
+ },
+ {
+   "zip_code": 48124,
+   "performance_score": 30
+ },
+ {
+   "zip_code": 48043,
+   "performance_score": 30
+ },
+ {
+   "zip_code": 48183,
+   "performance_score": 30
+ },
+ {
+   "zip_code": 48602,
+   "performance_score": 30
+ },
+ {
+   "zip_code": 48201,
+   "performance_score": 30
+ },
+ {
+   "zip_code": 48038,
+   "performance_score": 30
+ },
+ {
+   "zip_code": 39301,
+   "performance_score": 29.91666667
+ },
+ {
+   "zip_code": 2062,
+   "performance_score": 29.91666667
+ },
+ {
+   "zip_code": 48192,
+   "performance_score": 29.91666667
+ },
+ {
+   "zip_code": 48075,
+   "performance_score": 29.91666667
+ },
+ {
+   "zip_code": 48503,
+   "performance_score": 29.91666667
+ },
+ {
+   "zip_code": 48670,
+   "performance_score": 29.91666667
+ },
+ {
+   "zip_code": 49503,
+   "performance_score": 29.91666667
+ },
+ {
+   "zip_code": 55987,
+   "performance_score": 29.89583333
+ },
+ {
+   "zip_code": 55033,
+   "performance_score": 29.85
+ },
+ {
+   "zip_code": 55426,
+   "performance_score": 29.83333333
+ },
+ {
+   "zip_code": 56401,
+   "performance_score": 29.83333333
+ },
+ {
+   "zip_code": 55371,
+   "performance_score": 29.83333333
+ },
+ {
+   "zip_code": 39404,
+   "performance_score": 29.83333333
+ },
+ {
+   "zip_code": 63136,
+   "performance_score": 29.83333333
+ },
+ {
+   "zip_code": 65201,
+   "performance_score": 29.83333333
+ },
+ {
+   "zip_code": 65804,
+   "performance_score": 29.83333333
+ },
+ {
+   "zip_code": 64014,
+   "performance_score": 29.75
+ },
+ {
+   "zip_code": 63128,
+   "performance_score": 29.75
+ },
+ {
+   "zip_code": 65270,
+   "performance_score": 29.75
+ },
+ {
+   "zip_code": 64772,
+   "performance_score": 29.75
+ },
+ {
+   "zip_code": 49242,
+   "performance_score": 29.75
+ },
+ {
+   "zip_code": 38668,
+   "performance_score": 29.75
+ },
+ {
+   "zip_code": 38652,
+   "performance_score": 29.75
+ },
+ {
+   "zip_code": 39216,
+   "performance_score": 29.75
+ },
+ {
+   "zip_code": 39216,
+   "performance_score": 29.75
+ },
+ {
+   "zip_code": 39204,
+   "performance_score": 29.75
+ },
+ {
+   "zip_code": 39202,
+   "performance_score": 29.75
+ },
+ {
+   "zip_code": 39649,
+   "performance_score": 29.75
+ },
+ {
+   "zip_code": 38732,
+   "performance_score": 29.7
+ },
+ {
+   "zip_code": 68848,
+   "performance_score": 29.6875
+ },
+ {
+   "zip_code": 63367,
+   "performance_score": 29.6875
+ },
+ {
+   "zip_code": 59501,
+   "performance_score": 29.6875
+ },
+ {
+   "zip_code": 59101,
+   "performance_score": 29.6875
+ },
+ {
+   "zip_code": 68124,
+   "performance_score": 29.6875
+ },
+ {
+   "zip_code": 68506,
+   "performance_score": 29.66666667
+ },
+ {
+   "zip_code": 68131,
+   "performance_score": 29.66666667
+ },
+ {
+   "zip_code": 68803,
+   "performance_score": 29.66666667
+ },
+ {
+   "zip_code": 89015,
+   "performance_score": 29.65
+ },
+ {
+   "zip_code": 89102,
+   "performance_score": 29.58333333
+ },
+ {
+   "zip_code": 89503,
+   "performance_score": 29.58333333
+ },
+ {
+   "zip_code": 65109,
+   "performance_score": 29.58333333
+ },
+ {
+   "zip_code": 29650,
+   "performance_score": 29.58333333
+ },
+ {
+   "zip_code": 57401,
+   "performance_score": 29.58333333
+ },
+ {
+   "zip_code": 2879,
+   "performance_score": 29.58333333
+ },
+ {
+   "zip_code": 2886,
+   "performance_score": 29.58333333
+ },
+ {
+   "zip_code": 29204,
+   "performance_score": 29.58333333
+ },
+ {
+   "zip_code": 29115,
+   "performance_score": 29.54545455
+ },
+ {
+   "zip_code": 29150,
+   "performance_score": 29.54545455
+ },
+ {
+   "zip_code": 29020,
+   "performance_score": 29.5
+ },
+ {
+   "zip_code": 29325,
+   "performance_score": 29.5
+ },
+ {
+   "zip_code": 75482,
+   "performance_score": 29.5
+ },
+ {
+   "zip_code": 76020,
+   "performance_score": 29.5
+ },
+ {
+   "zip_code": 77030,
+   "performance_score": 29.5
+ },
+ {
+   "zip_code": 18235,
+   "performance_score": 29.5
+ },
+ {
+   "zip_code": 15146,
+   "performance_score": 29.5
+ },
+ {
+   "zip_code": 15224,
+   "performance_score": 29.5
+ },
+ {
+   "zip_code": 16125,
+   "performance_score": 29.47916667
+ },
+ {
+   "zip_code": 19380,
+   "performance_score": 29.47916667
+ },
+ {
+   "zip_code": 15401,
+   "performance_score": 29.41666667
+ },
+ {
+   "zip_code": 19460,
+   "performance_score": 29.41666667
+ },
+ {
+   "zip_code": 19605,
+   "performance_score": 29.41666667
+ },
+ {
+   "zip_code": 19026,
+   "performance_score": 29.41666667
+ },
+ {
+   "zip_code": 19107,
+   "performance_score": 29.41666667
+ },
+ {
+   "zip_code": 16146,
+   "performance_score": 29.41666667
+ },
+ {
+   "zip_code": 18071,
+   "performance_score": 29.41666667
+ },
+ {
+   "zip_code": 19104,
+   "performance_score": 29.4
+ },
+ {
+   "zip_code": 17522,
+   "performance_score": 29.375
+ },
+ {
+   "zip_code": 17011,
+   "performance_score": 29.375
+ },
+ {
+   "zip_code": 15905,
+   "performance_score": 29.375
+ },
+ {
+   "zip_code": 17604,
+   "performance_score": 29.375
+ },
+ {
+   "zip_code": 97301,
+   "performance_score": 29.375
+ },
+ {
+   "zip_code": 97225,
+   "performance_score": 29.375
+ },
+ {
+   "zip_code": 97381,
+   "performance_score": 29.33333333
+ },
+ {
+   "zip_code": 97227,
+   "performance_score": 29.33333333
+ },
+ {
+   "zip_code": 19152,
+   "performance_score": 29.33333333
+ },
+ {
+   "zip_code": 18764,
+   "performance_score": 29.33333333
+ },
+ {
+   "zip_code": 18501,
+   "performance_score": 29.33333333
+ },
+ {
+   "zip_code": 74743,
+   "performance_score": 29.25
+ },
+ {
+   "zip_code": 74745,
+   "performance_score": 29.25
+ },
+ {
+   "zip_code": 73159,
+   "performance_score": 29.25
+ },
+ {
+   "zip_code": 73112,
+   "performance_score": 29.25
+ },
+ {
+   "zip_code": 97914,
+   "performance_score": 29.16666667
+ },
+ {
+   "zip_code": 45373,
+   "performance_score": 29.16666667
+ },
+ {
+   "zip_code": 44501,
+   "performance_score": 29.16666667
+ },
+ {
+   "zip_code": 43040,
+   "performance_score": 29.16666667
+ },
+ {
+   "zip_code": 73601,
+   "performance_score": 29.16666667
+ },
+ {
+   "zip_code": 73139,
+   "performance_score": 29.16666667
+ },
+ {
+   "zip_code": 73505,
+   "performance_score": 29.16666667
+ },
+ {
+   "zip_code": 74017,
+   "performance_score": 29.16666667
+ },
+ {
+   "zip_code": 73701,
+   "performance_score": 29.16666667
+ },
+ {
+   "zip_code": 43311,
+   "performance_score": 29.16666667
+ },
+ {
+   "zip_code": 45385,
+   "performance_score": 29.08333333
+ },
+ {
+   "zip_code": 43302,
+   "performance_score": 29.08333333
+ },
+ {
+   "zip_code": 45429,
+   "performance_score": 29.08333333
+ },
+ {
+   "zip_code": 43560,
+   "performance_score": 29.08333333
+ },
+ {
+   "zip_code": 45242,
+   "performance_score": 29.08333333
+ },
+ {
+   "zip_code": 45331,
+   "performance_score": 29.08333333
+ },
+ {
+   "zip_code": 44482,
+   "performance_score": 29.0625
+ },
+ {
+   "zip_code": 44903,
+   "performance_score": 29.0625
+ },
+ {
+   "zip_code": 45014,
+   "performance_score": 29.0625
+ },
+ {
+   "zip_code": 28025,
+   "performance_score": 29.0625
+ },
+ {
+   "zip_code": 28503,
+   "performance_score": 29.0625
+ },
+ {
+   "zip_code": 28607,
+   "performance_score": 29
+ },
+ {
+   "zip_code": 28117,
+   "performance_score": 29
+ },
+ {
+   "zip_code": 27804,
+   "performance_score": 29
+ },
+ {
+   "zip_code": 28352,
+   "performance_score": 29
+ },
+ {
+   "zip_code": 27030,
+   "performance_score": 29
+ },
+ {
+   "zip_code": 27565,
+   "performance_score": 29
+ },
+ {
+   "zip_code": 12801,
+   "performance_score": 29
+ },
+ {
+   "zip_code": 14760,
+   "performance_score": 29
+ },
+ {
+   "zip_code": 10549,
+   "performance_score": 29
+ },
+ {
+   "zip_code": 28655,
+   "performance_score": 29
+ },
+ {
+   "zip_code": 28144,
+   "performance_score": 29
+ },
+ {
+   "zip_code": 27835,
+   "performance_score": 28.91666667
+ },
+ {
+   "zip_code": 28732,
+   "performance_score": 28.91666667
+ },
+ {
+   "zip_code": 10021,
+   "performance_score": 28.85416667
+ },
+ {
+   "zip_code": 13662,
+   "performance_score": 28.83333333
+ },
+ {
+   "zip_code": 11542,
+   "performance_score": 28.83333333
+ },
+ {
+   "zip_code": 14626,
+   "performance_score": 28.83333333
+ },
+ {
+   "zip_code": 10960,
+   "performance_score": 28.83333333
+ },
+ {
+   "zip_code": 14214,
+   "performance_score": 28.83333333
+ },
+ {
+   "zip_code": 11432,
+   "performance_score": 28.83333333
+ },
+ {
+   "zip_code": 12208,
+   "performance_score": 28.83333333
+ },
+ {
+   "zip_code": 10457,
+   "performance_score": 28.83333333
+ },
+ {
+   "zip_code": 10003,
+   "performance_score": 28.8
+ },
+ {
+   "zip_code": 7631,
+   "performance_score": 28.75
+ },
+ {
+   "zip_code": 8901,
+   "performance_score": 28.75
+ },
+ {
+   "zip_code": 87106,
+   "performance_score": 28.75
+ },
+ {
+   "zip_code": 88201,
+   "performance_score": 28.75
+ },
+ {
+   "zip_code": 88210,
+   "performance_score": 28.75
+ },
+ {
+   "zip_code": 88220,
+   "performance_score": 28.75
+ },
+ {
+   "zip_code": 10567,
+   "performance_score": 28.75
+ },
+ {
+   "zip_code": 3820,
+   "performance_score": 28.75
+ },
+ {
+   "zip_code": 8360,
+   "performance_score": 28.75
+ },
+ {
+   "zip_code": 8690,
+   "performance_score": 28.75
+ },
+ {
+   "zip_code": 7728,
+   "performance_score": 28.75
+ },
+ {
+   "zip_code": 38118,
+   "performance_score": 28.73333333
+ },
+ {
+   "zip_code": 37804,
+   "performance_score": 28.66666667
+ },
+ {
+   "zip_code": 37055,
+   "performance_score": 28.66666667
+ },
+ {
+   "zip_code": 37920,
+   "performance_score": 28.66666667
+ },
+ {
+   "zip_code": 37172,
+   "performance_score": 28.63636364
+ },
+ {
+   "zip_code": 78666,
+   "performance_score": 28.58333333
+ },
+ {
+   "zip_code": 37660,
+   "performance_score": 28.58333333
+ },
+ {
+   "zip_code": 37205,
+   "performance_score": 28.58333333
+ },
+ {
+   "zip_code": 37874,
+   "performance_score": 28.58333333
+ },
+ {
+   "zip_code": 76448,
+   "performance_score": 28.58333333
+ },
+ {
+   "zip_code": 76801,
+   "performance_score": 28.58333333
+ },
+ {
+   "zip_code": 77414,
+   "performance_score": 28.58333333
+ },
+ {
+   "zip_code": 78229,
+   "performance_score": 28.56666667
+ },
+ {
+   "zip_code": 76051,
+   "performance_score": 28.54166667
+ },
+ {
+   "zip_code": 77082,
+   "performance_score": 28.51666667
+ },
+ {
+   "zip_code": 75670,
+   "performance_score": 28.5
+ },
+ {
+   "zip_code": 77479,
+   "performance_score": 28.5
+ },
+ {
+   "zip_code": 76712,
+   "performance_score": 28.5
+ },
+ {
+   "zip_code": 78852,
+   "performance_score": 28.5
+ },
+ {
+   "zip_code": 24014,
+   "performance_score": 28.5
+ },
+ {
+   "zip_code": 23061,
+   "performance_score": 28.46666667
+ },
+ {
+   "zip_code": 24641,
+   "performance_score": 28.4375
+ },
+ {
+   "zip_code": 78503,
+   "performance_score": 28.4375
+ },
+ {
+   "zip_code": 79336,
+   "performance_score": 28.4375
+ },
+ {
+   "zip_code": 5201,
+   "performance_score": 28.4375
+ },
+ {
+   "zip_code": 24219,
+   "performance_score": 28.4375
+ },
+ {
+   "zip_code": 24523,
+   "performance_score": 28.41666667
+ },
+ {
+   "zip_code": 23860,
+   "performance_score": 28.41666667
+ },
+ {
+   "zip_code": 24651,
+   "performance_score": 28.41666667
+ },
+ {
+   "zip_code": 22630,
+   "performance_score": 28.41666667
+ },
+ {
+   "zip_code": 23502,
+   "performance_score": 28.41666667
+ },
+ {
+   "zip_code": 26505,
+   "performance_score": 28.4
+ },
+ {
+   "zip_code": 53715,
+   "performance_score": 28.33333333
+ },
+ {
+   "zip_code": 84651,
+   "performance_score": 28.33333333
+ },
+ {
+   "zip_code": 84341,
+   "performance_score": 28.33333333
+ },
+ {
+   "zip_code": 98201,
+   "performance_score": 28.33333333
+ },
+ {
+   "zip_code": 98310,
+   "performance_score": 28.33333333
+ },
+ {
+   "zip_code": 98405,
+   "performance_score": 28.3
+ },
+ {
+   "zip_code": 25701,
+   "performance_score": 28.25
+ },
+ {
+   "zip_code": 26101,
+   "performance_score": 28.25
+ },
+ {
+   "zip_code": 99362,
+   "performance_score": 28.25
+ },
+ {
+   "zip_code": 98902,
+   "performance_score": 28.25
+ },
+ {
+   "zip_code": 98225,
+   "performance_score": 28.25
+ },
+ {
+   "zip_code": 70508,
+   "performance_score": 28.25
+ },
+ {
+   "zip_code": 70817,
+   "performance_score": 28.25
+ },
+ {
+   "zip_code": 71052,
+   "performance_score": 28.16666667
+ },
+ {
+   "zip_code": 70363,
+   "performance_score": 28.16666667
+ },
+ {
+   "zip_code": 42066,
+   "performance_score": 28.16666667
+ },
+ {
+   "zip_code": 70115,
+   "performance_score": 28.16666667
+ },
+ {
+   "zip_code": 40977,
+   "performance_score": 28.16666667
+ },
+ {
+   "zip_code": 41042,
+   "performance_score": 28.16666667
+ },
+ {
+   "zip_code": 40065,
+   "performance_score": 28.16666667
+ },
+ {
+   "zip_code": 42241,
+   "performance_score": 28.16666667
+ },
+ {
+   "zip_code": 40831,
+   "performance_score": 28.16666667
+ },
+ {
+   "zip_code": 40202,
+   "performance_score": 28.16666667
+ },
+ {
+   "zip_code": 40031,
+   "performance_score": 28.125
+ },
+ {
+   "zip_code": 40601,
+   "performance_score": 28.125
+ },
+ {
+   "zip_code": 67226,
+   "performance_score": 28.125
+ },
+ {
+   "zip_code": 42602,
+   "performance_score": 28.125
+ },
+ {
+   "zip_code": 42141,
+   "performance_score": 28.08333333
+ },
+ {
+   "zip_code": 67357,
+   "performance_score": 28.08333333
+ },
+ {
+   "zip_code": 67042,
+   "performance_score": 28.08333333
+ },
+ {
+   "zip_code": 67214,
+   "performance_score": 28.08333333
+ },
+ {
+   "zip_code": 52001,
+   "performance_score": 28.08333333
+ },
+ {
+   "zip_code": 52722,
+   "performance_score": 28.05
+ },
+ {
+   "zip_code": 52001,
+   "performance_score": 28
+ },
+ {
+   "zip_code": 46750,
+   "performance_score": 28
+ },
+ {
+   "zip_code": 47362,
+   "performance_score": 28
+ },
+ {
+   "zip_code": 46952,
+   "performance_score": 28
+ },
+ {
+   "zip_code": 52761,
+   "performance_score": 28
+ },
+ {
+   "zip_code": 51101,
+   "performance_score": 28
+ },
+ {
+   "zip_code": 60506,
+   "performance_score": 28
+ },
+ {
+   "zip_code": 62864,
+   "performance_score": 28
+ },
+ {
+   "zip_code": 62948,
+   "performance_score": 28
+ },
+ {
+   "zip_code": 46158,
+   "performance_score": 28
+ },
+ {
+   "zip_code": 46202,
+   "performance_score": 28
+ },
+ {
+   "zip_code": 46131,
+   "performance_score": 28
+ },
+ {
+   "zip_code": 47025,
+   "performance_score": 28
+ },
+ {
+   "zip_code": 46825,
+   "performance_score": 27.91666667
+ },
+ {
+   "zip_code": 46312,
+   "performance_score": 27.91666667
+ },
+ {
+   "zip_code": 46307,
+   "performance_score": 27.91666667
+ },
+ {
+   "zip_code": 62450,
+   "performance_score": 27.86666667
+ },
+ {
+   "zip_code": 61354,
+   "performance_score": 27.83333333
+ },
+ {
+   "zip_code": 61701,
+   "performance_score": 27.83333333
+ },
+ {
+   "zip_code": 60616,
+   "performance_score": 27.83333333
+ },
+ {
+   "zip_code": 60406,
+   "performance_score": 27.83333333
+ },
+ {
+   "zip_code": 61108,
+   "performance_score": 27.83333333
+ },
+ {
+   "zip_code": 60657,
+   "performance_score": 27.8125
+ },
+ {
+   "zip_code": 60608,
+   "performance_score": 27.8125
+ },
+ {
+   "zip_code": 62902,
+   "performance_score": 27.75
+ },
+ {
+   "zip_code": 60139,
+   "performance_score": 27.75
+ },
+ {
+   "zip_code": 60202,
+   "performance_score": 27.75
+ },
+ {
+   "zip_code": 83686,
+   "performance_score": 27.75
+ },
+ {
+   "zip_code": 83706,
+   "performance_score": 27.75
+ },
+ {
+   "zip_code": 83301,
+   "performance_score": 27.75
+ },
+ {
+   "zip_code": 61350,
+   "performance_score": 27.75
+ },
+ {
+   "zip_code": 60617,
+   "performance_score": 27.66666667
+ },
+ {
+   "zip_code": 30214,
+   "performance_score": 27.66666667
+ },
+ {
+   "zip_code": 30180,
+   "performance_score": 27.66666667
+ },
+ {
+   "zip_code": 96720,
+   "performance_score": 27.66666667
+ },
+ {
+   "zip_code": 30635,
+   "performance_score": 27.66666667
+ },
+ {
+   "zip_code": 31419,
+   "performance_score": 27.66666667
+ },
+ {
+   "zip_code": 30720,
+   "performance_score": 27.58333333
+ },
+ {
+   "zip_code": 30701,
+   "performance_score": 27.58333333
+ },
+ {
+   "zip_code": 30134,
+   "performance_score": 27.58333333
+ },
+ {
+   "zip_code": 31023,
+   "performance_score": 27.58333333
+ },
+ {
+   "zip_code": 30012,
+   "performance_score": 27.58333333
+ },
+ {
+   "zip_code": 30912,
+   "performance_score": 27.58333333
+ },
+ {
+   "zip_code": 31558,
+   "performance_score": 27.58333333
+ },
+ {
+   "zip_code": 34652,
+   "performance_score": 27.58333333
+ },
+ {
+   "zip_code": 32720,
+   "performance_score": 27.58333333
+ },
+ {
+   "zip_code": 33573,
+   "performance_score": 27.58333333
+ },
+ {
+   "zip_code": 32501,
+   "performance_score": 27.58333333
+ },
+ {
+   "zip_code": 32796,
+   "performance_score": 27.58333333
+ },
+ {
+   "zip_code": 33615,
+   "performance_score": 27.58333333
+ },
+ {
+   "zip_code": 32446,
+   "performance_score": 27.58333333
+ },
+ {
+   "zip_code": 33462,
+   "performance_score": 27.5
+ },
+ {
+   "zip_code": 32401,
+   "performance_score": 27.5
+ },
+ {
+   "zip_code": 33407,
+   "performance_score": 27.5
+ },
+ {
+   "zip_code": 33952,
+   "performance_score": 27.5
+ },
+ {
+   "zip_code": 33912,
+   "performance_score": 27.5
+ },
+ {
+   "zip_code": 80501,
+   "performance_score": 27.5
+ },
+ {
+   "zip_code": 6418,
+   "performance_score": 27.5
+ },
+ {
+   "zip_code": 6226,
+   "performance_score": 27.5
+ },
+ {
+   "zip_code": 33613,
+   "performance_score": 27.5
+ },
+ {
+   "zip_code": 91723,
+   "performance_score": 27.5
+ },
+ {
+   "zip_code": 94602,
+   "performance_score": 27.5
+ },
+ {
+   "zip_code": 95405,
+   "performance_score": 27.5
+ },
+ {
+   "zip_code": 80524,
+   "performance_score": 27.5
+ },
+ {
+   "zip_code": 90503,
+   "performance_score": 27.5
+ },
+ {
+   "zip_code": 92335,
+   "performance_score": 27.5
+ },
+ {
+   "zip_code": 93291,
+   "performance_score": 27.41666667
+ },
+ {
+   "zip_code": 95616,
+   "performance_score": 27.41666667
+ },
+ {
+   "zip_code": 90509,
+   "performance_score": 27.41666667
+ },
+ {
+   "zip_code": 93635,
+   "performance_score": 27.41666667
+ },
+ {
+   "zip_code": 95203,
+   "performance_score": 27.41666667
+ },
+ {
+   "zip_code": 95119,
+   "performance_score": 27.41666667
+ },
+ {
+   "zip_code": 91740,
+   "performance_score": 27.41666667
+ },
+ {
+   "zip_code": 92123,
+   "performance_score": 27.41666667
+ },
+ {
+   "zip_code": 93274,
+   "performance_score": 27.41666667
+ },
+ {
+   "zip_code": 94553,
+   "performance_score": 27.41666667
+ },
+ {
+   "zip_code": 95336,
+   "performance_score": 27.41666667
+ },
+ {
+   "zip_code": 90242,
+   "performance_score": 27.41666667
+ },
+ {
+   "zip_code": 95350,
+   "performance_score": 27.4
+ },
+ {
+   "zip_code": 94583,
+   "performance_score": 27.33333333
+ },
+ {
+   "zip_code": 90247,
+   "performance_score": 27.33333333
+ },
+ {
+   "zip_code": 93611,
+   "performance_score": 27.33333333
+ },
+ {
+   "zip_code": 92801,
+   "performance_score": 27.33333333
+ },
+ {
+   "zip_code": 96001,
+   "performance_score": 27.33333333
+ },
+ {
+   "zip_code": 94589,
+   "performance_score": 27.33333333
+ },
+ {
+   "zip_code": 94403,
+   "performance_score": 27.33333333
+ },
+ {
+   "zip_code": 92653,
+   "performance_score": 27.33333333
+ },
+ {
+   "zip_code": 90720,
+   "performance_score": 27.33333333
+ },
+ {
+   "zip_code": 94533,
+   "performance_score": 27.27272727
+ },
+ {
+   "zip_code": 72315,
+   "performance_score": 27.25
+ },
+ {
+   "zip_code": 71953,
+   "performance_score": 27.25
+ },
+ {
+   "zip_code": 95817,
+   "performance_score": 27.25
+ },
+ {
+   "zip_code": 90033,
+   "performance_score": 27.25
+ },
+ {
+   "zip_code": 94705,
+   "performance_score": 27.25
+ },
+ {
+   "zip_code": 95065,
+   "performance_score": 27.25
+ },
+ {
+   "zip_code": 85013,
+   "performance_score": 27.25
+ },
+ {
+   "zip_code": 72801,
+   "performance_score": 27.1875
+ },
+ {
+   "zip_code": 72703,
+   "performance_score": 27.1875
+ },
+ {
+   "zip_code": 72211,
+   "performance_score": 27.16666667
+ },
+ {
+   "zip_code": 72901,
+   "performance_score": 27.16666667
+ },
+ {
+   "zip_code": 36078,
+   "performance_score": 27.16666667
+ },
+ {
+   "zip_code": 35903,
+   "performance_score": 27.16666667
+ },
+ {
+   "zip_code": 36106,
+   "performance_score": 27.16666667
+ },
+ {
+   "zip_code": 36467,
+   "performance_score": 27.16666667
+ },
+ {
+   "zip_code": 36532,
+   "performance_score": 27.15
+ },
+ {
+   "zip_code": 36507,
+   "performance_score": 27.08333333
+ },
+ {
+   "zip_code": 35960,
+   "performance_score": 27.08333333
+ },
+ {
+   "zip_code": 35022,
+   "performance_score": 27.08333333
+ },
+ {
+   "zip_code": 35211,
+   "performance_score": 27.08333333
+ },
+ {
+   "zip_code": 35901,
+   "performance_score": 27.08333333
+ },
+ {
+   "zip_code": 35249,
+   "performance_score": 27.08333333
+ },
+ {
+   "zip_code": 36801,
+   "performance_score": 27.08333333
+ },
+ {
+   "zip_code": 35007,
+   "performance_score": 27.08333333
+ },
+ {
+   "zip_code": 35235,
+   "performance_score": 27.05
+ },
+ {
+   "zip_code": 99508,
+   "performance_score": 27.05
+ },
+ {
+   "zip_code": 86002,
+   "performance_score": 27.01666667
+ },
+ {
+   "zip_code": 85711,
+   "performance_score": 27
+ },
+ {
+   "zip_code": 85031,
+   "performance_score": 27
+ },
+ {
+   "zip_code": 85008,
+   "performance_score": 27
+ },
+ {
+   "zip_code": 54481,
+   "performance_score": 27
+ },
+ {
+   "zip_code": 94501,
+   "performance_score": 27
+ },
+ {
+   "zip_code": 29615,
+   "performance_score": 27
+ },
+ {
+   "zip_code": 71201,
+   "performance_score": 27
+ },
+ {
+   "zip_code": 19128,
+   "performance_score": 27
+ },
+ {
+   "zip_code": 32550,
+   "performance_score": 27
+ },
+ {
+   "zip_code": 85395,
+   "performance_score": 27
+ },
+ {
+   "zip_code": 85713,
+   "performance_score": 27
+ },
+ {
+   "zip_code": 90605,
+   "performance_score": 26.91666667
+ },
+ {
+   "zip_code": 90292,
+   "performance_score": 26.91666667
+ },
+ {
+   "zip_code": 46123,
+   "performance_score": 26.91666667
+ },
+ {
+   "zip_code": 78258,
+   "performance_score": 26.91666667
+ },
+ {
+   "zip_code": 54956,
+   "performance_score": 26.91666667
+ },
+ {
+   "zip_code": 54401,
+   "performance_score": 26.91666667
+ },
+ {
+   "zip_code": 53105,
+   "performance_score": 26.91666667
+ },
+ {
+   "zip_code": 53083,
+   "performance_score": 26.91666667
+ },
+ {
+   "zip_code": 76092,
+   "performance_score": 26.91666667
+ },
+ {
+   "zip_code": 75231,
+   "performance_score": 26.88888889
+ },
+ {
+   "zip_code": 29927,
+   "performance_score": 26.875
+ },
+ {
+   "zip_code": 77384,
+   "performance_score": 26.875
+ },
+ {
+   "zip_code": 78746,
+   "performance_score": 26.83333333
+ },
+ {
+   "zip_code": 54904,
+   "performance_score": 26.83333333
+ },
+ {
+   "zip_code": 79416,
+   "performance_score": 26.83333333
+ },
+ {
+   "zip_code": 76110,
+   "performance_score": 26.83333333
+ },
+ {
+   "zip_code": 76262,
+   "performance_score": 26.83333333
+ },
+ {
+   "zip_code": 38133,
+   "performance_score": 26.83333333
+ },
+ {
+   "zip_code": 95356,
+   "performance_score": 26.83333333
+ },
+ {
+   "zip_code": 92704,
+   "performance_score": 26.83333333
+ },
+ {
+   "zip_code": 74055,
+   "performance_score": 26.83333333
+ },
+ {
+   "zip_code": 91763,
+   "performance_score": 26.83333333
+ },
+ {
+   "zip_code": 60440,
+   "performance_score": 26.83333333
+ },
+ {
+   "zip_code": 94531,
+   "performance_score": 26.81818182
+ },
+ {
+   "zip_code": 53132,
+   "performance_score": 26.81818182
+ },
+ {
+   "zip_code": 78414,
+   "performance_score": 26.75
+ },
+ {
+   "zip_code": 75090,
+   "performance_score": 26.75
+ },
+ {
+   "zip_code": 95661,
+   "performance_score": 26.75
+ },
+ {
+   "zip_code": 18045,
+   "performance_score": 26.75
+ },
+ {
+   "zip_code": 53546,
+   "performance_score": 26.75
+ },
+ {
+   "zip_code": 17403,
+   "performance_score": 26.75
+ },
+ {
+   "zip_code": 63901,
+   "performance_score": 26.75
+ },
+ {
+   "zip_code": 70427,
+   "performance_score": 26.75
+ },
+ {
+   "zip_code": 76177,
+   "performance_score": 26.75
+ },
+ {
+   "zip_code": 73104,
+   "performance_score": 26.75
+ },
+ {
+   "zip_code": 75093,
+   "performance_score": 26.75
+ },
+ {
+   "zip_code": 2462,
+   "performance_score": 26.71666667
+ },
+ {
+   "zip_code": 2540,
+   "performance_score": 26.7
+ },
+ {
+   "zip_code": 1742,
+   "performance_score": 26.66666667
+ },
+ {
+   "zip_code": 1550,
+   "performance_score": 26.66666667
+ },
+ {
+   "zip_code": 2114,
+   "performance_score": 26.66666667
+ },
+ {
+   "zip_code": 1086,
+   "performance_score": 26.66666667
+ },
+ {
+   "zip_code": 4736,
+   "performance_score": 26.66666667
+ },
+ {
+   "zip_code": 4005,
+   "performance_score": 26.66666667
+ },
+ {
+   "zip_code": 4101,
+   "performance_score": 26.66666667
+ },
+ {
+   "zip_code": 4240,
+   "performance_score": 26.58333333
+ },
+ {
+   "zip_code": 49417,
+   "performance_score": 26.58333333
+ },
+ {
+   "zip_code": 48073,
+   "performance_score": 26.58333333
+ },
+ {
+   "zip_code": 48413,
+   "performance_score": 26.58333333
+ },
+ {
+   "zip_code": 48912,
+   "performance_score": 26.58333333
+ },
+ {
+   "zip_code": 48342,
+   "performance_score": 26.58333333
+ },
+ {
+   "zip_code": 1440,
+   "performance_score": 26.58333333
+ },
+ {
+   "zip_code": 48446,
+   "performance_score": 26.5625
+ },
+ {
+   "zip_code": 48054,
+   "performance_score": 26.5625
+ },
+ {
+   "zip_code": 56303,
+   "performance_score": 26.5625
+ },
+ {
+   "zip_code": 38671,
+   "performance_score": 26.5
+ },
+ {
+   "zip_code": 38834,
+   "performance_score": 26.5
+ },
+ {
+   "zip_code": 49801,
+   "performance_score": 26.5
+ },
+ {
+   "zip_code": 55433,
+   "performance_score": 26.5
+ },
+ {
+   "zip_code": 63090,
+   "performance_score": 26.5
+ },
+ {
+   "zip_code": 63122,
+   "performance_score": 26.41666667
+ },
+ {
+   "zip_code": 65301,
+   "performance_score": 26.41666667
+ },
+ {
+   "zip_code": 64730,
+   "performance_score": 26.41666667
+ },
+ {
+   "zip_code": 39120,
+   "performance_score": 26.41666667
+ },
+ {
+   "zip_code": 39301,
+   "performance_score": 26.41666667
+ },
+ {
+   "zip_code": 39466,
+   "performance_score": 26.41666667
+ },
+ {
+   "zip_code": 69361,
+   "performance_score": 26.41666667
+ },
+ {
+   "zip_code": 64068,
+   "performance_score": 26.35416667
+ },
+ {
+   "zip_code": 63401,
+   "performance_score": 26.35
+ },
+ {
+   "zip_code": 59601,
+   "performance_score": 26.33333333
+ },
+ {
+   "zip_code": 59802,
+   "performance_score": 26.33333333
+ },
+ {
+   "zip_code": 64111,
+   "performance_score": 26.28333333
+ },
+ {
+   "zip_code": 29574,
+   "performance_score": 26.25
+ },
+ {
+   "zip_code": 57501,
+   "performance_score": 26.25
+ },
+ {
+   "zip_code": 29560,
+   "performance_score": 26.25
+ },
+ {
+   "zip_code": 29406,
+   "performance_score": 26.25
+ },
+ {
+   "zip_code": 29902,
+   "performance_score": 26.25
+ },
+ {
+   "zip_code": 29340,
+   "performance_score": 26.25
+ },
+ {
+   "zip_code": 29646,
+   "performance_score": 26.25
+ },
+ {
+   "zip_code": 29307,
+   "performance_score": 26.16666667
+ },
+ {
+   "zip_code": 79410,
+   "performance_score": 26.16666667
+ },
+ {
+   "zip_code": 77030,
+   "performance_score": 26.16666667
+ },
+ {
+   "zip_code": 76661,
+   "performance_score": 26.16666667
+ },
+ {
+   "zip_code": 75401,
+   "performance_score": 26.08333333
+ },
+ {
+   "zip_code": 17837,
+   "performance_score": 26.08333333
+ },
+ {
+   "zip_code": 15801,
+   "performance_score": 26.08333333
+ },
+ {
+   "zip_code": 15537,
+   "performance_score": 26.08333333
+ },
+ {
+   "zip_code": 16365,
+   "performance_score": 26.08333333
+ },
+ {
+   "zip_code": 15501,
+   "performance_score": 26.08333333
+ },
+ {
+   "zip_code": 16509,
+   "performance_score": 26.08333333
+ },
+ {
+   "zip_code": 16117,
+   "performance_score": 26
+ },
+ {
+   "zip_code": 17543,
+   "performance_score": 26
+ },
+ {
+   "zip_code": 18218,
+   "performance_score": 26
+ },
+ {
+   "zip_code": 17268,
+   "performance_score": 26
+ },
+ {
+   "zip_code": 15063,
+   "performance_score": 26
+ },
+ {
+   "zip_code": 16652,
+   "performance_score": 26
+ },
+ {
+   "zip_code": 97527,
+   "performance_score": 26
+ },
+ {
+   "zip_code": 97477,
+   "performance_score": 25.9375
+ },
+ {
+   "zip_code": 97213,
+   "performance_score": 25.9375
+ },
+ {
+   "zip_code": 97216,
+   "performance_score": 25.9375
+ },
+ {
+   "zip_code": 97401,
+   "performance_score": 25.9375
+ },
+ {
+   "zip_code": 17201,
+   "performance_score": 25.9375
+ },
+ {
+   "zip_code": 73942,
+   "performance_score": 25.9375
+ },
+ {
+   "zip_code": 73644,
+   "performance_score": 25.91666667
+ },
+ {
+   "zip_code": 97062,
+   "performance_score": 25.91666667
+ },
+ {
+   "zip_code": 45211,
+   "performance_score": 25.91666667
+ },
+ {
+   "zip_code": 44124,
+   "performance_score": 25.91666667
+ },
+ {
+   "zip_code": 44053,
+   "performance_score": 25.91666667
+ },
+ {
+   "zip_code": 43214,
+   "performance_score": 25.86666667
+ },
+ {
+   "zip_code": 44870,
+   "performance_score": 25.83333333
+ },
+ {
+   "zip_code": 44883,
+   "performance_score": 25.83333333
+ },
+ {
+   "zip_code": 44501,
+   "performance_score": 25.83333333
+ },
+ {
+   "zip_code": 45236,
+   "performance_score": 25.83333333
+ },
+ {
+   "zip_code": 43606,
+   "performance_score": 25.83333333
+ },
+ {
+   "zip_code": 44654,
+   "performance_score": 25.83333333
+ },
+ {
+   "zip_code": 28210,
+   "performance_score": 25.75
+ },
+ {
+   "zip_code": 27514,
+   "performance_score": 25.75
+ },
+ {
+   "zip_code": 27893,
+   "performance_score": 25.75
+ },
+ {
+   "zip_code": 11787,
+   "performance_score": 25.75
+ },
+ {
+   "zip_code": 11576,
+   "performance_score": 25.66666667
+ },
+ {
+   "zip_code": 28779,
+   "performance_score": 25.66666667
+ },
+ {
+   "zip_code": 28546,
+   "performance_score": 25.66666667
+ },
+ {
+   "zip_code": 28334,
+   "performance_score": 25.66666667
+ },
+ {
+   "zip_code": 28345,
+   "performance_score": 25.66666667
+ },
+ {
+   "zip_code": 27910,
+   "performance_score": 25.66666667
+ },
+ {
+   "zip_code": 28625,
+   "performance_score": 25.66666667
+ },
+ {
+   "zip_code": 10708,
+   "performance_score": 25.66666667
+ },
+ {
+   "zip_code": 12401,
+   "performance_score": 25.625
+ },
+ {
+   "zip_code": 14094,
+   "performance_score": 25.61666667
+ },
+ {
+   "zip_code": 11743,
+   "performance_score": 25.58333333
+ },
+ {
+   "zip_code": 11229,
+   "performance_score": 25.58333333
+ },
+ {
+   "zip_code": 11795,
+   "performance_score": 25.58333333
+ },
+ {
+   "zip_code": 11203,
+   "performance_score": 25.58333333
+ },
+ {
+   "zip_code": 13440,
+   "performance_score": 25.58333333
+ },
+ {
+   "zip_code": 11373,
+   "performance_score": 25.58333333
+ },
+ {
+   "zip_code": 14905,
+   "performance_score": 25.52083333
+ },
+ {
+   "zip_code": 14569,
+   "performance_score": 25.5
+ },
+ {
+   "zip_code": 10701,
+   "performance_score": 25.5
+ },
+ {
+   "zip_code": 7962,
+   "performance_score": 25.5
+ },
+ {
+   "zip_code": 8015,
+   "performance_score": 25.5
+ },
+ {
+   "zip_code": 7666,
+   "performance_score": 25.5
+ },
+ {
+   "zip_code": 87544,
+   "performance_score": 25.5
+ },
+ {
+   "zip_code": 3301,
+   "performance_score": 25.5
+ },
+ {
+   "zip_code": 3756,
+   "performance_score": 25.5
+ },
+ {
+   "zip_code": 8724,
+   "performance_score": 25.5
+ },
+ {
+   "zip_code": 7109,
+   "performance_score": 25.5
+ },
+ {
+   "zip_code": 8079,
+   "performance_score": 25.5
+ },
+ {
+   "zip_code": 7754,
+   "performance_score": 25.5
+ },
+ {
+   "zip_code": 38556,
+   "performance_score": 25.45454545
+ },
+ {
+   "zip_code": 37857,
+   "performance_score": 25.41666667
+ },
+ {
+   "zip_code": 37166,
+   "performance_score": 25.41666667
+ },
+ {
+   "zip_code": 37334,
+   "performance_score": 25.41666667
+ },
+ {
+   "zip_code": 38570,
+   "performance_score": 25.41666667
+ },
+ {
+   "zip_code": 37821,
+   "performance_score": 25.41666667
+ },
+ {
+   "zip_code": 77494,
+   "performance_score": 25.41666667
+ },
+ {
+   "zip_code": 77008,
+   "performance_score": 25.33333333
+ },
+ {
+   "zip_code": 77030,
+   "performance_score": 25.33333333
+ },
+ {
+   "zip_code": 37371,
+   "performance_score": 25.33333333
+ },
+ {
+   "zip_code": 37862,
+   "performance_score": 25.33333333
+ },
+ {
+   "zip_code": 76508,
+   "performance_score": 25.33333333
+ },
+ {
+   "zip_code": 76712,
+   "performance_score": 25.3125
+ },
+ {
+   "zip_code": 75605,
+   "performance_score": 25.3125
+ },
+ {
+   "zip_code": 75119,
+   "performance_score": 25.3125
+ },
+ {
+   "zip_code": 78526,
+   "performance_score": 25.3125
+ },
+ {
+   "zip_code": 77833,
+   "performance_score": 25.3125
+ },
+ {
+   "zip_code": 78934,
+   "performance_score": 25.3
+ },
+ {
+   "zip_code": 77901,
+   "performance_score": 25.26666667
+ },
+ {
+   "zip_code": 79065,
+   "performance_score": 25.25
+ },
+ {
+   "zip_code": 75751,
+   "performance_score": 25.25
+ },
+ {
+   "zip_code": 78412,
+   "performance_score": 25.25
+ },
+ {
+   "zip_code": 77002,
+   "performance_score": 25.25
+ },
+ {
+   "zip_code": 78363,
+   "performance_score": 25.25
+ },
+ {
+   "zip_code": 78572,
+   "performance_score": 25.25
+ },
+ {
+   "zip_code": 76086,
+   "performance_score": 25.25
+ },
+ {
+   "zip_code": 77845,
+   "performance_score": 25.25
+ },
+ {
+   "zip_code": 75237,
+   "performance_score": 25.21666667
+ },
+ {
+   "zip_code": 75013,
+   "performance_score": 25.16666667
+ },
+ {
+   "zip_code": 78205,
+   "performance_score": 25.16666667
+ },
+ {
+   "zip_code": 79701,
+   "performance_score": 25.16666667
+ },
+ {
+   "zip_code": 22033,
+   "performance_score": 25.13333333
+ },
+ {
+   "zip_code": 24541,
+   "performance_score": 25.11111111
+ },
+ {
+   "zip_code": 23602,
+   "performance_score": 25.1
+ },
+ {
+   "zip_code": 79905,
+   "performance_score": 25.08333333
+ },
+ {
+   "zip_code": 78026,
+   "performance_score": 25.08333333
+ },
+ {
+   "zip_code": 75961,
+   "performance_score": 25.08333333
+ },
+ {
+   "zip_code": 23601,
+   "performance_score": 25.08333333
+ },
+ {
+   "zip_code": 23225,
+   "performance_score": 25.08333333
+ },
+ {
+   "zip_code": 24354,
+   "performance_score": 25.08333333
+ },
+ {
+   "zip_code": 24060,
+   "performance_score": 25.08333333
+ },
+ {
+   "zip_code": 24151,
+   "performance_score": 25.08333333
+ },
+ {
+   "zip_code": 22911,
+   "performance_score": 25.08333333
+ },
+ {
+   "zip_code": 20110,
+   "performance_score": 25.08333333
+ },
+ {
+   "zip_code": 22304,
+   "performance_score": 25.08333333
+ },
+ {
+   "zip_code": 22401,
+   "performance_score": 25.08333333
+ },
+ {
+   "zip_code": 22601,
+   "performance_score": 25
+ },
+ {
+   "zip_code": 23185,
+   "performance_score": 25
+ },
+ {
+   "zip_code": 78240,
+   "performance_score": 25
+ },
+ {
+   "zip_code": 84157,
+   "performance_score": 25
+ },
+ {
+   "zip_code": 84405,
+   "performance_score": 25
+ },
+ {
+   "zip_code": 84124,
+   "performance_score": 25
+ },
+ {
+   "zip_code": 98034,
+   "performance_score": 25
+ },
+ {
+   "zip_code": 98122,
+   "performance_score": 25
+ },
+ {
+   "zip_code": 98026,
+   "performance_score": 24.91666667
+ },
+ {
+   "zip_code": 98405,
+   "performance_score": 24.91666667
+ },
+ {
+   "zip_code": 25401,
+   "performance_score": 24.91666667
+ },
+ {
+   "zip_code": 24970,
+   "performance_score": 24.91666667
+ },
+ {
+   "zip_code": 82801,
+   "performance_score": 24.85
+ },
+ {
+   "zip_code": 23454,
+   "performance_score": 24.83333333
+ },
+ {
+   "zip_code": 98520,
+   "performance_score": 24.83333333
+ },
+ {
+   "zip_code": 98664,
+   "performance_score": 24.83333333
+ },
+ {
+   "zip_code": 98004,
+   "performance_score": 24.75
+ },
+ {
+   "zip_code": 98101,
+   "performance_score": 24.75
+ },
+ {
+   "zip_code": 70546,
+   "performance_score": 24.75
+ },
+ {
+   "zip_code": 71301,
+   "performance_score": 24.75
+ },
+ {
+   "zip_code": 70806,
+   "performance_score": 24.6875
+ },
+ {
+   "zip_code": 70586,
+   "performance_score": 24.6875
+ },
+ {
+   "zip_code": 71103,
+   "performance_score": 24.6875
+ },
+ {
+   "zip_code": 70737,
+   "performance_score": 24.66666667
+ },
+ {
+   "zip_code": 71220,
+   "performance_score": 24.66666667
+ },
+ {
+   "zip_code": 71301,
+   "performance_score": 24.66666667
+ },
+ {
+   "zip_code": 70816,
+   "performance_score": 24.66666667
+ },
+ {
+   "zip_code": 70560,
+   "performance_score": 24.66666667
+ },
+ {
+   "zip_code": 70791,
+   "performance_score": 24.66666667
+ },
+ {
+   "zip_code": 71075,
+   "performance_score": 24.61666667
+ },
+ {
+   "zip_code": 40324,
+   "performance_score": 24.58333333
+ },
+ {
+   "zip_code": 42071,
+   "performance_score": 24.58333333
+ },
+ {
+   "zip_code": 40351,
+   "performance_score": 24.58333333
+ },
+ {
+   "zip_code": 41653,
+   "performance_score": 24.58333333
+ },
+ {
+   "zip_code": 41056,
+   "performance_score": 24.58333333
+ },
+ {
+   "zip_code": 40475,
+   "performance_score": 24.54545455
+ },
+ {
+   "zip_code": 67502,
+   "performance_score": 24.5
+ },
+ {
+   "zip_code": 66067,
+   "performance_score": 24.5
+ },
+ {
+   "zip_code": 66061,
+   "performance_score": 24.5
+ },
+ {
+   "zip_code": 67530,
+   "performance_score": 24.5
+ },
+ {
+   "zip_code": 42431,
+   "performance_score": 24.5
+ },
+ {
+   "zip_code": 66112,
+   "performance_score": 24.5
+ },
+ {
+   "zip_code": 67401,
+   "performance_score": 24.41666667
+ },
+ {
+   "zip_code": 67005,
+   "performance_score": 24.41666667
+ },
+ {
+   "zip_code": 50501,
+   "performance_score": 24.41666667
+ },
+ {
+   "zip_code": 52732,
+   "performance_score": 24.41666667
+ },
+ {
+   "zip_code": 50401,
+   "performance_score": 24.375
+ },
+ {
+   "zip_code": 52245,
+   "performance_score": 24.375
+ },
+ {
+   "zip_code": 46802,
+   "performance_score": 24.375
+ },
+ {
+   "zip_code": 47130,
+   "performance_score": 24.33333333
+ },
+ {
+   "zip_code": 46360,
+   "performance_score": 24.33333333
+ },
+ {
+   "zip_code": 51301,
+   "performance_score": 24.33333333
+ },
+ {
+   "zip_code": 47802,
+   "performance_score": 24.33333333
+ },
+ {
+   "zip_code": 46725,
+   "performance_score": 24.33333333
+ },
+ {
+   "zip_code": 47591,
+   "performance_score": 24.33333333
+ },
+ {
+   "zip_code": 62246,
+   "performance_score": 24.25
+ },
+ {
+   "zip_code": 60085,
+   "performance_score": 24.25
+ },
+ {
+   "zip_code": 60644,
+   "performance_score": 24.25
+ },
+ {
+   "zip_code": 60622,
+   "performance_score": 24.25
+ },
+ {
+   "zip_code": 60637,
+   "performance_score": 24.25
+ },
+ {
+   "zip_code": 60629,
+   "performance_score": 24.25
+ },
+ {
+   "zip_code": 61520,
+   "performance_score": 24.25
+ },
+ {
+   "zip_code": 60525,
+   "performance_score": 24.16666667
+ },
+ {
+   "zip_code": 60302,
+   "performance_score": 24.16666667
+ },
+ {
+   "zip_code": 60201,
+   "performance_score": 24.16666667
+ },
+ {
+   "zip_code": 61832,
+   "performance_score": 24.16666667
+ },
+ {
+   "zip_code": 61354,
+   "performance_score": 24.16666667
+ },
+ {
+   "zip_code": 96793,
+   "performance_score": 24.16666667
+ },
+ {
+   "zip_code": 83201,
+   "performance_score": 24.16666667
+ },
+ {
+   "zip_code": 83712,
+   "performance_score": 24.15
+ },
+ {
+   "zip_code": 60123,
+   "performance_score": 24.1
+ },
+ {
+   "zip_code": 60504,
+   "performance_score": 24.08333333
+ },
+ {
+   "zip_code": 60169,
+   "performance_score": 24.08333333
+ },
+ {
+   "zip_code": 60123,
+   "performance_score": 24.08333333
+ },
+ {
+   "zip_code": 30513,
+   "performance_score": 24.08333333
+ },
+ {
+   "zip_code": 30824,
+   "performance_score": 24.08333333
+ },
+ {
+   "zip_code": 96743,
+   "performance_score": 24.06666667
+ },
+ {
+   "zip_code": 96819,
+   "performance_score": 24.0625
+ },
+ {
+   "zip_code": 31061,
+   "performance_score": 24.0625
+ },
+ {
+   "zip_code": 30078,
+   "performance_score": 24.0625
+ },
+ {
+   "zip_code": 31501,
+   "performance_score": 24.0625
+ },
+ {
+   "zip_code": 30417,
+   "performance_score": 24
+ },
+ {
+   "zip_code": 31768,
+   "performance_score": 24
+ },
+ {
+   "zip_code": 30322,
+   "performance_score": 23.91666667
+ },
+ {
+   "zip_code": 31901,
+   "performance_score": 23.91666667
+ },
+ {
+   "zip_code": 30106,
+   "performance_score": 23.91666667
+ },
+ {
+   "zip_code": 33428,
+   "performance_score": 23.83333333
+ },
+ {
+   "zip_code": 33033,
+   "performance_score": 23.83333333
+ },
+ {
+   "zip_code": 33541,
+   "performance_score": 23.83333333
+ },
+ {
+   "zip_code": 33175,
+   "performance_score": 23.83333333
+ },
+ {
+   "zip_code": 33770,
+   "performance_score": 23.83333333
+ },
+ {
+   "zip_code": 32547,
+   "performance_score": 23.83333333
+ },
+ {
+   "zip_code": 33486,
+   "performance_score": 23.76666667
+ },
+ {
+   "zip_code": 34655,
+   "performance_score": 23.75
+ },
+ {
+   "zip_code": 34748,
+   "performance_score": 23.75
+ },
+ {
+   "zip_code": 33012,
+   "performance_score": 23.75
+ },
+ {
+   "zip_code": 34613,
+   "performance_score": 23.75
+ },
+ {
+   "zip_code": 34223,
+   "performance_score": 23.75
+ },
+ {
+   "zip_code": 33324,
+   "performance_score": 23.75
+ },
+ {
+   "zip_code": 32806,
+   "performance_score": 23.75
+ },
+ {
+   "zip_code": 34102,
+   "performance_score": 23.75
+ },
+ {
+   "zip_code": 34952,
+   "performance_score": 23.75
+ },
+ {
+   "zip_code": 33952,
+   "performance_score": 23.75
+ },
+ {
+   "zip_code": 33430,
+   "performance_score": 23.75
+ },
+ {
+   "zip_code": 33176,
+   "performance_score": 23.66666667
+ },
+ {
+   "zip_code": 34711,
+   "performance_score": 23.66666667
+ },
+ {
+   "zip_code": 6610,
+   "performance_score": 23.66666667
+ },
+ {
+   "zip_code": 6810,
+   "performance_score": 23.66666667
+ },
+ {
+   "zip_code": 6069,
+   "performance_score": 23.63636364
+ },
+ {
+   "zip_code": 20017,
+   "performance_score": 23.58333333
+ },
+ {
+   "zip_code": 33155,
+   "performance_score": 23.58333333
+ },
+ {
+   "zip_code": 34667,
+   "performance_score": 23.58333333
+ },
+ {
+   "zip_code": 32308,
+   "performance_score": 23.58333333
+ },
+ {
+   "zip_code": 92252,
+   "performance_score": 23.58333333
+ },
+ {
+   "zip_code": 94080,
+   "performance_score": 23.58333333
+ },
+ {
+   "zip_code": 80487,
+   "performance_score": 23.5
+ },
+ {
+   "zip_code": 81401,
+   "performance_score": 23.5
+ },
+ {
+   "zip_code": 81601,
+   "performance_score": 23.5
+ },
+ {
+   "zip_code": 80631,
+   "performance_score": 23.5
+ },
+ {
+   "zip_code": 92505,
+   "performance_score": 23.5
+ },
+ {
+   "zip_code": 92835,
+   "performance_score": 23.5
+ },
+ {
+   "zip_code": 95116,
+   "performance_score": 23.5
+ },
+ {
+   "zip_code": 95695,
+   "performance_score": 23.4375
+ },
+ {
+   "zip_code": 93215,
+   "performance_score": 23.4375
+ },
+ {
+   "zip_code": 92585,
+   "performance_score": 23.4375
+ },
+ {
+   "zip_code": 94546,
+   "performance_score": 23.4375
+ },
+ {
+   "zip_code": 92555,
+   "performance_score": 23.41666667
+ },
+ {
+   "zip_code": 91942,
+   "performance_score": 23.41666667
+ },
+ {
+   "zip_code": 95361,
+   "performance_score": 23.41666667
+ },
+ {
+   "zip_code": 94538,
+   "performance_score": 23.35
+ },
+ {
+   "zip_code": 91776,
+   "performance_score": 23.33333333
+ },
+ {
+   "zip_code": 91206,
+   "performance_score": 23.33333333
+ },
+ {
+   "zip_code": 95128,
+   "performance_score": 23.33333333
+ },
+ {
+   "zip_code": 95747,
+   "performance_score": 23.33333333
+ },
+ {
+   "zip_code": 95823,
+   "performance_score": 23.33333333
+ },
+ {
+   "zip_code": 90057,
+   "performance_score": 23.33333333
+ },
+ {
+   "zip_code": 94904,
+   "performance_score": 23.25
+ },
+ {
+   "zip_code": 93030,
+   "performance_score": 23.25
+ },
+ {
+   "zip_code": 93454,
+   "performance_score": 23.25
+ },
+ {
+   "zip_code": 90804,
+   "performance_score": 23.18181818
+ },
+ {
+   "zip_code": 91710,
+   "performance_score": 23.18181818
+ },
+ {
+   "zip_code": 94611,
+   "performance_score": 23.18181818
+ },
+ {
+   "zip_code": 94558,
+   "performance_score": 23.16666667
+ },
+ {
+   "zip_code": 92037,
+   "performance_score": 23.16666667
+ },
+ {
+   "zip_code": 95051,
+   "performance_score": 23.16666667
+ },
+ {
+   "zip_code": 71603,
+   "performance_score": 23.16666667
+ },
+ {
+   "zip_code": 72403,
+   "performance_score": 23.16666667
+ },
+ {
+   "zip_code": 92064,
+   "performance_score": 23.16666667
+ },
+ {
+   "zip_code": 95376,
+   "performance_score": 23.16666667
+ },
+ {
+   "zip_code": 85054,
+   "performance_score": 23.16666667
+ },
+ {
+   "zip_code": 72503,
+   "performance_score": 23.16666667
+ },
+ {
+   "zip_code": 35209,
+   "performance_score": 23.125
+ },
+ {
+   "zip_code": 36535,
+   "performance_score": 23.125
+ },
+ {
+   "zip_code": 35957,
+   "performance_score": 23.125
+ },
+ {
+   "zip_code": 35653,
+   "performance_score": 23.08333333
+ },
+ {
+   "zip_code": 35205,
+   "performance_score": 23.08333333
+ },
+ {
+   "zip_code": 36081,
+   "performance_score": 23.08333333
+ },
+ {
+   "zip_code": 36426,
+   "performance_score": 23.08333333
+ },
+ {
+   "zip_code": 36027,
+   "performance_score": 23.08333333
+ },
+ {
+   "zip_code": 85260,
+   "performance_score": 23.08333333
+ },
+ {
+   "zip_code": 85635,
+   "performance_score": 23.05
+ },
+ {
+   "zip_code": 45804,
+   "performance_score": 23
+ },
+ {
+   "zip_code": 32159,
+   "performance_score": 23
+ },
+ {
+   "zip_code": 88011,
+   "performance_score": 23
+ },
+ {
+   "zip_code": 82901,
+   "performance_score": 23
+ },
+ {
+   "zip_code": 82601,
+   "performance_score": 23
+ },
+ {
+   "zip_code": 85209,
+   "performance_score": 22.91666667
+ },
+ {
+   "zip_code": 77505,
+   "performance_score": 22.91666667
+ },
+ {
+   "zip_code": 73120,
+   "performance_score": 22.91666667
+ },
+ {
+   "zip_code": 67226,
+   "performance_score": 22.91666667
+ },
+ {
+   "zip_code": 91754,
+   "performance_score": 22.91666667
+ },
+ {
+   "zip_code": 90301,
+   "performance_score": 22.91666667
+ },
+ {
+   "zip_code": 90036,
+   "performance_score": 22.88888889
+ },
+ {
+   "zip_code": 54449,
+   "performance_score": 22.83333333
+ },
+ {
+   "zip_code": 53081,
+   "performance_score": 22.83333333
+ },
+ {
+   "zip_code": 53948,
+   "performance_score": 22.83333333
+ },
+ {
+   "zip_code": 54601,
+   "performance_score": 22.83333333
+ },
+ {
+   "zip_code": 53121,
+   "performance_score": 22.83333333
+ },
+ {
+   "zip_code": 53913,
+   "performance_score": 22.75
+ },
+ {
+   "zip_code": 1701,
+   "performance_score": 22.75
+ },
+ {
+   "zip_code": 1608,
+   "performance_score": 22.75
+ },
+ {
+   "zip_code": 78759,
+   "performance_score": 22.75
+ },
+ {
+   "zip_code": 59901,
+   "performance_score": 22.75
+ },
+ {
+   "zip_code": 79936,
+   "performance_score": 22.75
+ },
+ {
+   "zip_code": 89148,
+   "performance_score": 22.75
+ },
+ {
+   "zip_code": 75035,
+   "performance_score": 22.7
+ },
+ {
+   "zip_code": 33029,
+   "performance_score": 22.66666667
+ },
+ {
+   "zip_code": 92705,
+   "performance_score": 22.66666667
+ },
+ {
+   "zip_code": 78746,
+   "performance_score": 22.66666667
+ },
+ {
+   "zip_code": 70458,
+   "performance_score": 22.66666667
+ },
+ {
+   "zip_code": 64086,
+   "performance_score": 22.66666667
+ },
+ {
+   "zip_code": 48201,
+   "performance_score": 22.66666667
+ },
+ {
+   "zip_code": 91403,
+   "performance_score": 22.66666667
+ },
+ {
+   "zip_code": 19610,
+   "performance_score": 22.58333333
+ },
+ {
+   "zip_code": 43016,
+   "performance_score": 22.58333333
+ },
+ {
+   "zip_code": 32216,
+   "performance_score": 22.58333333
+ },
+ {
+   "zip_code": 68114,
+   "performance_score": 22.58333333
+ },
+ {
+   "zip_code": 53132,
+   "performance_score": 22.5
+ },
+ {
+   "zip_code": 77478,
+   "performance_score": 22.5
+ },
+ {
+   "zip_code": 22554,
+   "performance_score": 22.5
+ },
+ {
+   "zip_code": 77384,
+   "performance_score": 22.5
+ },
+ {
+   "zip_code": 75028,
+   "performance_score": 22.5
+ },
+ {
+   "zip_code": 67235,
+   "performance_score": 22.5
+ },
+ {
+   "zip_code": 19468,
+   "performance_score": 22.5
+ },
+ {
+   "zip_code": 76012,
+   "performance_score": 22.5
+ },
+ {
+   "zip_code": 32907,
+   "performance_score": 22.5
+ },
+ {
+   "zip_code": 78734,
+   "performance_score": 22.41666667
+ },
+ {
+   "zip_code": 76548,
+   "performance_score": 22.41666667
+ },
+ {
+   "zip_code": 75071,
+   "performance_score": 22.39583333
+ },
+ {
+   "zip_code": 76244,
+   "performance_score": 22.33333333
+ },
+ {
+   "zip_code": 46037,
+   "performance_score": 22.33333333
+ },
+ {
+   "zip_code": 7675,
+   "performance_score": 22.33333333
+ },
+ {
+   "zip_code": 20169,
+   "performance_score": 22.33333333
+ },
+ {
+   "zip_code": 68845,
+   "performance_score": 22.29166667
+ },
+ {
+   "zip_code": 74501,
+   "performance_score": 22.27272727
+ },
+ {
+   "zip_code": 73651,
+   "performance_score": 22.25
+ },
+ {
+   "zip_code": 1950,
+   "performance_score": 22.25
+ },
+ {
+   "zip_code": 1757,
+   "performance_score": 22.25
+ },
+ {
+   "zip_code": 2139,
+   "performance_score": 22.25
+ },
+ {
+   "zip_code": 1752,
+   "performance_score": 22.25
+ },
+ {
+   "zip_code": 1199,
+   "performance_score": 22.25
+ },
+ {
+   "zip_code": 2120,
+   "performance_score": 22.2
+ },
+ {
+   "zip_code": 49068,
+   "performance_score": 22.1875
+ },
+ {
+   "zip_code": 4401,
+   "performance_score": 22.16666667
+ },
+ {
+   "zip_code": 4856,
+   "performance_score": 22.16666667
+ },
+ {
+   "zip_code": 48061,
+   "performance_score": 22.16666667
+ },
+ {
+   "zip_code": 49058,
+   "performance_score": 22.08333333
+ },
+ {
+   "zip_code": 49930,
+   "performance_score": 22.08333333
+ },
+ {
+   "zip_code": 39111,
+   "performance_score": 22.08333333
+ },
+ {
+   "zip_code": 38801,
+   "performance_score": 22.08333333
+ },
+ {
+   "zip_code": 56501,
+   "performance_score": 22.08333333
+ },
+ {
+   "zip_code": 55435,
+   "performance_score": 22
+ },
+ {
+   "zip_code": 55744,
+   "performance_score": 22
+ },
+ {
+   "zip_code": 55746,
+   "performance_score": 22
+ },
+ {
+   "zip_code": 55432,
+   "performance_score": 22
+ },
+ {
+   "zip_code": 56201,
+   "performance_score": 21.91666667
+ },
+ {
+   "zip_code": 49503,
+   "performance_score": 21.91666667
+ },
+ {
+   "zip_code": 56002,
+   "performance_score": 21.91666667
+ },
+ {
+   "zip_code": 55792,
+   "performance_score": 21.83333333
+ },
+ {
+   "zip_code": 63017,
+   "performance_score": 21.83333333
+ },
+ {
+   "zip_code": 64114,
+   "performance_score": 21.83333333
+ },
+ {
+   "zip_code": 65802,
+   "performance_score": 21.83333333
+ },
+ {
+   "zip_code": 64154,
+   "performance_score": 21.83333333
+ },
+ {
+   "zip_code": 63131,
+   "performance_score": 21.83333333
+ },
+ {
+   "zip_code": 63703,
+   "performance_score": 21.75
+ },
+ {
+   "zip_code": 65615,
+   "performance_score": 21.75
+ },
+ {
+   "zip_code": 39759,
+   "performance_score": 21.75
+ },
+ {
+   "zip_code": 39350,
+   "performance_score": 21.75
+ },
+ {
+   "zip_code": 68025,
+   "performance_score": 21.75
+ },
+ {
+   "zip_code": 63701,
+   "performance_score": 21.75
+ },
+ {
+   "zip_code": 64506,
+   "performance_score": 21.75
+ },
+ {
+   "zip_code": 63110,
+   "performance_score": 21.75
+ },
+ {
+   "zip_code": 57006,
+   "performance_score": 21.75
+ },
+ {
+   "zip_code": 57117,
+   "performance_score": 21.75
+ },
+ {
+   "zip_code": 2891,
+   "performance_score": 21.66666667
+ },
+ {
+   "zip_code": 2860,
+   "performance_score": 21.66666667
+ },
+ {
+   "zip_code": 29488,
+   "performance_score": 21.66666667
+ },
+ {
+   "zip_code": 29108,
+   "performance_score": 21.61666667
+ },
+ {
+   "zip_code": 29550,
+   "performance_score": 21.58333333
+ },
+ {
+   "zip_code": 29401,
+   "performance_score": 21.58333333
+ },
+ {
+   "zip_code": 57783,
+   "performance_score": 21.58333333
+ },
+ {
+   "zip_code": 19063,
+   "performance_score": 21.58333333
+ },
+ {
+   "zip_code": 17033,
+   "performance_score": 21.58333333
+ },
+ {
+   "zip_code": 16335,
+   "performance_score": 21.5
+ },
+ {
+   "zip_code": 15425,
+   "performance_score": 21.5
+ },
+ {
+   "zip_code": 16001,
+   "performance_score": 21.5
+ },
+ {
+   "zip_code": 19118,
+   "performance_score": 21.5
+ },
+ {
+   "zip_code": 18510,
+   "performance_score": 21.5
+ },
+ {
+   "zip_code": 16346,
+   "performance_score": 21.5
+ },
+ {
+   "zip_code": 17901,
+   "performance_score": 21.5
+ },
+ {
+   "zip_code": 19046,
+   "performance_score": 21.43333333
+ },
+ {
+   "zip_code": 19102,
+   "performance_score": 21.41666667
+ },
+ {
+   "zip_code": 97701,
+   "performance_score": 21.41666667
+ },
+ {
+   "zip_code": 97601,
+   "performance_score": 21.41666667
+ },
+ {
+   "zip_code": 18960,
+   "performance_score": 21.41666667
+ },
+ {
+   "zip_code": 17044,
+   "performance_score": 21.41666667
+ },
+ {
+   "zip_code": 19301,
+   "performance_score": 21.35416667
+ },
+ {
+   "zip_code": 19141,
+   "performance_score": 21.33333333
+ },
+ {
+   "zip_code": 74361,
+   "performance_score": 21.33333333
+ },
+ {
+   "zip_code": 73099,
+   "performance_score": 21.33333333
+ },
+ {
+   "zip_code": 97015,
+   "performance_score": 21.33333333
+ },
+ {
+   "zip_code": 97128,
+   "performance_score": 21.25
+ },
+ {
+   "zip_code": 97058,
+   "performance_score": 21.25
+ },
+ {
+   "zip_code": 45267,
+   "performance_score": 21.25
+ },
+ {
+   "zip_code": 74820,
+   "performance_score": 21.25
+ },
+ {
+   "zip_code": 74006,
+   "performance_score": 21.25
+ },
+ {
+   "zip_code": 73505,
+   "performance_score": 21.25
+ },
+ {
+   "zip_code": 45601,
+   "performance_score": 21.25
+ },
+ {
+   "zip_code": 43699,
+   "performance_score": 21.25
+ },
+ {
+   "zip_code": 43222,
+   "performance_score": 21.16666667
+ },
+ {
+   "zip_code": 44481,
+   "performance_score": 21.16666667
+ },
+ {
+   "zip_code": 44307,
+   "performance_score": 21.16666667
+ },
+ {
+   "zip_code": 43215,
+   "performance_score": 21.16666667
+ },
+ {
+   "zip_code": 45406,
+   "performance_score": 21.16666667
+ },
+ {
+   "zip_code": 43213,
+   "performance_score": 21.16666667
+ },
+ {
+   "zip_code": 45828,
+   "performance_score": 21.16666667
+ },
+ {
+   "zip_code": 43402,
+   "performance_score": 21.08333333
+ },
+ {
+   "zip_code": 45840,
+   "performance_score": 21.08333333
+ },
+ {
+   "zip_code": 27892,
+   "performance_score": 21.08333333
+ },
+ {
+   "zip_code": 28803,
+   "performance_score": 21.08333333
+ },
+ {
+   "zip_code": 28791,
+   "performance_score": 21
+ },
+ {
+   "zip_code": 28275,
+   "performance_score": 21
+ },
+ {
+   "zip_code": 58501,
+   "performance_score": 21
+ },
+ {
+   "zip_code": 11213,
+   "performance_score": 21
+ },
+ {
+   "zip_code": 14895,
+   "performance_score": 20.9375
+ },
+ {
+   "zip_code": 27518,
+   "performance_score": 20.91666667
+ },
+ {
+   "zip_code": 27157,
+   "performance_score": 20.91666667
+ },
+ {
+   "zip_code": 28359,
+   "performance_score": 20.91666667
+ },
+ {
+   "zip_code": 13069,
+   "performance_score": 20.91666667
+ },
+ {
+   "zip_code": 10019,
+   "performance_score": 20.83333333
+ },
+ {
+   "zip_code": 11203,
+   "performance_score": 20.83333333
+ },
+ {
+   "zip_code": 10305,
+   "performance_score": 20.75
+ },
+ {
+   "zip_code": 10550,
+   "performance_score": 20.75
+ },
+ {
+   "zip_code": 12953,
+   "performance_score": 20.75
+ },
+ {
+   "zip_code": 10591,
+   "performance_score": 20.7
+ },
+ {
+   "zip_code": 11219,
+   "performance_score": 20.66666667
+ },
+ {
+   "zip_code": 11203,
+   "performance_score": 20.66666667
+ },
+ {
+   "zip_code": 7030,
+   "performance_score": 20.66666667
+ },
+ {
+   "zip_code": 8103,
+   "performance_score": 20.63333333
+ },
+ {
+   "zip_code": 87401,
+   "performance_score": 20.625
+ },
+ {
+   "zip_code": 87109,
+   "performance_score": 20.58333333
+ },
+ {
+   "zip_code": 3102,
+   "performance_score": 20.58333333
+ },
+ {
+   "zip_code": 8210,
+   "performance_score": 20.58333333
+ },
+ {
+   "zip_code": 8060,
+   "performance_score": 20.58333333
+ },
+ {
+   "zip_code": 7652,
+   "performance_score": 20.55
+ },
+ {
+   "zip_code": 7860,
+   "performance_score": 20.5
+ },
+ {
+   "zip_code": 7094,
+   "performance_score": 20.5
+ },
+ {
+   "zip_code": 8638,
+   "performance_score": 20.5
+ },
+ {
+   "zip_code": 8096,
+   "performance_score": 20.44444444
+ },
+ {
+   "zip_code": 8046,
+   "performance_score": 20.41666667
+ },
+ {
+   "zip_code": 38583,
+   "performance_score": 20.41666667
+ },
+ {
+   "zip_code": 38104,
+   "performance_score": 20.41666667
+ },
+ {
+   "zip_code": 38120,
+   "performance_score": 20.41666667
+ },
+ {
+   "zip_code": 38261,
+   "performance_score": 20.33333333
+ },
+ {
+   "zip_code": 37403,
+   "performance_score": 20.33333333
+ },
+ {
+   "zip_code": 78520,
+   "performance_score": 20.33333333
+ },
+ {
+   "zip_code": 79760,
+   "performance_score": 20.33333333
+ },
+ {
+   "zip_code": 76022,
+   "performance_score": 20.33333333
+ },
+ {
+   "zip_code": 37203,
+   "performance_score": 20.3125
+ },
+ {
+   "zip_code": 37760,
+   "performance_score": 20.25
+ },
+ {
+   "zip_code": 37743,
+   "performance_score": 20.25
+ },
+ {
+   "zip_code": 79556,
+   "performance_score": 20.25
+ },
+ {
+   "zip_code": 76234,
+   "performance_score": 20.25
+ },
+ {
+   "zip_code": 75231,
+   "performance_score": 20.25
+ },
+ {
+   "zip_code": 75904,
+   "performance_score": 20.16666667
+ },
+ {
+   "zip_code": 77024,
+   "performance_score": 20.16666667
+ },
+ {
+   "zip_code": 75218,
+   "performance_score": 20.16666667
+ },
+ {
+   "zip_code": 76031,
+   "performance_score": 20.08333333
+ },
+ {
+   "zip_code": 75110,
+   "performance_score": 20.08333333
+ },
+ {
+   "zip_code": 78624,
+   "performance_score": 20.05
+ },
+ {
+   "zip_code": 79029,
+   "performance_score": 20
+ },
+ {
+   "zip_code": 78336,
+   "performance_score": 20
+ },
+ {
+   "zip_code": 78028,
+   "performance_score": 20
+ },
+ {
+   "zip_code": 78550,
+   "performance_score": 19.91666667
+ },
+ {
+   "zip_code": 75901,
+   "performance_score": 19.91666667
+ },
+ {
+   "zip_code": 78045,
+   "performance_score": 19.91666667
+ },
+ {
+   "zip_code": 79720,
+   "performance_score": 19.88333333
+ },
+ {
+   "zip_code": 75088,
+   "performance_score": 19.85
+ },
+ {
+   "zip_code": 78044,
+   "performance_score": 19.83333333
+ },
+ {
+   "zip_code": 23901,
+   "performance_score": 19.83333333
+ },
+ {
+   "zip_code": 77054,
+   "performance_score": 19.75
+ },
+ {
+   "zip_code": 78405,
+   "performance_score": 19.75
+ },
+ {
+   "zip_code": 79601,
+   "performance_score": 19.6875
+ },
+ {
+   "zip_code": 5478,
+   "performance_score": 19.6875
+ },
+ {
+   "zip_code": 22939,
+   "performance_score": 19.6875
+ },
+ {
+   "zip_code": 23434,
+   "performance_score": 19.6875
+ },
+ {
+   "zip_code": 24073,
+   "performance_score": 19.66666667
+ },
+ {
+   "zip_code": 23666,
+   "performance_score": 19.66666667
+ },
+ {
+   "zip_code": 23707,
+   "performance_score": 19.66666667
+ },
+ {
+   "zip_code": 24457,
+   "performance_score": 19.66666667
+ },
+ {
+   "zip_code": 23229,
+   "performance_score": 19.66666667
+ },
+ {
+   "zip_code": 22306,
+   "performance_score": 19.66666667
+ },
+ {
+   "zip_code": 24333,
+   "performance_score": 19.66666667
+ },
+ {
+   "zip_code": 84003,
+   "performance_score": 19.66666667
+ },
+ {
+   "zip_code": 84604,
+   "performance_score": 19.58333333
+ },
+ {
+   "zip_code": 84302,
+   "performance_score": 19.58333333
+ },
+ {
+   "zip_code": 84132,
+   "performance_score": 19.5
+ },
+ {
+   "zip_code": 84057,
+   "performance_score": 19.41666667
+ },
+ {
+   "zip_code": 5701,
+   "performance_score": 19.41666667
+ },
+ {
+   "zip_code": 98055,
+   "performance_score": 19.375
+ },
+ {
+   "zip_code": 25801,
+   "performance_score": 19.375
+ },
+ {
+   "zip_code": 24740,
+   "performance_score": 19.33333333
+ },
+ {
+   "zip_code": 25601,
+   "performance_score": 19.33333333
+ },
+ {
+   "zip_code": 25301,
+   "performance_score": 19.33333333
+ },
+ {
+   "zip_code": 26241,
+   "performance_score": 19.25
+ },
+ {
+   "zip_code": 98807,
+   "performance_score": 19.25
+ },
+ {
+   "zip_code": 98415,
+   "performance_score": 19.25
+ },
+ {
+   "zip_code": 70380,
+   "performance_score": 19.25
+ },
+ {
+   "zip_code": 71270,
+   "performance_score": 19.16666667
+ },
+ {
+   "zip_code": 70072,
+   "performance_score": 19.16666667
+ },
+ {
+   "zip_code": 70601,
+   "performance_score": 19.16666667
+ },
+ {
+   "zip_code": 40004,
+   "performance_score": 19.08333333
+ },
+ {
+   "zip_code": 40202,
+   "performance_score": 19.08333333
+ },
+ {
+   "zip_code": 42754,
+   "performance_score": 19
+ },
+ {
+   "zip_code": 40422,
+   "performance_score": 19
+ },
+ {
+   "zip_code": 67401,
+   "performance_score": 18.91666667
+ },
+ {
+   "zip_code": 67846,
+   "performance_score": 18.91666667
+ },
+ {
+   "zip_code": 67901,
+   "performance_score": 18.78333333
+ },
+ {
+   "zip_code": 40033,
+   "performance_score": 18.75
+ },
+ {
+   "zip_code": 41101,
+   "performance_score": 18.75
+ },
+ {
+   "zip_code": 40509,
+   "performance_score": 18.75
+ },
+ {
+   "zip_code": 51503,
+   "performance_score": 18.75
+ },
+ {
+   "zip_code": 50010,
+   "performance_score": 18.75
+ },
+ {
+   "zip_code": 50316,
+   "performance_score": 18.75
+ },
+ {
+   "zip_code": 47750,
+   "performance_score": 18.66666667
+ },
+ {
+   "zip_code": 46845,
+   "performance_score": 18.5
+ },
+ {
+   "zip_code": 47250,
+   "performance_score": 18.41666667
+ },
+ {
+   "zip_code": 46011,
+   "performance_score": 18.33333333
+ },
+ {
+   "zip_code": 46714,
+   "performance_score": 18.33333333
+ },
+ {
+   "zip_code": 52632,
+   "performance_score": 18.33333333
+ },
+ {
+   "zip_code": 46052,
+   "performance_score": 18.28333333
+ },
+ {
+   "zip_code": 46402,
+   "performance_score": 18.25
+ },
+ {
+   "zip_code": 47403,
+   "performance_score": 18.25
+ },
+ {
+   "zip_code": 47331,
+   "performance_score": 18.25
+ },
+ {
+   "zip_code": 46320,
+   "performance_score": 18.2
+ },
+ {
+   "zip_code": 47804,
+   "performance_score": 18.16666667
+ },
+ {
+   "zip_code": 62230,
+   "performance_score": 18.125
+ },
+ {
+   "zip_code": 62002,
+   "performance_score": 18.125
+ },
+ {
+   "zip_code": 60617,
+   "performance_score": 18.125
+ },
+ {
+   "zip_code": 60435,
+   "performance_score": 18.125
+ },
+ {
+   "zip_code": 61282,
+   "performance_score": 18.08333333
+ },
+ {
+   "zip_code": 60426,
+   "performance_score": 18.08333333
+ },
+ {
+   "zip_code": 60612,
+   "performance_score": 18.08333333
+ },
+ {
+   "zip_code": 60625,
+   "performance_score": 18
+ },
+ {
+   "zip_code": 61401,
+   "performance_score": 18
+ },
+ {
+   "zip_code": 60901,
+   "performance_score": 18
+ },
+ {
+   "zip_code": 83605,
+   "performance_score": 18
+ },
+ {
+   "zip_code": 83440,
+   "performance_score": 17.91666667
+ },
+ {
+   "zip_code": 61455,
+   "performance_score": 17.91666667
+ },
+ {
+   "zip_code": 30606,
+   "performance_score": 17.88888889
+ },
+ {
+   "zip_code": 30076,
+   "performance_score": 17.83333333
+ },
+ {
+   "zip_code": 30303,
+   "performance_score": 17.83333333
+ },
+ {
+   "zip_code": 31403,
+   "performance_score": 17.75
+ },
+ {
+   "zip_code": 30041,
+   "performance_score": 17.70833333
+ },
+ {
+   "zip_code": 30606,
+   "performance_score": 17.66666667
+ },
+ {
+   "zip_code": 31036,
+   "performance_score": 17.58333333
+ },
+ {
+   "zip_code": 30535,
+   "performance_score": 17.58333333
+ },
+ {
+   "zip_code": 30274,
+   "performance_score": 17.58333333
+ },
+ {
+   "zip_code": 31750,
+   "performance_score": 17.58333333
+ },
+ {
+   "zip_code": 31021,
+   "performance_score": 17.5
+ },
+ {
+   "zip_code": 30901,
+   "performance_score": 17.5
+ },
+ {
+   "zip_code": 33134,
+   "performance_score": 17.5
+ },
+ {
+   "zip_code": 32435,
+   "performance_score": 17.41666667
+ },
+ {
+   "zip_code": 32771,
+   "performance_score": 17.41666667
+ },
+ {
+   "zip_code": 32073,
+   "performance_score": 17.41666667
+ },
+ {
+   "zip_code": 34994,
+   "performance_score": 17.33333333
+ },
+ {
+   "zip_code": 32803,
+   "performance_score": 17.25
+ },
+ {
+   "zip_code": 33016,
+   "performance_score": 17.25
+ },
+ {
+   "zip_code": 32778,
+   "performance_score": 17.25
+ },
+ {
+   "zip_code": 32216,
+   "performance_score": 17.25
+ },
+ {
+   "zip_code": 34428,
+   "performance_score": 17.1875
+ },
+ {
+   "zip_code": 33143,
+   "performance_score": 17.1875
+ },
+ {
+   "zip_code": 32561,
+   "performance_score": 17.16666667
+ },
+ {
+   "zip_code": 33709,
+   "performance_score": 17.1
+ },
+ {
+   "zip_code": 34285,
+   "performance_score": 17.08333333
+ },
+ {
+   "zip_code": 33701,
+   "performance_score": 17.08333333
+ },
+ {
+   "zip_code": 81004,
+   "performance_score": 17
+ },
+ {
+   "zip_code": 81502,
+   "performance_score": 16.91666667
+ },
+ {
+   "zip_code": 6706,
+   "performance_score": 16.91666667
+ },
+ {
+   "zip_code": 6457,
+   "performance_score": 16.875
+ },
+ {
+   "zip_code": 20060,
+   "performance_score": 16.83333333
+ },
+ {
+   "zip_code": 20007,
+   "performance_score": 16.8
+ },
+ {
+   "zip_code": 93003,
+   "performance_score": 16.75
+ },
+ {
+   "zip_code": 95642,
+   "performance_score": 16.75
+ },
+ {
+   "zip_code": 92395,
+   "performance_score": 16.71666667
+ },
+ {
+   "zip_code": 90023,
+   "performance_score": 16.66666667
+ },
+ {
+   "zip_code": 92311,
+   "performance_score": 16.66666667
+ },
+ {
+   "zip_code": 92882,
+   "performance_score": 16.5625
+ },
+ {
+   "zip_code": 92227,
+   "performance_score": 16.5625
+ },
+ {
+   "zip_code": 92262,
+   "performance_score": 16.5625
+ },
+ {
+   "zip_code": 92404,
+   "performance_score": 16.5
+ },
+ {
+   "zip_code": 91402,
+   "performance_score": 16.41666667
+ },
+ {
+   "zip_code": 92806,
+   "performance_score": 16.41666667
+ },
+ {
+   "zip_code": 93010,
+   "performance_score": 16.41666667
+ },
+ {
+   "zip_code": 95969,
+   "performance_score": 16.41666667
+ },
+ {
+   "zip_code": 95816,
+   "performance_score": 16.36363636
+ },
+ {
+   "zip_code": 92691,
+   "performance_score": 16.33333333
+ },
+ {
+   "zip_code": 92225,
+   "performance_score": 16.33333333
+ },
+ {
+   "zip_code": 95661,
+   "performance_score": 16.33333333
+ },
+ {
+   "zip_code": 92501,
+   "performance_score": 16.25
+ },
+ {
+   "zip_code": 94596,
+   "performance_score": 16.2
+ },
+ {
+   "zip_code": 90732,
+   "performance_score": 16.08333333
+ },
+ {
+   "zip_code": 91773,
+   "performance_score": 16
+ },
+ {
+   "zip_code": 94509,
+   "performance_score": 15.83333333
+ },
+ {
+   "zip_code": 90404,
+   "performance_score": 15.75
+ },
+ {
+   "zip_code": 91402,
+   "performance_score": 15.75
+ },
+ {
+   "zip_code": 92243,
+   "performance_score": 15.7
+ },
+ {
+   "zip_code": 90806,
+   "performance_score": 15.7
+ },
+ {
+   "zip_code": 72143,
+   "performance_score": 15.66666667
+ },
+ {
+   "zip_code": 72833,
+   "performance_score": 15.41666667
+ },
+ {
+   "zip_code": 93301,
+   "performance_score": 15.41666667
+ },
+ {
+   "zip_code": 94903,
+   "performance_score": 15.41666667
+ },
+ {
+   "zip_code": 95630,
+   "performance_score": 15.3125
+ },
+ {
+   "zip_code": 86503,
+   "performance_score": 15.25
+ },
+ {
+   "zip_code": 85202,
+   "performance_score": 15.25
+ },
+ {
+   "zip_code": 85015,
+   "performance_score": 15.16666667
+ },
+ {
+   "zip_code": 85712,
+   "performance_score": 15.08333333
+ },
+ {
+   "zip_code": 86409,
+   "performance_score": 15.08333333
+ },
+ {
+   "zip_code": 72758,
+   "performance_score": 15
+ },
+ {
+   "zip_code": 72342,
+   "performance_score": 15
+ },
+ {
+   "zip_code": 71903,
+   "performance_score": 15
+ },
+ {
+   "zip_code": 72205,
+   "performance_score": 15
+ },
+ {
+   "zip_code": 71731,
+   "performance_score": 15
+ },
+ {
+   "zip_code": 72015,
+   "performance_score": 14.91666667
+ },
+ {
+   "zip_code": 36302,
+   "performance_score": 14.86666667
+ },
+ {
+   "zip_code": 36207,
+   "performance_score": 14.83333333
+ },
+ {
+   "zip_code": 36207,
+   "performance_score": 14.6875
+ },
+ {
+   "zip_code": 36251,
+   "performance_score": 14.58333333
+ },
+ {
+   "zip_code": 36732,
+   "performance_score": 14.41666667
+ },
+ {
+   "zip_code": 36067,
+   "performance_score": 14.25
+ },
+ {
+   "zip_code": 35650,
+   "performance_score": 14.16666667
+ },
+ {
+   "zip_code": 36607,
+   "performance_score": 14.16666667
+ },
+ {
+   "zip_code": 86301,
+   "performance_score": 14.09090909
+ },
+ {
+   "zip_code": 85258,
+   "performance_score": 14.0625
+ },
+ {
+   "zip_code": 53566,
+   "performance_score": 14
+ },
+ {
+   "zip_code": 53027,
+   "performance_score": 14
+ },
+ {
+   "zip_code": 54241,
+   "performance_score": 13.75
+ },
+ {
+   "zip_code": 54501,
+   "performance_score": 13.75
+ },
+ {
+   "zip_code": 82930,
+   "performance_score": 13.66666667
+ },
+ {
+   "zip_code": 44512,
+   "performance_score": 13.66666667
+ },
+ {
+   "zip_code": 46845,
+   "performance_score": 13.5
+ },
+ {
+   "zip_code": 74132,
+   "performance_score": 13.5
+ },
+ {
+   "zip_code": 83854,
+   "performance_score": 13.41666667
+ },
+ {
+   "zip_code": 80138,
+   "performance_score": 13.16666667
+ },
+ {
+   "zip_code": 74133,
+   "performance_score": 13.125
+ },
+ {
+   "zip_code": 35150,
+   "performance_score": 13
+ },
+ {
+   "zip_code": 70508,
+   "performance_score": 12.83333333
+ },
+ {
+   "zip_code": 29576,
+   "performance_score": 12.77777778
+ },
+ {
+   "zip_code": 53715,
+   "performance_score": 12.72727273
+ },
+ {
+   "zip_code": 54303,
+   "performance_score": 12.66666667
+ },
+ {
+   "zip_code": 54701,
+   "performance_score": 12.60416667
+ },
+ {
+   "zip_code": 54703,
+   "performance_score": 12.5
+ },
+ {
+   "zip_code": 53405,
+   "performance_score": 12.33333333
+ },
+ {
+   "zip_code": 53210,
+   "performance_score": 12.22222222
+ },
+ {
+   "zip_code": 73114,
+   "performance_score": 12.1875
+ },
+ {
+   "zip_code": 54476,
+   "performance_score": 12
+ },
+ {
+   "zip_code": 67002,
+   "performance_score": 11.875
+ },
+ {
+   "zip_code": 18017,
+   "performance_score": 11.83333333
+ },
+ {
+   "zip_code": 30263,
+   "performance_score": 11.5625
+ },
+ {
+   "zip_code": 89113,
+   "performance_score": 11.5
+ },
+ {
+   "zip_code": 75093,
+   "performance_score": 11.41666667
+ },
+ {
+   "zip_code": 46307,
+   "performance_score": 11.36363636
+ },
+ {
+   "zip_code": 47630,
+   "performance_score": 11.33333333
+ },
+ {
+   "zip_code": 72703,
+   "performance_score": 11.25
+ },
+ {
+   "zip_code": 19020,
+   "performance_score": 11.16666667
+ },
+ {
+   "zip_code": 84060,
+   "performance_score": 11.16666667
+ },
+ {
+   "zip_code": 46545,
+   "performance_score": 10.9375
+ },
+ {
+   "zip_code": 32456,
+   "performance_score": 10.45454545
+ },
+ {
+   "zip_code": 90650,
+   "performance_score": 10.16666667
+ },
+ {
+   "zip_code": 45431,
+   "performance_score": 10
+ },
+ {
+   "zip_code": 30265,
+   "performance_score": 10
+ },
+ {
+   "zip_code": 85120,
+   "performance_score": 10
+ },
+ {
+   "zip_code": 38901,
+   "performance_score": 8.25
+ },
+ {
+   "zip_code": 90806,
+   "performance_score": 8.125
+ },
+ {
+   "zip_code": 94577,
+   "performance_score": 4.090909091
+ },
+ {
+   "zip_code": 92354,
+   "performance_score": 2.727272727
+ }
+]
