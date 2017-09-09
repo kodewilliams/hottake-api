@@ -4,7 +4,7 @@
 ### API Documentation
 
 | Route | Parameters |
-| _____ | __________ |
+| ----- | ---------- |
 | GET/safety | ZIP code (#), safety score (0-5) |
 | GET/infection | ZIP code, infection score (0-5)|
 | GET/prevention | ZIP code, prevention score (0-5) |
