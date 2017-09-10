@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "body-parser": "^1.18.0",
+    "cors": "^2.8.4",
     "csv-parser": "^1.11.0",
     "csvjson": "^4.3.4",
     "csvtojson": "^1.1.7",

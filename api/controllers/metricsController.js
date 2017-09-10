@@ -20,25 +20,25 @@ var searchableByZipCode = function(req, res, data) {
 
 
 // Returns all the safety data in JSON format.
-module.exports.safety = function(req, res) {
+module.exports.safety = function(req, res, next) {
 	data = JSON.parse(fs.readFileSync('data/json/safety-data.json', { encoding : 'utf8' }));
 	searchableByZipCode(req, res, data);
 };
 
 // Returns all the infection data in JSON format.
-module.exports.infection = function(req, res) {
+module.exports.infection = function(req, res, next) {
   data = JSON.parse(fs.readFileSync('data/json/infection-data.json', { encoding : 'utf8' }));
 	searchableByZipCode(req, res, data);
 };
 
 // Returns all the prevention data in JSON format.
-module.exports.prevention = function(req, res) {
+module.exports.prevention = function(req, res, next) {
   data = JSON.parse(fs.readFileSync('data/json/prevention-data.json', { encoding : 'utf8' }));
 	searchableByZipCode(req, res, data);
 };
 
 // Returns all the immunization data in JSON format.
-module.exports.immunization = function(req, res) {
+module.exports.immunization = function(req, res, next) {
 	data = JSON.parse(fs.readFileSync('data/json/immunization-data.json', { encoding : 'utf8' }));
 
 	// Check for URL param state symbol
@@ -56,13 +56,13 @@ module.exports.immunization = function(req, res) {
 };
 
 // Returns all the hospital performance data in JSON format. (govt)
-module.exports.performance = function(req, res) {
+module.exports.performance = function(req, res, next) {
 	data = JSON.parse(fs.readFileSync('data/json/performance-data.json', { encoding : 'utf8' }));
 	searchableByZipCode(req, res, data);
 };
 
 // Returns all the hospital patient ratings in JSON format.
-module.exports.ratings = function(req, res) {
+module.exports.ratings = function(req, res, next) {
 	data = JSON.parse(fs.readFileSync('data/json/ratings-data.json', { encoding : 'utf8' }));
 	searchableByZipCode(req, res, data);
 };
