@@ -16,6 +16,9 @@
 Send queries as JSON or www-form-urlencoded only.
 
 
+### Authors
+Kode Williams, Timothy Hitchener (Howard University)
+
 
 ### Contributors
 
